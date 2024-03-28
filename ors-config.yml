@@ -1,0 +1,40 @@
+##### openrouteservice settings file #####
+# This file contains parameters for openrouteservice.
+# For a full list of possible parameters see https://giscience.github.io/openrouteservice/run-instance/configuration/
+
+ors:
+  engine:
+    source_file: /home/ors/files/data.osm.pbf
+    profiles:
+      hgv:
+       enabled: true
+       profile: driving-hgv
+       encoder_flags_size: 8
+       encoder_options:
+         turn_costs: true
+         block_fords: false
+         use_acceleration: true
+       maximum_distance: 100000
+       elevation: true
+       preparation:
+         min_network_size: 200
+         methods:
+           ch:
+             enabled: true
+             threads: 1
+             weightings: recommended
+           core:
+             enabled: true
+             threads: 1
+             weightings: recommended,shortest
+             landmarks: 64
+             lmsets: highways;allow_all
+       execution:
+         methods:
+           core:
+             active_landmarks: 6
+       ext_storages:
+         WayCategory:
+         HeavyVehicle:
+           restrictions: true
+         WaySurfaceType:
