@@ -14,7 +14,7 @@ jobs:
   call-workflow:
     uses: mbta/workflows/.github/workflows/deploy-ecs.yml@v2
     with:
-      app-name: __app_name__
+      app-name: ors
       environment: ${{ github.event.inputs.environment || 'dev' }}
     secrets:
       aws-role-arn: ${{ secrets.AWS_ROLE_ARN }}
