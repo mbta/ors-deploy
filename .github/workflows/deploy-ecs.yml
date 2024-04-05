@@ -15,6 +15,7 @@ jobs:
     uses: mbta/workflows/.github/workflows/deploy-ecs.yml@v2
     concurrency:
       group: ${{ github.event.inputs.environment || 'dev' }}
+      cancel-in-progress: true
     with:
       app-name: ors
       environment: ${{ github.event.inputs.environment || 'dev' }}
