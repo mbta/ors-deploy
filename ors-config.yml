@@ -44,3 +44,9 @@ ors:
          HeavyVehicle:
            restrictions: true
          WaySurfaceType:
+
+logging:
+  level:
+    root: DEBUG
+    org:
+      heigit: INFO
