@@ -2,11 +2,6 @@ name: Deploy to Dev
 
 on:
   workflow_dispatch:
-    inputs:
-      environment:
-        type: environment
-        required: true
-        default: dev
   push:
     branches: ["main"]
 
@@ -15,7 +10,7 @@ jobs:
     uses: mbta/workflows/.github/workflows/deploy-ecs.yml@v2
     with:
       app-name: ors
-      environment: ${{ github.event.inputs.environment || 'dev' }}
+      environment: dev
     secrets:
       aws-role-arn: ${{ secrets.AWS_ROLE_ARN }}
       docker-repo: ${{ secrets.DOCKER_REPO }}
