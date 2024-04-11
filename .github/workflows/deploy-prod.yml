@@ -1,0 +1,15 @@
+name: Deploy to Prod
+
+on:
+  workflow_dispatch:
+
+jobs:
+  call-workflow:
+    uses: mbta/workflows/.github/workflows/deploy-ecs.yml@v2
+    with:
+      app-name: ors
+      environment: prod
+    secrets:
+      aws-role-arn: ${{ secrets.AWS_ROLE_ARN }}
+      docker-repo: ${{ secrets.DOCKER_REPO }}
+      slack-webhook: ${{ secrets.SLACK_WEBHOOK }}
