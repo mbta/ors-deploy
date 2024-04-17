@@ -2,6 +2,12 @@ name: Deploy to Prod
 
 on:
   workflow_dispatch:
+  push:
+    branches: ["main"]
+  schedule:
+    # Runs every Monday and Thursday at 15:39 UTC, which is either
+    # 10:49 AM or 11:49 AM ET, depending on Daylight Savings Time.
+    - cron: "49 15 * * 1,4"
 
 jobs:
   call-workflow:

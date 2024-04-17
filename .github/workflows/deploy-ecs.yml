@@ -4,6 +4,12 @@ on:
   workflow_dispatch:
   push:
     branches: ["main"]
+  schedule:
+    # Runs every Monday and Thursday at 15:39 UTC, which is either
+    # 8:49 AM or 9:49 AM ET, depending on Daylight Savings Time. This
+    # is two hours before the prod deploy, so we can see how dev is
+    # doing before approving a prod deploy.
+    - cron: "49 13 * * 1,4"
 
 jobs:
   call-workflow:
