@@ -12,5 +12,7 @@ RUN /preparation.sh
 
 FROM openrouteservice/openrouteservice:v${OPEN_ROUTE_SERVICE_VERSION}
 
+RUN apk upgrade --no-cache -f --purge
+
 COPY --from=builder /home/ors/graphs graphs
 COPY ors-config.yml config/ors-config.yml
