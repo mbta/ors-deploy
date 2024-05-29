@@ -1,6 +1,6 @@
 ARG OPEN_ROUTE_SERVICE_VERSION=8.0.1
 
-FROM openrouteservice/openrouteservice:v${OPEN_ROUTE_SERVICE_VERSION} AS builder
+FROM --platform=$BUILDPLATFORM openrouteservice/openrouteservice:v${OPEN_ROUTE_SERVICE_VERSION} AS builder
 
 COPY preparation.sh /preparation.sh
 
