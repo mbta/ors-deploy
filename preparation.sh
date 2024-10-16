@@ -8,7 +8,7 @@ export ORS_SERVICES_ROUTING_MODE=preparation
 entrypoint_pid=$!
 
 # Wait for the server to stop or become healthy...
-while kill -0 $entrypoint_pid > /dev/null && ! wget --quiet -O /dev/null http://localhost:8082/ors/v2/health; do
+while kill -0 $entrypoint_pid >/dev/null && ! wget --quiet -O /dev/null http://localhost:8082/ors/v2/health; do
     sleep 5
 done
 

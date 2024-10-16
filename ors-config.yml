@@ -5,9 +5,19 @@
 ors:
   engine:
     source_file: /home/ors/files/data.osm.pbf
+    elevation:
+      # Disabling elevation for now because ORS tries to download
+      # elevation data from URL's that are not always available,
+      # which sometimes raises SocketTimeoutException's and prevents
+      # ORS from starting. See
+      # https://github.com/GIScience/openrouteservice/issues?q=is%3Aissue+java.net.SocketTimeoutException
+      # for more info
+      preprocessed: true
+
     profiles:
       car:
        enabled: true
+       elevation: false
 
       hgv:
        enabled: true
@@ -18,12 +28,6 @@ ors:
          block_fords: false
          use_acceleration: true
        maximum_distance: 100000
-       # Disabling elevation for now because ORS tries to download
-       # elevation data from URL's that are not always available,
-       # which sometimes raises SocketTimeoutException's and prevents
-       # ORS from starting. See
-       # https://github.com/GIScience/openrouteservice/issues?q=is%3Aissue+java.net.SocketTimeoutException
-       # for more info
        elevation: false
        preparation:
          min_network_size: 200
