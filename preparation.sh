@@ -1,8 +1,13 @@
 #!/usr/bin/env bash
+set -e
 
 export REBUILD_GRAPHS=true
 export ORS_ENGINE_PREPARATION_MODE=true
 export ORS_SERVICES_ROUTING_MODE=preparation
+
+mv files/data.osm.pbf original.pbf
+osmconvert -v original.pbf --parameter-file=/parameter-file -o=files/data.osm.pbf
+rm original.pbf
 
 /entrypoint.sh &
 entrypoint_pid=$!
