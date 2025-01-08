@@ -21,5 +21,5 @@ echo Built graph, stopping server...
 kill $entrypoint_pid || true
 
 echo Checking that graphs were built...
-test -d graphs/car || exit 1
-test -d graphs/hgv || exit 1
+test -f graphs/driving-car/stamp.txt || exit 1
+test -f graphs/driving-hgv/stamp.txt || exit 1
