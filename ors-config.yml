@@ -4,7 +4,9 @@
 
 ors:
   engine:
-    source_file: /home/ors/files/data.osm.pbf
+    profile_default:
+      build:
+        source_file: /home/ors/files/data.osm.pbf
     elevation:
       # Disabling elevation for now because ORS tries to download
       # elevation data from URL's that are not always available,
@@ -15,42 +17,46 @@ ors:
       preprocessed: true
 
     profiles:
-      car:
-       enabled: true
-       elevation: false
+      driving-car:
+        enabled: true
+        encoder_name: driving-car
+        build:
+          elevation: false
 
-      hgv:
-       enabled: true
-       profile: driving-hgv
-       encoder_flags_size: 8
-       encoder_options:
-         turn_costs: true
-         block_fords: false
-         use_acceleration: true
+      driving-hgv:
+        enabled: true
+        encoder_name: driving-hgv
+        build:
+          encoder_flags_size: 8
+          encoder_options:
+            turn_costs: true
+            block_fords: false
+            use_acceleration: true
+          elevation: false
+          preparation:
+            min_network_size: 200
+            methods:
+              ch:
+                enabled: true
+                threads: 1
+                weightings: recommended
+              core:
+                enabled: true
+                threads: 1
+                weightings: recommended,shortest
+                landmarks: 64
+                lmsets: highways;allow_all
+          ext_storages:
+            WayCategory:
+            HeavyVehicle:
+              restrictions: true
+            WaySurfaceType:
+      service:
        maximum_distance: 100000
-       elevation: false
-       preparation:
-         min_network_size: 200
-         methods:
-           ch:
-             enabled: true
-             threads: 1
-             weightings: recommended
-           core:
-             enabled: true
-             threads: 1
-             weightings: recommended,shortest
-             landmarks: 64
-             lmsets: highways;allow_all
        execution:
          methods:
            core:
              active_landmarks: 6
-       ext_storages:
-         WayCategory:
-         HeavyVehicle:
-           restrictions: true
-         WaySurfaceType:
 
 logging:
   level:
