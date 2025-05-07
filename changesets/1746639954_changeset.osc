@@ -1,0 +1,1169 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+	<way id="8637871" version="18" timestamp="2024-08-20T19:56:37Z" changeset="0">
+		<nd ref="61360049"/>
+		<nd ref="61360051"/>
+		<nd ref="61360064"/>
+		<nd ref="61360067"/>
+		<nd ref="61360059"/>
+		<nd ref="61360061"/>
+		<nd ref="6585254951"/>
+		<nd ref="6585254944"/>
+		<nd ref="61360117"/>
+		<tag k="alt_name" v="VFW Parkway"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:right" v="lane"/>
+		<tag k="cycleway:right:buffer" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:ref" v="0 N411"/>
+		<tag k="massgis:way_id" v="168195"/>
+		<tag k="name" v="Veterans of Foreign Wars Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="VFW Parkway"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="width" v="45.7"/>
+	</way>
+	<way id="8646395" version="22" timestamp="2024-08-20T19:56:37Z" changeset="0">
+		<nd ref="61594807"/>
+		<nd ref="61588925"/>
+		<nd ref="3403175312"/>
+		<nd ref="61588929"/>
+		<nd ref="61588933"/>
+		<nd ref="61588941"/>
+		<nd ref="61588946"/>
+		<nd ref="61588949"/>
+		<nd ref="61588956"/>
+		<nd ref="61588961"/>
+		<nd ref="61450591"/>
+		<nd ref="61450597"/>
+		<nd ref="61450603"/>
+		<nd ref="61450615"/>
+		<nd ref="61450609"/>
+		<nd ref="61450627"/>
+		<nd ref="61450621"/>
+		<nd ref="61450636"/>
+		<nd ref="61450632"/>
+		<nd ref="61450648"/>
+		<nd ref="61450641"/>
+		<nd ref="61450657"/>
+		<nd ref="61450651"/>
+		<nd ref="61450670"/>
+		<nd ref="61450663"/>
+		<nd ref="6585254898"/>
+		<nd ref="6585254899"/>
+		<nd ref="61450683"/>
+		<nd ref="6585254910"/>
+		<nd ref="61450676"/>
+		<nd ref="6585254909"/>
+		<nd ref="61450693"/>
+		<nd ref="6585254908"/>
+		<nd ref="61450690"/>
+		<nd ref="6585254906"/>
+		<nd ref="61450396"/>
+		<nd ref="6585254907"/>
+		<tag k="alt_name" v="VFW Parkway"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:right" v="lane"/>
+		<tag k="cycleway:right:buffer" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:ref" v="0 N411"/>
+		<tag k="massgis:way_id" v="178925"/>
+		<tag k="name" v="Veterans of Foreign Wars Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="VFW Parkway"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="width" v="31.1"/>
+	</way>
+	<way id="8646446" version="26" timestamp="2024-08-20T19:56:37Z" changeset="0">
+		<nd ref="61354355"/>
+		<nd ref="61456900"/>
+		<nd ref="61456801"/>
+		<nd ref="5847677613"/>
+		<nd ref="9233537517"/>
+		<nd ref="61456797"/>
+		<nd ref="61456812"/>
+		<nd ref="61456807"/>
+		<nd ref="61456782"/>
+		<nd ref="61456780"/>
+		<nd ref="61456792"/>
+		<nd ref="61456786"/>
+		<nd ref="7983877395"/>
+		<nd ref="61456842"/>
+		<nd ref="61456838"/>
+		<nd ref="61456854"/>
+		<nd ref="61456848"/>
+		<nd ref="61456821"/>
+		<nd ref="61516678"/>
+		<nd ref="61516677"/>
+		<nd ref="61516675"/>
+		<nd ref="61516673"/>
+		<nd ref="5850992248"/>
+		<nd ref="61516685"/>
+		<nd ref="61516683"/>
+		<nd ref="61516682"/>
+		<nd ref="61516680"/>
+		<nd ref="61516364"/>
+		<nd ref="61516363"/>
+		<nd ref="61516368"/>
+		<nd ref="61516366"/>
+		<nd ref="4259096792"/>
+		<tag k="alt_name" v="VFW Parkway"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:right" v="lane"/>
+		<tag k="cycleway:right:buffer" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:ref" v="0 N411"/>
+		<tag k="massgis:way_id" v="168195"/>
+		<tag k="name" v="Veterans of Foreign Wars Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="VFW Parkway"/>
+		<tag k="sidewalk:left" v="no"/>
+		<tag k="sidewalk:right" v="separate"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="43.9"/>
+	</way>
+	<way id="8646572" version="18" timestamp="2024-08-20T19:56:37Z" changeset="0">
+		<nd ref="61367801"/>
+		<nd ref="6585254931"/>
+		<nd ref="61354358"/>
+		<nd ref="5458848683"/>
+		<nd ref="61354353"/>
+		<nd ref="5458848679"/>
+		<nd ref="5847677599"/>
+		<nd ref="61354352"/>
+		<nd ref="61354355"/>
+		<tag k="alt_name" v="VFW Parkway"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:right" v="lane"/>
+		<tag k="cycleway:right:buffer" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:ref" v="0 N411"/>
+		<tag k="massgis:way_id" v="168195"/>
+		<tag k="name" v="Veterans of Foreign Wars Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="VFW Parkway"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="width" v="30.8"/>
+	</way>
+	<way id="8646652" version="23" timestamp="2024-10-25T18:37:39Z" changeset="0">
+		<nd ref="61355246"/>
+		<nd ref="61355140"/>
+		<nd ref="5543792327"/>
+		<nd ref="61355137"/>
+		<nd ref="1527824736"/>
+		<nd ref="61355142"/>
+		<nd ref="6585254905"/>
+		<nd ref="61355141"/>
+		<nd ref="61355144"/>
+		<nd ref="5456682335"/>
+		<tag k="alt_name" v="VFW Parkway"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:right" v="lane"/>
+		<tag k="cycleway:right:buffer" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="178925"/>
+		<tag k="name" v="Veterans of Foreign Wars Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="rcn_ref" v="1"/>
+		<tag k="short_name" v="VFW Parkway"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="width" v="31.1"/>
+	</way>
+	<way id="8648385" version="21" timestamp="2024-08-20T19:56:37Z" changeset="0">
+		<nd ref="61385239"/>
+		<nd ref="6585254949"/>
+		<nd ref="8317299487"/>
+		<nd ref="61595057"/>
+		<nd ref="11128494206"/>
+		<nd ref="6585254950"/>
+		<nd ref="61595050"/>
+		<nd ref="11128494198"/>
+		<nd ref="61595048"/>
+		<nd ref="61594972"/>
+		<nd ref="61595145"/>
+		<nd ref="61595141"/>
+		<nd ref="61595134"/>
+		<nd ref="61595125"/>
+		<nd ref="8317299472"/>
+		<nd ref="61406546"/>
+		<nd ref="61406557"/>
+		<nd ref="61406554"/>
+		<nd ref="61406564"/>
+		<nd ref="61406561"/>
+		<nd ref="61406570"/>
+		<nd ref="61406567"/>
+		<tag k="alt_name" v="VFW Parkway"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:right" v="lane"/>
+		<tag k="cycleway:right:buffer" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="168195"/>
+		<tag k="name" v="Veterans of Foreign Wars Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="VFW Parkway"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="width" v="45.7"/>
+	</way>
+	<way id="8648397" version="22" timestamp="2024-11-15T18:17:21Z" changeset="0">
+		<nd ref="61367425"/>
+		<nd ref="9227501498"/>
+		<nd ref="61408349"/>
+		<nd ref="61408370"/>
+		<nd ref="61408376"/>
+		<nd ref="61408366"/>
+		<nd ref="1055930632"/>
+		<nd ref="7662658897"/>
+		<nd ref="61408294"/>
+		<nd ref="61408308"/>
+		<nd ref="61408302"/>
+		<nd ref="5835786901"/>
+		<nd ref="10079173185"/>
+		<nd ref="61408324"/>
+		<nd ref="10079173194"/>
+		<nd ref="61408328"/>
+		<nd ref="4616503587"/>
+		<tag k="alt_name" v="VFW Parkway"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="168195"/>
+		<tag k="name" v="Veterans of Foreign Wars Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="VFW Parkway"/>
+		<tag k="sidewalk:left" v="no"/>
+		<tag k="sidewalk:right" v="yes"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="source:hgv" v="MassGIS"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="25.6"/>
+	</way>
+	<way id="8649749" version="19" timestamp="2024-08-20T19:56:37Z" changeset="0">
+		<nd ref="63590474"/>
+		<nd ref="61582405"/>
+		<nd ref="61582414"/>
+		<nd ref="61582422"/>
+		<nd ref="61582427"/>
+		<nd ref="61582429"/>
+		<nd ref="61358571"/>
+		<nd ref="61582431"/>
+		<nd ref="9210073100"/>
+		<nd ref="61582480"/>
+		<nd ref="3403175314"/>
+		<nd ref="61588914"/>
+		<nd ref="61588921"/>
+		<tag k="alt_name" v="VFW Parkway"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:right" v="lane"/>
+		<tag k="cycleway:right:buffer" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:ref" v="0 N411"/>
+		<tag k="massgis:way_id" v="201813"/>
+		<tag k="name" v="Veterans of Foreign Wars Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="VFW Parkway"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="width" v="31.1"/>
+	</way>
+	<way id="8650086" version="18" timestamp="2024-10-25T18:37:39Z" changeset="0">
+		<nd ref="61393097"/>
+		<nd ref="61592985"/>
+		<nd ref="61592979"/>
+		<nd ref="9233537518"/>
+		<nd ref="61592974"/>
+		<nd ref="61393178"/>
+		<nd ref="61453429"/>
+		<nd ref="61453435"/>
+		<nd ref="61453419"/>
+		<nd ref="61453422"/>
+		<nd ref="61453409"/>
+		<nd ref="61453415"/>
+		<nd ref="61595069"/>
+		<nd ref="6358410981"/>
+		<nd ref="61595062"/>
+		<nd ref="6585254948"/>
+		<nd ref="61385236"/>
+		<nd ref="6585254946"/>
+		<tag k="alt_name" v="VFW Parkway"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:right" v="lane"/>
+		<tag k="cycleway:right:buffer" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="168195"/>
+		<tag k="name" v="Veterans of Foreign Wars Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="VFW Parkway"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="width" v="30.8"/>
+	</way>
+	<way id="8651588" version="23" timestamp="2024-08-20T19:56:37Z" changeset="0">
+		<nd ref="61360881"/>
+		<nd ref="9212197011"/>
+		<nd ref="61407962"/>
+		<nd ref="61407940"/>
+		<nd ref="61407937"/>
+		<nd ref="61407948"/>
+		<nd ref="61407943"/>
+		<nd ref="61407997"/>
+		<nd ref="61407994"/>
+		<nd ref="61450346"/>
+		<nd ref="61450349"/>
+		<nd ref="61450341"/>
+		<nd ref="61450343"/>
+		<nd ref="61450297"/>
+		<nd ref="61450293"/>
+		<nd ref="61450288"/>
+		<nd ref="61450286"/>
+		<nd ref="61450316"/>
+		<nd ref="61450373"/>
+		<nd ref="61450335"/>
+		<nd ref="61450338"/>
+		<nd ref="61450320"/>
+		<nd ref="61450328"/>
+		<nd ref="61393097"/>
+		<tag k="alt_name" v="VFW Parkway"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:right" v="lane"/>
+		<tag k="cycleway:right:buffer" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="168195"/>
+		<tag k="name" v="Veterans of Foreign Wars Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="VFW Parkway"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="43.9"/>
+	</way>
+	<way id="8652056" version="18" timestamp="2024-08-20T19:56:37Z" changeset="0">
+		<nd ref="61496547"/>
+		<nd ref="61496584"/>
+		<nd ref="61496577"/>
+		<nd ref="9210073101"/>
+		<nd ref="61496571"/>
+		<nd ref="61496564"/>
+		<nd ref="61496599"/>
+		<nd ref="61496594"/>
+		<nd ref="61496591"/>
+		<nd ref="61401514"/>
+		<tag k="alt_name" v="VFW Parkway"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:right" v="lane"/>
+		<tag k="cycleway:right:buffer" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="201813"/>
+		<tag k="name" v="Veterans of Foreign Wars Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="VFW Parkway"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="width" v="31.1"/>
+	</way>
+	<way id="8815411" version="18" timestamp="2024-08-20T19:56:37Z" changeset="0">
+		<nd ref="63529378"/>
+		<nd ref="63588119"/>
+		<nd ref="63543742"/>
+		<nd ref="9688863217"/>
+		<nd ref="9210073128"/>
+		<nd ref="63525079"/>
+		<nd ref="9210073194"/>
+		<nd ref="63553463"/>
+		<nd ref="63529518"/>
+		<nd ref="63527463"/>
+		<nd ref="63541341"/>
+		<nd ref="12068977381"/>
+		<nd ref="63585270"/>
+		<nd ref="63576414"/>
+		<tag k="alt_name" v="VFW Parkway"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:right" v="lane"/>
+		<tag k="cycleway:right:buffer" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="175700"/>
+		<tag k="name" v="Veterans of Foreign Wars Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="VFW Parkway"/>
+		<tag k="source" v="massgis_import_v0.1_20071009101959"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="42.7"/>
+	</way>
+	<way id="8815412" version="19" timestamp="2024-12-18T12:05:01Z" changeset="0">
+		<nd ref="63532448"/>
+		<nd ref="9210073127"/>
+		<nd ref="63556930"/>
+		<nd ref="63539744"/>
+		<nd ref="63590474"/>
+		<tag k="alt_name" v="VFW Parkway"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:right" v="lane"/>
+		<tag k="cycleway:right:buffer" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="175700"/>
+		<tag k="name" v="Veterans of Foreign Wars Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="VFW Parkway"/>
+		<tag k="source" v="massgis_import_v0.1_20071009101959"/>
+		<tag k="width" v="42.7"/>
+	</way>
+	<way id="426634817" version="16" timestamp="2024-08-20T19:56:37Z" changeset="0">
+		<nd ref="61367229"/>
+		<nd ref="61361790"/>
+		<nd ref="5456485599"/>
+		<nd ref="5456485593"/>
+		<nd ref="61361799"/>
+		<nd ref="61361361"/>
+		<nd ref="61361364"/>
+		<tag k="alt_name" v="VFW Parkway"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:right" v="lane"/>
+		<tag k="cycleway:right:buffer" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:ref" v="0 N411"/>
+		<tag k="massgis:way_id" v="168195"/>
+		<tag k="name" v="Veterans of Foreign Wars Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="VFW Parkway"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="width" v="43.9"/>
+	</way>
+	<way id="426634818" version="17" timestamp="2024-08-20T19:56:37Z" changeset="0">
+		<nd ref="4259091469"/>
+		<nd ref="9518289279"/>
+		<nd ref="9212224235"/>
+		<nd ref="61360746"/>
+		<tag k="alt_name" v="VFW Parkway"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:right" v="shared_lane"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="3"/>
+		<tag k="massgis:ref" v="0 N411"/>
+		<tag k="massgis:way_id" v="168195"/>
+		<tag k="name" v="Veterans of Foreign Wars Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="VFW Parkway"/>
+		<tag k="sidewalk:left" v="no"/>
+		<tag k="sidewalk:right" v="separate"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="left||"/>
+		<tag k="width" v="43.9"/>
+	</way>
+	<way id="426634819" version="16" timestamp="2024-08-20T19:56:37Z" changeset="0">
+		<nd ref="4259091472"/>
+		<nd ref="9654364802"/>
+		<nd ref="9210534599"/>
+		<nd ref="61364271"/>
+		<tag k="alt_name" v="VFW Parkway"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:right" v="shared_lane"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="3"/>
+		<tag k="massgis:ref" v="0 N411"/>
+		<tag k="massgis:way_id" v="168195"/>
+		<tag k="name" v="Veterans of Foreign Wars Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="VFW Parkway"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="left||"/>
+		<tag k="width" v="43.9"/>
+	</way>
+	<way id="426634820" version="18" timestamp="2024-08-20T19:56:37Z" changeset="0">
+		<nd ref="63576414"/>
+		<nd ref="61402999"/>
+		<nd ref="61403012"/>
+		<nd ref="61403009"/>
+		<nd ref="61405662"/>
+		<nd ref="5456485645"/>
+		<nd ref="6585254922"/>
+		<nd ref="61594815"/>
+		<nd ref="6585254921"/>
+		<nd ref="61595187"/>
+		<nd ref="6585254920"/>
+		<nd ref="61595193"/>
+		<nd ref="9574114041"/>
+		<nd ref="9210350593"/>
+		<nd ref="61361808"/>
+		<tag k="alt_name" v="VFW Parkway"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:right" v="lane"/>
+		<tag k="cycleway:right:buffer" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="168195"/>
+		<tag k="name" v="Veterans of Foreign Wars Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="VFW Parkway"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="43.9"/>
+	</way>
+	<way id="426634821" version="16" timestamp="2024-08-20T19:56:37Z" changeset="0">
+		<nd ref="4259091471"/>
+		<nd ref="61403041"/>
+		<nd ref="9518289278"/>
+		<nd ref="9212224232"/>
+		<nd ref="61365452"/>
+		<tag k="alt_name" v="VFW Parkway"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:right" v="shared_lane"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="3"/>
+		<tag k="massgis:way_id" v="168195"/>
+		<tag k="name" v="Veterans of Foreign Wars Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="VFW Parkway"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="left||"/>
+		<tag k="width" v="43.9"/>
+	</way>
+	<way id="426634822" version="17" timestamp="2024-10-25T18:26:47Z" changeset="0">
+		<nd ref="61360746"/>
+		<nd ref="9212224231"/>
+		<nd ref="61522045"/>
+		<nd ref="61373345"/>
+		<nd ref="61367254"/>
+		<nd ref="61518875"/>
+		<nd ref="61365510"/>
+		<nd ref="61359971"/>
+		<nd ref="61359973"/>
+		<tag k="alt_name" v="VFW Parkway"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:right" v="lane"/>
+		<tag k="cycleway:right:buffer" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:ref" v="0 N411"/>
+		<tag k="massgis:way_id" v="168195"/>
+		<tag k="name" v="Veterans of Foreign Wars Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="VFW Parkway"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="43.9"/>
+	</way>
+	<way id="426634962" version="14" timestamp="2024-07-23T00:04:15Z" changeset="0">
+		<nd ref="4259091487"/>
+		<nd ref="9654364801"/>
+		<nd ref="9210534594"/>
+		<nd ref="61364446"/>
+		<tag k="alt_name" v="VFW Parkway"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:right" v="shared_lane"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="3"/>
+		<tag k="massgis:way_id" v="168195"/>
+		<tag k="name" v="Veterans of Foreign Wars Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="VFW Parkway"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="left||"/>
+		<tag k="width" v="43.9"/>
+	</way>
+	<way id="426634963" version="17" timestamp="2024-10-25T18:26:47Z" changeset="0">
+		<nd ref="61364446"/>
+		<nd ref="9210534600"/>
+		<nd ref="61402990"/>
+		<nd ref="61402982"/>
+		<nd ref="61357062"/>
+		<tag k="alt_name" v="VFW Parkway"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:right" v="lane"/>
+		<tag k="cycleway:right:buffer" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="168195"/>
+		<tag k="name" v="Veterans of Foreign Wars Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="VFW Parkway"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="43.9"/>
+	</way>
+	<way id="426635445" version="16" timestamp="2024-08-20T19:56:37Z" changeset="0">
+		<nd ref="61347930"/>
+		<nd ref="9212224250"/>
+		<nd ref="61572902"/>
+		<nd ref="61572908"/>
+		<nd ref="61572930"/>
+		<nd ref="61572931"/>
+		<nd ref="61572920"/>
+		<nd ref="61572924"/>
+		<nd ref="61360751"/>
+		<tag k="alt_name" v="VFW Parkway"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:right" v="lane"/>
+		<tag k="cycleway:right:buffer" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:ref" v="0 N411"/>
+		<tag k="massgis:way_id" v="168195"/>
+		<tag k="name" v="Veterans of Foreign Wars Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="VFW Parkway"/>
+		<tag k="sidewalk:left" v="no"/>
+		<tag k="sidewalk:right" v="separate"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="43.9"/>
+	</way>
+	<way id="426635446" version="15" timestamp="2024-07-23T00:04:15Z" changeset="0">
+		<nd ref="4259096793"/>
+		<nd ref="61595204"/>
+		<nd ref="12068977379"/>
+		<nd ref="9652981865"/>
+		<nd ref="9212224251"/>
+		<tag k="alt_name" v="VFW Parkway"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="3"/>
+		<tag k="massgis:way_id" v="168195"/>
+		<tag k="name" v="Veterans of Foreign Wars Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="VFW Parkway"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="left||"/>
+		<tag k="width" v="43.9"/>
+	</way>
+	<way id="426635447" version="15" timestamp="2024-08-20T19:56:37Z" changeset="0">
+		<nd ref="4259096792"/>
+		<nd ref="61516358"/>
+		<nd ref="9212197010"/>
+		<nd ref="61347930"/>
+		<tag k="alt_name" v="VFW Parkway"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="3"/>
+		<tag k="massgis:ref" v="0 N411"/>
+		<tag k="massgis:way_id" v="168195"/>
+		<tag k="name" v="Veterans of Foreign Wars Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="VFW Parkway"/>
+		<tag k="sidewalk:left" v="no"/>
+		<tag k="sidewalk:right" v="separate"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="turn:lanes" v="left||"/>
+		<tag k="width" v="43.9"/>
+	</way>
+	<way id="426635448" version="17" timestamp="2024-10-25T18:37:39Z" changeset="0">
+		<nd ref="61365452"/>
+		<nd ref="9212224236"/>
+		<nd ref="61595209"/>
+		<nd ref="61543792"/>
+		<nd ref="61543775"/>
+		<nd ref="61595214"/>
+		<nd ref="61595197"/>
+		<nd ref="4259096793"/>
+		<tag k="alt_name" v="VFW Parkway"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:right" v="lane"/>
+		<tag k="cycleway:right:buffer" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="168195"/>
+		<tag k="name" v="Veterans of Foreign Wars Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="VFW Parkway"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="43.9"/>
+	</way>
+	<way id="591277988" version="16" timestamp="2024-08-20T19:56:37Z" changeset="0">
+		<nd ref="9972775505"/>
+		<nd ref="61369070"/>
+		<nd ref="61369077"/>
+		<nd ref="61369053"/>
+		<nd ref="61369063"/>
+		<nd ref="9574114042"/>
+		<nd ref="9212260434"/>
+		<nd ref="61361813"/>
+		<tag k="alt_name" v="VFW Parkway"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:right" v="shared_lane"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:ref" v="0 N411"/>
+		<tag k="massgis:way_id" v="168195"/>
+		<tag k="maxspeed" v="35 mph"/>
+		<tag k="name" v="Veterans of Foreign Wars Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="VFW Parkway"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="43.9"/>
+	</way>
+	<way id="591277989" version="13" timestamp="2024-08-20T19:56:37Z" changeset="0">
+		<nd ref="61361808"/>
+		<nd ref="9212260435"/>
+		<nd ref="61595174"/>
+		<nd ref="61595180"/>
+		<nd ref="61595165"/>
+		<nd ref="61595169"/>
+		<nd ref="61507408"/>
+		<tag k="alt_name" v="VFW Parkway"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:right" v="lane"/>
+		<tag k="cycleway:right:buffer" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="168195"/>
+		<tag k="name" v="Veterans of Foreign Wars Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="VFW Parkway"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="43.9"/>
+	</way>
+	<way id="591278046" version="11" timestamp="2024-08-20T19:56:37Z" changeset="0">
+		<nd ref="6585254946"/>
+		<nd ref="6756024962"/>
+		<nd ref="6585254939"/>
+		<nd ref="61385239"/>
+		<tag k="alt_name" v="VFW Parkway"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:right" v="shared_lane"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="3"/>
+		<tag k="massgis:way_id" v="168195"/>
+		<tag k="name" v="Veterans of Foreign Wars Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="VFW Parkway"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="turn:lanes:forward" v="left||"/>
+		<tag k="width" v="45.7"/>
+	</way>
+	<way id="591278049" version="12" timestamp="2024-08-20T19:56:37Z" changeset="0">
+		<nd ref="61508966"/>
+		<nd ref="6585254932"/>
+		<nd ref="6585254947"/>
+		<nd ref="61367801"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:right" v="lane"/>
+		<tag k="cycleway:right:buffer" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:ref" v="0 N411"/>
+		<tag k="massgis:way_id" v="168195"/>
+		<tag k="name" v="Veterans of Foreign Wars Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="VFW Parkway"/>
+		<tag k="sidewalk:left" v="no"/>
+		<tag k="sidewalk:right" v="separate"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="width" v="45.7"/>
+	</way>
+	<way id="591278050" version="11" timestamp="2024-08-20T19:56:37Z" changeset="0">
+		<nd ref="61360117"/>
+		<nd ref="6585254943"/>
+		<nd ref="61508977"/>
+		<nd ref="61508973"/>
+		<nd ref="61508966"/>
+		<tag k="alt_name" v="VFW Parkway"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:right" v="lane"/>
+		<tag k="cycleway:right:buffer" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:ref" v="0 N411"/>
+		<tag k="massgis:way_id" v="168195"/>
+		<tag k="name" v="Veterans of Foreign Wars Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="VFW Parkway"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="width" v="45.7"/>
+	</way>
+	<way id="591278051" version="9" timestamp="2024-07-23T00:04:15Z" changeset="0">
+		<nd ref="61359656"/>
+		<nd ref="61359759"/>
+		<nd ref="61359762"/>
+		<nd ref="61359754"/>
+		<nd ref="61359756"/>
+		<nd ref="61359770"/>
+		<nd ref="61359771"/>
+		<nd ref="61360049"/>
+		<tag k="alt_name" v="VFW Parkway"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:right" v="lane"/>
+		<tag k="cycleway:right:buffer" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:ref" v="0 N411"/>
+		<tag k="massgis:way_id" v="168195"/>
+		<tag k="name" v="Veterans of Foreign Wars Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="VFW Parkway"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="width" v="45.7"/>
+	</way>
+	<way id="701195546" version="9" timestamp="2024-08-20T19:56:37Z" changeset="0">
+		<nd ref="5456682335"/>
+		<nd ref="6585254903"/>
+		<nd ref="6585254904"/>
+		<nd ref="61355143"/>
+		<nd ref="6585254914"/>
+		<nd ref="61355146"/>
+		<nd ref="5456682324"/>
+		<nd ref="61355145"/>
+		<nd ref="6585254913"/>
+		<nd ref="6585254911"/>
+		<nd ref="6585254912"/>
+		<nd ref="61355130"/>
+		<nd ref="6585254901"/>
+		<nd ref="6585254900"/>
+		<nd ref="61355129"/>
+		<nd ref="61355132"/>
+		<nd ref="61355131"/>
+		<nd ref="61355134"/>
+		<nd ref="61355133"/>
+		<nd ref="61355136"/>
+		<nd ref="61355135"/>
+		<nd ref="61355155"/>
+		<nd ref="61355156"/>
+		<nd ref="61355157"/>
+		<nd ref="61355158"/>
+		<nd ref="61355159"/>
+		<nd ref="61355160"/>
+		<nd ref="61355161"/>
+		<nd ref="61355162"/>
+		<nd ref="61355147"/>
+		<nd ref="6289890227"/>
+		<nd ref="61355148"/>
+		<nd ref="61355149"/>
+		<nd ref="61355150"/>
+		<nd ref="61355151"/>
+		<nd ref="3403175318"/>
+		<nd ref="61355152"/>
+		<nd ref="3403175317"/>
+		<nd ref="61355153"/>
+		<tag k="alt_name" v="VFW Parkway"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:right" v="lane"/>
+		<tag k="cycleway:right:buffer" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="178925"/>
+		<tag k="name" v="Veterans of Foreign Wars Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="rcn_ref" v="1"/>
+		<tag k="short_name" v="VFW Parkway"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="width" v="31.1"/>
+	</way>
+	<way id="701195547" version="11" timestamp="2024-10-25T18:37:39Z" changeset="0">
+		<nd ref="6585254907"/>
+		<nd ref="61450400"/>
+		<nd ref="61450387"/>
+		<nd ref="61450391"/>
+		<nd ref="9908412091"/>
+		<nd ref="5543792330"/>
+		<nd ref="61434396"/>
+		<tag k="alt_name" v="VFW Parkway"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:right" v="lane"/>
+		<tag k="cycleway:right:buffer" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:ref" v="0 N411"/>
+		<tag k="massgis:way_id" v="178925"/>
+		<tag k="name" v="Veterans of Foreign Wars Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="VFW Parkway"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="width" v="31.1"/>
+	</way>
+	<way id="892873616" version="7" timestamp="2024-07-23T00:04:15Z" changeset="0">
+		<nd ref="61361813"/>
+		<nd ref="9210350592"/>
+		<nd ref="6585254919"/>
+		<nd ref="61361821"/>
+		<nd ref="61361816"/>
+		<nd ref="61361794"/>
+		<tag k="alt_name" v="VFW Parkway"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:right" v="lane"/>
+		<tag k="cycleway:right:buffer" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:ref" v="0 N411"/>
+		<tag k="massgis:way_id" v="168195"/>
+		<tag k="name" v="Veterans of Foreign Wars Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="VFW Parkway"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="43.9"/>
+	</way>
+	<way id="892873617" version="5" timestamp="2024-07-23T00:04:15Z" changeset="0">
+		<nd ref="61361794"/>
+		<nd ref="6585254915"/>
+		<nd ref="6585254916"/>
+		<nd ref="6585254924"/>
+		<nd ref="61369002"/>
+		<nd ref="61368998"/>
+		<nd ref="61367229"/>
+		<tag k="alt_name" v="VFW Parkway"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:right" v="lane"/>
+		<tag k="cycleway:right:buffer" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:ref" v="0 N411"/>
+		<tag k="massgis:way_id" v="168195"/>
+		<tag k="maxspeed" v="35 mph"/>
+		<tag k="name" v="Veterans of Foreign Wars Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="VFW Parkway"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="width" v="43.9"/>
+	</way>
+	<way id="1088522768" version="9" timestamp="2024-10-25T18:26:47Z" changeset="0">
+		<nd ref="61364271"/>
+		<nd ref="9210534593"/>
+		<nd ref="9972775505"/>
+		<tag k="alt_name" v="VFW Parkway"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:right" v="lane"/>
+		<tag k="cycleway:right:buffer" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:ref" v="0 N411"/>
+		<tag k="massgis:way_id" v="168195"/>
+		<tag k="maxspeed" v="35 mph"/>
+		<tag k="name" v="Veterans of Foreign Wars Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="VFW Parkway"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="43.9"/>
+	</way>
+	<way id="1088522769" version="7" timestamp="2024-08-20T19:56:37Z" changeset="0">
+		<nd ref="61507408"/>
+		<nd ref="4259091487"/>
+		<tag k="alt_name" v="VFW Parkway"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:right" v="shared_lane"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="168195"/>
+		<tag k="name" v="Veterans of Foreign Wars Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="VFW Parkway"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="43.9"/>
+	</way>
+	<way id="1088522770" version="7" timestamp="2024-08-20T19:56:37Z" changeset="0">
+		<nd ref="61359973"/>
+		<nd ref="4259091472"/>
+		<tag k="alt_name" v="VFW Parkway"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:right" v="shared_lane"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:ref" v="0 N411"/>
+		<tag k="massgis:way_id" v="168195"/>
+		<tag k="name" v="Veterans of Foreign Wars Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="VFW Parkway"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="43.9"/>
+	</way>
+	<way id="1088522771" version="9" timestamp="2024-10-25T18:26:47Z" changeset="0">
+		<nd ref="61357062"/>
+		<nd ref="61369042"/>
+		<nd ref="4259091471"/>
+		<tag k="alt_name" v="VFW Parkway"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:right" v="shared_lane"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="168195"/>
+		<tag k="name" v="Veterans of Foreign Wars Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="VFW Parkway"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="43.9"/>
+	</way>
+	<way id="1088522772" version="10" timestamp="2024-10-25T18:37:39Z" changeset="0">
+		<nd ref="61360751"/>
+		<nd ref="61360743"/>
+		<nd ref="4259091469"/>
+		<tag k="alt_name" v="VFW Parkway"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:right" v="shared_lane"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:ref" v="0 N411"/>
+		<tag k="massgis:way_id" v="168195"/>
+		<tag k="name" v="Veterans of Foreign Wars Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="VFW Parkway"/>
+		<tag k="sidewalk:left" v="no"/>
+		<tag k="sidewalk:right" v="separate"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="43.9"/>
+	</way>
+	<way id="1212707348" version="6" timestamp="2024-08-20T19:56:37Z" changeset="0">
+		<nd ref="9212224251"/>
+		<nd ref="12068977378"/>
+		<nd ref="61360881"/>
+		<tag k="alt_name" v="VFW Parkway"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="3"/>
+		<tag k="massgis:way_id" v="168195"/>
+		<tag k="name" v="Veterans of Foreign Wars Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="VFW Parkway"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="left||"/>
+		<tag k="width" v="43.9"/>
+	</way>
+	<way id="1343456984" version="2" timestamp="2024-12-18T12:05:01Z" changeset="0">
+		<nd ref="61361364"/>
+		<nd ref="63554672"/>
+		<nd ref="63522744"/>
+		<nd ref="63568014"/>
+		<nd ref="63539120"/>
+		<nd ref="63563349"/>
+		<nd ref="63525142"/>
+		<tag k="alt_name" v="VFW Parkway"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:right" v="lane"/>
+		<tag k="cycleway:right:buffer" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="175700"/>
+		<tag k="name" v="Veterans of Foreign Wars Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="VFW Parkway"/>
+		<tag k="source" v="massgis_import_v0.1_20071009101959"/>
+		<tag k="width" v="42.7"/>
+	</way>
+	<way id="1343456985" version="2" timestamp="2024-12-18T12:05:01Z" changeset="0">
+		<nd ref="63525142"/>
+		<nd ref="9688827416"/>
+		<nd ref="9210073193"/>
+		<nd ref="63532448"/>
+		<tag k="alt_name" v="VFW Parkway"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:right" v="lane"/>
+		<tag k="cycleway:right:buffer" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="175700"/>
+		<tag k="name" v="Veterans of Foreign Wars Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="VFW Parkway"/>
+		<tag k="source" v="massgis_import_v0.1_20071009101959"/>
+		<tag k="turn:lanes" v="left|through;right"/>
+		<tag k="width" v="42.7"/>
+	</way>
+</modify>
+</osmChange>
