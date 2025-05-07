@@ -10,6 +10,7 @@ EOT
 COPY preparation.sh /preparation.sh
 COPY ors-config.yml config/ors-config.yml
 COPY parameter-file /parameter-file
+COPY changesets/*.osc changesets/
 RUN /preparation.sh
 
 FROM openrouteservice/openrouteservice:v${OPEN_ROUTE_SERVICE_VERSION}
