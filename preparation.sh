@@ -11,7 +11,7 @@ rm original.pbf
 
 for file in ./changesets/*.osc; do
     mv files/data.osm.pbf original.pbf
-    printf "Applying changeset: $file"
+    echo "Applying changeset: $file"
     osmconvert -v original.pbf "$file" -o=data.osm.pbf
     rm original.pbf
 done
