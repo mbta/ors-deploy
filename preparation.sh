@@ -9,7 +9,7 @@ mv files/data.osm.pbf original.pbf
 osmconvert -v original.pbf --parameter-file=/parameter-file -o=files/data.osm.pbf
 rm original.pbf
 
-for file in $(ls changesets | grep '\.osc$'); do
+for file in ./changesets/*.osc; do
     mv files/data.osm.pbf original.pbf
     printf "Applying changeset: $file"
     osmconvert -v original.pbf "$file" -o=data.osm.pbf
