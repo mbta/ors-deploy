@@ -14,7 +14,7 @@ for file in $(ls changesets | grep '\.osc$'); do
     printf "Applying changeset: $file"
     osmconvert -v original.pbf "$file" -o=data.osm.pbf
     rm original.pbf
-end
+done
 
 /entrypoint.sh &
 entrypoint_pid=$!
