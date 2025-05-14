@@ -23,4 +23,4 @@ mkdir -p ../files
 
 docker build -t ors-changeset-generator .
 docker run -v "$(pwd)":/app -v "$(pwd)"/../files:/app/files -v "$(pwd)"/../tmp:/app/tmp ors-changeset-generator "$search_key" "$search_value" "$cached"
-  
+
