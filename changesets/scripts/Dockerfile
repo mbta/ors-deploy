@@ -1,6 +1,6 @@
-FROM alpine:latest
+FROM alpine:3.21
 
-RUN apk add osmctools --repository=http://dl-cdn.alpinelinux.org/alpine/edge/testing
+RUN apk --no-cache add osmctools=0.9-r0 --repository=http://dl-cdn.alpinelinux.org/alpine/edge/testing
 
 WORKDIR /app
 
