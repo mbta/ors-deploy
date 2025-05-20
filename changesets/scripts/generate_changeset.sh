@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 
 cached=false
-no_clean=false
 
 while [[ $# -gt 0 ]]; do
   case $1 in
