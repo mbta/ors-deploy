@@ -8,4 +8,4 @@ COPY entrypoint.sh entrypoint.sh
 
 RUN chmod +x entrypoint.sh
 
-ENTRYPOINT [ "ash", "entrypoint.sh" ]
+ENTRYPOINT [ "ash", "scripts/entrypoint.sh" ]
