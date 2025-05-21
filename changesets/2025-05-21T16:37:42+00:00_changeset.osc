@@ -2,7 +2,7 @@
 <osmChange version="0.6" generator="osmconvert 0.8.10">
 	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
 <modify>
-	<way id="8637871" version="18" timestamp="2024-08-20T19:56:37Z" changeset="0">
+	<way id="8637871">
 		<nd ref="61360049"/>
 		<nd ref="61360051"/>
 		<nd ref="61360064"/>
@@ -28,7 +28,7 @@
 		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
 		<tag k="width" v="45.7"/>
 	</way>
-	<way id="8646395" version="22" timestamp="2024-08-20T19:56:37Z" changeset="0">
+	<way id="8646395">
 		<nd ref="61594807"/>
 		<nd ref="61588925"/>
 		<nd ref="3403175312"/>
@@ -82,7 +82,7 @@
 		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
 		<tag k="width" v="31.1"/>
 	</way>
-	<way id="8646446" version="26" timestamp="2024-08-20T19:56:37Z" changeset="0">
+	<way id="8646446">
 		<nd ref="61354355"/>
 		<nd ref="61456900"/>
 		<nd ref="61456801"/>
@@ -134,7 +134,7 @@
 		<tag k="surface" v="asphalt"/>
 		<tag k="width" v="43.9"/>
 	</way>
-	<way id="8646572" version="18" timestamp="2024-08-20T19:56:37Z" changeset="0">
+	<way id="8646572">
 		<nd ref="61367801"/>
 		<nd ref="6585254931"/>
 		<nd ref="61354358"/>
@@ -160,7 +160,7 @@
 		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
 		<tag k="width" v="30.8"/>
 	</way>
-	<way id="8646652" version="23" timestamp="2024-10-25T18:37:39Z" changeset="0">
+	<way id="8646652">
 		<nd ref="61355246"/>
 		<nd ref="61355140"/>
 		<nd ref="5543792327"/>
@@ -187,7 +187,7 @@
 		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
 		<tag k="width" v="31.1"/>
 	</way>
-	<way id="8648385" version="21" timestamp="2024-08-20T19:56:37Z" changeset="0">
+	<way id="8648385">
 		<nd ref="61385239"/>
 		<nd ref="6585254949"/>
 		<nd ref="8317299487"/>
@@ -225,7 +225,7 @@
 		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
 		<tag k="width" v="45.7"/>
 	</way>
-	<way id="8648397" version="22" timestamp="2024-11-15T18:17:21Z" changeset="0">
+	<way id="8648397">
 		<nd ref="61367425"/>
 		<nd ref="9227501498"/>
 		<nd ref="61408349"/>
@@ -260,7 +260,7 @@
 		<tag k="surface" v="asphalt"/>
 		<tag k="width" v="25.6"/>
 	</way>
-	<way id="8649749" version="19" timestamp="2024-08-20T19:56:37Z" changeset="0">
+	<way id="8649749">
 		<nd ref="63590474"/>
 		<nd ref="61582405"/>
 		<nd ref="61582414"/>
@@ -290,7 +290,7 @@
 		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
 		<tag k="width" v="31.1"/>
 	</way>
-	<way id="8650086" version="18" timestamp="2024-10-25T18:37:39Z" changeset="0">
+	<way id="8650086">
 		<nd ref="61393097"/>
 		<nd ref="61592985"/>
 		<nd ref="61592979"/>
@@ -324,7 +324,7 @@
 		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
 		<tag k="width" v="30.8"/>
 	</way>
-	<way id="8651588" version="23" timestamp="2024-08-20T19:56:37Z" changeset="0">
+	<way id="8651588">
 		<nd ref="61360881"/>
 		<nd ref="9212197011"/>
 		<nd ref="61407962"/>
@@ -365,7 +365,7 @@
 		<tag k="surface" v="asphalt"/>
 		<tag k="width" v="43.9"/>
 	</way>
-	<way id="8652056" version="18" timestamp="2024-08-20T19:56:37Z" changeset="0">
+	<way id="8652056">
 		<nd ref="61496547"/>
 		<nd ref="61496584"/>
 		<nd ref="61496577"/>
@@ -391,7 +391,7 @@
 		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
 		<tag k="width" v="31.1"/>
 	</way>
-	<way id="8815411" version="18" timestamp="2024-08-20T19:56:37Z" changeset="0">
+	<way id="8815411">
 		<nd ref="63529378"/>
 		<nd ref="63588119"/>
 		<nd ref="63543742"/>
@@ -422,7 +422,7 @@
 		<tag k="surface" v="asphalt"/>
 		<tag k="width" v="42.7"/>
 	</way>
-	<way id="8815412" version="19" timestamp="2024-12-18T12:05:01Z" changeset="0">
+	<way id="8815412">
 		<nd ref="63532448"/>
 		<nd ref="9210073127"/>
 		<nd ref="63556930"/>
@@ -443,7 +443,7 @@
 		<tag k="source" v="massgis_import_v0.1_20071009101959"/>
 		<tag k="width" v="42.7"/>
 	</way>
-	<way id="426634817" version="16" timestamp="2024-08-20T19:56:37Z" changeset="0">
+	<way id="426634817">
 		<nd ref="61367229"/>
 		<nd ref="61361790"/>
 		<nd ref="5456485599"/>
@@ -467,7 +467,7 @@
 		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
 		<tag k="width" v="43.9"/>
 	</way>
-	<way id="426634818" version="17" timestamp="2024-08-20T19:56:37Z" changeset="0">
+	<way id="426634818">
 		<nd ref="4259091469"/>
 		<nd ref="9518289279"/>
 		<nd ref="9212224235"/>
@@ -491,7 +491,7 @@
 		<tag k="turn:lanes" v="left||"/>
 		<tag k="width" v="43.9"/>
 	</way>
-	<way id="426634819" version="16" timestamp="2024-08-20T19:56:37Z" changeset="0">
+	<way id="426634819">
 		<nd ref="4259091472"/>
 		<nd ref="9654364802"/>
 		<nd ref="9210534599"/>
@@ -513,7 +513,7 @@
 		<tag k="turn:lanes" v="left||"/>
 		<tag k="width" v="43.9"/>
 	</way>
-	<way id="426634820" version="18" timestamp="2024-08-20T19:56:37Z" changeset="0">
+	<way id="426634820">
 		<nd ref="63576414"/>
 		<nd ref="61402999"/>
 		<nd ref="61403012"/>
@@ -545,7 +545,7 @@
 		<tag k="surface" v="asphalt"/>
 		<tag k="width" v="43.9"/>
 	</way>
-	<way id="426634821" version="16" timestamp="2024-08-20T19:56:37Z" changeset="0">
+	<way id="426634821">
 		<nd ref="4259091471"/>
 		<nd ref="61403041"/>
 		<nd ref="9518289278"/>
@@ -567,7 +567,7 @@
 		<tag k="turn:lanes" v="left||"/>
 		<tag k="width" v="43.9"/>
 	</way>
-	<way id="426634822" version="17" timestamp="2024-10-25T18:26:47Z" changeset="0">
+	<way id="426634822">
 		<nd ref="61360746"/>
 		<nd ref="9212224231"/>
 		<nd ref="61522045"/>
@@ -594,7 +594,7 @@
 		<tag k="surface" v="asphalt"/>
 		<tag k="width" v="43.9"/>
 	</way>
-	<way id="426634962" version="14" timestamp="2024-07-23T00:04:15Z" changeset="0">
+	<way id="426634962">
 		<nd ref="4259091487"/>
 		<nd ref="9654364801"/>
 		<nd ref="9210534594"/>
@@ -615,7 +615,7 @@
 		<tag k="turn:lanes" v="left||"/>
 		<tag k="width" v="43.9"/>
 	</way>
-	<way id="426634963" version="17" timestamp="2024-10-25T18:26:47Z" changeset="0">
+	<way id="426634963">
 		<nd ref="61364446"/>
 		<nd ref="9210534600"/>
 		<nd ref="61402990"/>
@@ -637,7 +637,7 @@
 		<tag k="surface" v="asphalt"/>
 		<tag k="width" v="43.9"/>
 	</way>
-	<way id="426635445" version="16" timestamp="2024-08-20T19:56:37Z" changeset="0">
+	<way id="426635445">
 		<nd ref="61347930"/>
 		<nd ref="9212224250"/>
 		<nd ref="61572902"/>
@@ -666,7 +666,7 @@
 		<tag k="surface" v="asphalt"/>
 		<tag k="width" v="43.9"/>
 	</way>
-	<way id="426635446" version="15" timestamp="2024-07-23T00:04:15Z" changeset="0">
+	<way id="426635446">
 		<nd ref="4259096793"/>
 		<nd ref="61595204"/>
 		<nd ref="12068977379"/>
@@ -687,7 +687,7 @@
 		<tag k="turn:lanes" v="left||"/>
 		<tag k="width" v="43.9"/>
 	</way>
-	<way id="426635447" version="15" timestamp="2024-08-20T19:56:37Z" changeset="0">
+	<way id="426635447">
 		<nd ref="4259096792"/>
 		<nd ref="61516358"/>
 		<nd ref="9212197010"/>
@@ -709,7 +709,7 @@
 		<tag k="turn:lanes" v="left||"/>
 		<tag k="width" v="43.9"/>
 	</way>
-	<way id="426635448" version="17" timestamp="2024-10-25T18:37:39Z" changeset="0">
+	<way id="426635448">
 		<nd ref="61365452"/>
 		<nd ref="9212224236"/>
 		<nd ref="61595209"/>
@@ -734,7 +734,7 @@
 		<tag k="surface" v="asphalt"/>
 		<tag k="width" v="43.9"/>
 	</way>
-	<way id="591277988" version="16" timestamp="2024-08-20T19:56:37Z" changeset="0">
+	<way id="591277988">
 		<nd ref="9972775505"/>
 		<nd ref="61369070"/>
 		<nd ref="61369077"/>
@@ -760,7 +760,7 @@
 		<tag k="surface" v="asphalt"/>
 		<tag k="width" v="43.9"/>
 	</way>
-	<way id="591277989" version="13" timestamp="2024-08-20T19:56:37Z" changeset="0">
+	<way id="591277989">
 		<nd ref="61361808"/>
 		<nd ref="9212260435"/>
 		<nd ref="61595174"/>
@@ -784,7 +784,7 @@
 		<tag k="surface" v="asphalt"/>
 		<tag k="width" v="43.9"/>
 	</way>
-	<way id="591278046" version="11" timestamp="2024-08-20T19:56:37Z" changeset="0">
+	<way id="591278046">
 		<nd ref="6585254946"/>
 		<nd ref="6756024962"/>
 		<nd ref="6585254939"/>
@@ -804,7 +804,7 @@
 		<tag k="turn:lanes:forward" v="left||"/>
 		<tag k="width" v="45.7"/>
 	</way>
-	<way id="591278049" version="12" timestamp="2024-08-20T19:56:37Z" changeset="0">
+	<way id="591278049">
 		<nd ref="61508966"/>
 		<nd ref="6585254932"/>
 		<nd ref="6585254947"/>
@@ -826,7 +826,7 @@
 		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
 		<tag k="width" v="45.7"/>
 	</way>
-	<way id="591278050" version="11" timestamp="2024-08-20T19:56:37Z" changeset="0">
+	<way id="591278050">
 		<nd ref="61360117"/>
 		<nd ref="6585254943"/>
 		<nd ref="61508977"/>
@@ -848,7 +848,7 @@
 		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
 		<tag k="width" v="45.7"/>
 	</way>
-	<way id="591278051" version="9" timestamp="2024-07-23T00:04:15Z" changeset="0">
+	<way id="591278051">
 		<nd ref="61359656"/>
 		<nd ref="61359759"/>
 		<nd ref="61359762"/>
@@ -873,7 +873,7 @@
 		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
 		<tag k="width" v="45.7"/>
 	</way>
-	<way id="701195546" version="9" timestamp="2024-08-20T19:56:37Z" changeset="0">
+	<way id="701195546">
 		<nd ref="5456682335"/>
 		<nd ref="6585254903"/>
 		<nd ref="6585254904"/>
@@ -929,7 +929,7 @@
 		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
 		<tag k="width" v="31.1"/>
 	</way>
-	<way id="701195547" version="11" timestamp="2024-10-25T18:37:39Z" changeset="0">
+	<way id="701195547">
 		<nd ref="6585254907"/>
 		<nd ref="61450400"/>
 		<nd ref="61450387"/>
@@ -953,7 +953,7 @@
 		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
 		<tag k="width" v="31.1"/>
 	</way>
-	<way id="892873616" version="7" timestamp="2024-07-23T00:04:15Z" changeset="0">
+	<way id="892873616">
 		<nd ref="61361813"/>
 		<nd ref="9210350592"/>
 		<nd ref="6585254919"/>
@@ -977,7 +977,7 @@
 		<tag k="surface" v="asphalt"/>
 		<tag k="width" v="43.9"/>
 	</way>
-	<way id="892873617" version="5" timestamp="2024-07-23T00:04:15Z" changeset="0">
+	<way id="892873617">
 		<nd ref="61361794"/>
 		<nd ref="6585254915"/>
 		<nd ref="6585254916"/>
@@ -1002,7 +1002,7 @@
 		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
 		<tag k="width" v="43.9"/>
 	</way>
-	<way id="1088522768" version="9" timestamp="2024-10-25T18:26:47Z" changeset="0">
+	<way id="1088522768">
 		<nd ref="61364271"/>
 		<nd ref="9210534593"/>
 		<nd ref="9972775505"/>
@@ -1024,7 +1024,7 @@
 		<tag k="surface" v="asphalt"/>
 		<tag k="width" v="43.9"/>
 	</way>
-	<way id="1088522769" version="7" timestamp="2024-08-20T19:56:37Z" changeset="0">
+	<way id="1088522769">
 		<nd ref="61507408"/>
 		<nd ref="4259091487"/>
 		<tag k="alt_name" v="VFW Parkway"/>
@@ -1042,7 +1042,7 @@
 		<tag k="surface" v="asphalt"/>
 		<tag k="width" v="43.9"/>
 	</way>
-	<way id="1088522770" version="7" timestamp="2024-08-20T19:56:37Z" changeset="0">
+	<way id="1088522770">
 		<nd ref="61359973"/>
 		<nd ref="4259091472"/>
 		<tag k="alt_name" v="VFW Parkway"/>
@@ -1061,7 +1061,7 @@
 		<tag k="surface" v="asphalt"/>
 		<tag k="width" v="43.9"/>
 	</way>
-	<way id="1088522771" version="9" timestamp="2024-10-25T18:26:47Z" changeset="0">
+	<way id="1088522771">
 		<nd ref="61357062"/>
 		<nd ref="61369042"/>
 		<nd ref="4259091471"/>
@@ -1080,7 +1080,7 @@
 		<tag k="surface" v="asphalt"/>
 		<tag k="width" v="43.9"/>
 	</way>
-	<way id="1088522772" version="10" timestamp="2024-10-25T18:37:39Z" changeset="0">
+	<way id="1088522772">
 		<nd ref="61360751"/>
 		<nd ref="61360743"/>
 		<nd ref="4259091469"/>
@@ -1102,7 +1102,7 @@
 		<tag k="surface" v="asphalt"/>
 		<tag k="width" v="43.9"/>
 	</way>
-	<way id="1212707348" version="6" timestamp="2024-08-20T19:56:37Z" changeset="0">
+	<way id="1212707348">
 		<nd ref="9212224251"/>
 		<nd ref="12068977378"/>
 		<nd ref="61360881"/>
@@ -1121,7 +1121,7 @@
 		<tag k="turn:lanes" v="left||"/>
 		<tag k="width" v="43.9"/>
 	</way>
-	<way id="1343456984" version="2" timestamp="2024-12-18T12:05:01Z" changeset="0">
+	<way id="1343456984">
 		<nd ref="61361364"/>
 		<nd ref="63554672"/>
 		<nd ref="63522744"/>
@@ -1144,7 +1144,7 @@
 		<tag k="source" v="massgis_import_v0.1_20071009101959"/>
 		<tag k="width" v="42.7"/>
 	</way>
-	<way id="1343456985" version="2" timestamp="2024-12-18T12:05:01Z" changeset="0">
+	<way id="1343456985">
 		<nd ref="63525142"/>
 		<nd ref="9688827416"/>
 		<nd ref="9210073193"/>

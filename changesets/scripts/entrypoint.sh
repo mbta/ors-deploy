@@ -21,7 +21,7 @@ osmfilter files/data.o5m --ignore-dependencies --keep= --keep-ways="hgv=no and $
 printf "Modifying filtered OSM tags with %s\n" "$modify_string"
 osmfilter tmp/filtered.o5m --modify-tags="$modify_string" --drop-version > tmp/modified.o5m
 
-timestamp=$(date +%s)
+timestamp=$(date -Iseconds -u)
 changeset_name="$timestamp"_changeset.osc
 
 printf "Creating changeset file: %s\n" "$changeset_name"
