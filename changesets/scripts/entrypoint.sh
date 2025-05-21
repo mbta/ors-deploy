@@ -9,10 +9,11 @@ escape_spaces() {
   echo "${1// /\\ }"
 }
 
-USAGE_STRING="Correct usage: generate_changeset.sh -k \"<search key>\" -v \"<search value>\""
+USAGE_STRING="Correct usage: generate_changeset.sh --search-key \"<search key>\" --search-value \"<search value>\""
 OPTSTRING="k:v:c"
+LONGOPTSTRING="search-key:,search-value:,cached"
 
-if ! ARGS=$(getopt -o "$OPTSTRING" -- "$@"); then
+if ! ARGS=$(getopt -o "$OPTSTRING" --long "$LONGOPTSTRING" -- "$@"); then
   echo "Failed to parse args"
   echo "$USAGE_STRING"
   exit 1
@@ -22,17 +23,17 @@ eval set -- "$ARGS"
 
 while [[ $# -gt 0 ]]; do
   case "$1" in
-    -k)
+    -k|--search-key)
       shift
       search_key=$(escape_spaces "$1")
       shift 
       ;;
-    -v)
+    -v|--search-value)
       shift
       search_value=$(escape_spaces "$1")
       shift
       ;;
-    -c)
+    -c|--cached)
       shift
       cached=true
       shift
@@ -50,12 +51,12 @@ while [[ $# -gt 0 ]]; do
 done
 
 if [[ -z "$search_key" ]]; then
-  echo "Search key not found. Please provide in the format of -k \"<search key>\"";
+  echo "Search key not found. Please provide in the format of -k \"<search key>\" or --search-key \"<search key>\"";
   exit 1
 fi
 
 if [[ -z "$search_value" ]]; then
-  echo "Search value not found. Please provide in the format of -v \"<search value>\"";
+  echo "Search value not found. Please provide in the format of -v \"<search value>\" or --search-value \"<search value>\"";
   exit 1
 fi
 
