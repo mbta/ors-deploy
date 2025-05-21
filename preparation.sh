@@ -6,14 +6,14 @@ export ORS_ENGINE_PREPARATION_MODE=true
 export ORS_SERVICES_ROUTING_MODE=preparation
 
 mv files/data.osm.pbf original.pbf
-osmconvert -v original.pbf --parameter-file=/parameter-file -o=files/data.osm.pbf
+osmconvert -v original.pbf --parameter-file=/parameter-file -o=files/data.o5m
 rm original.pbf
 
 for file in ./changesets/*.osc; do
-    mv files/data.osm.pbf original.pbf
+    mv files/data.o5m original.o5m
     echo "Applying changeset: $file"
-    osmconvert -v original.pbf "$file" -o=files/data.osm.pbf
-    rm original.pbf
+    osmconvert -v original.o5m "$file" -o=files/data.osm.pbf
+    rm original.o5m
 done
 
 /entrypoint.sh &
