@@ -6,12 +6,12 @@ Street Map data. Script builds a dockerfile with `osmctools` to perform operatio
 
 ## Usage
 
-`$ bash generate_changeset.sh --search-key="<key>" --search-value="<value>"`
+`$ bash generate_changeset.sh -k "<key>" -v "<value>"`
 
 ## Command line args
 
-| Key              | Default | Example                        | Description |
-| ---------------- | ------- | ------------------------------ | ----------- |
-| `--search-key`   | N/A     | `--search-key=short_name`      | Field to filter `data.osm.pbf` data. Must be a field present on way Nodes. |
-| `--search-value` | N/A     | `--search-value="VFW Parkway"` | Value, used in combination with `--search-key` to filter ways within `data.osm.pbf` file |
-| `--cached`       | `false` | `--cached=true`                | If true, will not download osm data again and will attempt to re-use existing `data.osm.pbf` file |
+| Arg               | Required | Default | Example                        | Description |
+| ----------------- | -------- | ------- | ------------------------------ | ----------- |
+| Search Key `-k`   | true     | N/A      | `-k short_name`               | Field to filter `data.osm.pbf` data. Must be a field present on way Nodes. |
+| Search Value `-v` | true     | N/A      | `-v "VFW Parkway"`            | Value, used in combination with `-k` to filter ways within `data.osm.pbf` file |
+| Cached `-c`       | false    | `false`  | `-c`                          | If provided, will attempt to re-use existing `data.osm.pbf` file |
