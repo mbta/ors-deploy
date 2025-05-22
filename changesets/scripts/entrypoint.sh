@@ -61,7 +61,7 @@ if [[ -z "$search_value" ]]; then
   exit 1
 fi
 
-if [ "$cached" = true ]; then
+if [[ "$cached" = true ]]; then
   echo "Using existing files/data.osm file"
 else
   echo "Downloading osm data"
