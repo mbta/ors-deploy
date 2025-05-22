@@ -13,6 +13,7 @@ USAGE_STRING="Correct usage: generate_changeset.sh --search-key \"<search key>\"
 OPTSTRING="k:v:c"
 LONGOPTSTRING="search-key:,search-value:,cached"
 
+# note: this usage of `getopt` is not compatible with the `/usr/bin/getopt` provided by macos
 if ! ARGS=$(getopt -o "$OPTSTRING" --long "$LONGOPTSTRING" -- "$@"); then
   echo "Failed to parse args"
   echo "$USAGE_STRING"
