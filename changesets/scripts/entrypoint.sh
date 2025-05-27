@@ -72,7 +72,7 @@ else
 fi
 
 printf "Filtering OSM data for ways with %s\n" "$search_key=$search_value"
-osmfilter files/data.o5m --ignore-dependencies --keep= --keep-ways="hgv=no and $search_key=$search_value" -o=tmp/filtered.o5m
+osmfilter files/data.o5m --ignore-dependencies --keep= --keep-ways="hgv=no and $search_key=$search_value" --drop="name=Storrow\ Drive or amenity=" -o=tmp/filtered.o5m
 
 printf "Modifying filtered OSM tags with %s\n" "$modify_string"
 osmfilter tmp/filtered.o5m --modify-tags="$modify_string" --drop-version -o=tmp/modified.o5m
