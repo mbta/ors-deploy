@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="1086103934">
+		<nd ref="66564965"/>
+		<nd ref="66574016"/>
+		<nd ref="66561067"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="maxspeed" v="30 mph"/>
+		<tag k="name" v="Lynn Fells Parkway"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+  </modify>
+</osmChange>

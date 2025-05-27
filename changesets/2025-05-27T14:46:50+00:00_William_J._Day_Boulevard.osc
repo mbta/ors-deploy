@@ -1,0 +1,551 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="8638207">
+		<nd ref="61343553"/>
+		<nd ref="61348304"/>
+		<nd ref="2173867059"/>
+		<nd ref="9250452113"/>
+		<nd ref="6015923192"/>
+		<nd ref="61348305"/>
+		<nd ref="9250452116"/>
+		<nd ref="2266571768"/>
+		<nd ref="9250462318"/>
+		<nd ref="2266571763"/>
+		<nd ref="9250462320"/>
+		<nd ref="6015923206"/>
+		<nd ref="9250462323"/>
+		<nd ref="61348310"/>
+		<nd ref="2266571764"/>
+		<nd ref="61348311"/>
+		<nd ref="2173867048"/>
+		<nd ref="61348308"/>
+		<nd ref="61348309"/>
+		<nd ref="61348319"/>
+		<nd ref="61348318"/>
+		<nd ref="2173553549"/>
+		<nd ref="61348317"/>
+		<nd ref="2173553552"/>
+		<nd ref="61348316"/>
+		<nd ref="2173553548"/>
+		<nd ref="2173553551"/>
+		<nd ref="61348314"/>
+		<nd ref="2173553546"/>
+		<nd ref="896277838"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="cycleway:both" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="tertiary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="142280"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="motor_vehicle" v="yes"/>
+		<tag k="name" v="William J. Day Boulevard"/>
+		<tag k="parking:left" v="lane"/>
+		<tag k="parking:left:orientation" v="parallel"/>
+		<tag k="parking:right" v="separate"/>
+		<tag k="sidewalk:left" v="no"/>
+		<tag k="sidewalk:right" v="separate"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="26.5"/>
+	</way>
+<way id="8645970">
+		<nd ref="61372304"/>
+		<nd ref="61571119"/>
+		<nd ref="2266561634"/>
+		<nd ref="7777358011"/>
+		<nd ref="2266561637"/>
+		<nd ref="2173867055"/>
+		<nd ref="61571012"/>
+		<nd ref="2173867051"/>
+		<nd ref="2266563037"/>
+		<nd ref="6015923204"/>
+		<nd ref="2266563036"/>
+		<nd ref="2266563034"/>
+		<nd ref="2266563035"/>
+		<nd ref="61571020"/>
+		<nd ref="2266563038"/>
+		<nd ref="2173867047"/>
+		<nd ref="2266563042"/>
+		<nd ref="61571024"/>
+		<nd ref="6015923199"/>
+		<nd ref="2266563043"/>
+		<nd ref="61571032"/>
+		<nd ref="2266563039"/>
+		<nd ref="6015922784"/>
+		<nd ref="61571161"/>
+		<nd ref="2266563040"/>
+		<nd ref="6015923205"/>
+		<nd ref="7777358001"/>
+		<nd ref="2266563046"/>
+		<nd ref="6015923189"/>
+		<nd ref="61571173"/>
+		<nd ref="2173867060"/>
+		<nd ref="6015923211"/>
+		<nd ref="61571181"/>
+		<nd ref="2173867046"/>
+		<nd ref="6015923194"/>
+		<nd ref="61571192"/>
+		<nd ref="61571125"/>
+		<nd ref="6015923222"/>
+		<nd ref="6015923198"/>
+		<nd ref="6015923196"/>
+		<nd ref="2266563044"/>
+		<nd ref="2266563045"/>
+		<nd ref="6015922782"/>
+		<nd ref="2173867053"/>
+		<nd ref="61571135"/>
+		<nd ref="2266563041"/>
+		<nd ref="2173867049"/>
+		<nd ref="61571143"/>
+		<nd ref="2266567401"/>
+		<nd ref="2266567406"/>
+		<nd ref="61571150"/>
+		<nd ref="2173867050"/>
+		<nd ref="7777357982"/>
+		<nd ref="61343663"/>
+		<nd ref="6015923208"/>
+		<nd ref="61343664"/>
+		<nd ref="6015923200"/>
+		<nd ref="2266567393"/>
+		<nd ref="2266567395"/>
+		<nd ref="2173867061"/>
+		<tag k="access" v="yes"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="cycleway" v="shared_lane"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="142280"/>
+		<tag k="motor_vehicle" v="destination"/>
+		<tag k="name" v="William J. Day Boulevard"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="41.5"/>
+	</way>
+<way id="8651648">
+		<nd ref="61458256"/>
+		<nd ref="5982418747"/>
+		<nd ref="9873448048"/>
+		<nd ref="2266551128"/>
+		<nd ref="2266551119"/>
+		<nd ref="2266551126"/>
+		<nd ref="2266551125"/>
+		<nd ref="2266551123"/>
+		<nd ref="61552196"/>
+		<nd ref="2266551124"/>
+		<nd ref="61345094"/>
+		<nd ref="61345090"/>
+		<nd ref="2266551121"/>
+		<nd ref="2266551122"/>
+		<nd ref="61345088"/>
+		<nd ref="10914151368"/>
+		<nd ref="61345087"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="142280"/>
+		<tag k="name" v="William J. Day Boulevard"/>
+		<tag k="oneway" v="no"/>
+		<tag k="parking:both" v="lane"/>
+		<tag k="parking:both:orientation" v="parallel"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="29.0"/>
+	</way>
+<way id="216267539">
+		<nd ref="61345027"/>
+		<nd ref="2256188254"/>
+		<nd ref="2256188245"/>
+		<nd ref="2256188203"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="cycleway:right" v="lane"/>
+		<tag k="cycleway:right:buffer" v="yes"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="1"/>
+		<tag k="massgis:ref" v="0 N121"/>
+		<tag k="massgis:way_id" v="142280"/>
+		<tag k="name" v="William J. Day Boulevard"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="parking:both" v="no"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+<way id="216267542">
+		<nd ref="61345038"/>
+		<nd ref="5982418762"/>
+		<nd ref="5982418766"/>
+		<nd ref="61458234"/>
+		<nd ref="5982418765"/>
+		<nd ref="2266548328"/>
+		<nd ref="5982418736"/>
+		<nd ref="61458217"/>
+		<nd ref="2266548320"/>
+		<nd ref="61458222"/>
+		<nd ref="61458209"/>
+		<nd ref="5982418761"/>
+		<nd ref="5982418757"/>
+		<nd ref="2266548327"/>
+		<nd ref="5982418760"/>
+		<nd ref="61458214"/>
+		<nd ref="9873448047"/>
+		<nd ref="5982418750"/>
+		<nd ref="2266548334"/>
+		<nd ref="5982418732"/>
+		<nd ref="2266548335"/>
+		<nd ref="5982418729"/>
+		<nd ref="61458198"/>
+		<nd ref="2266548322"/>
+		<nd ref="61458203"/>
+		<nd ref="2266548321"/>
+		<nd ref="2266548333"/>
+		<nd ref="61458259"/>
+		<nd ref="2266548325"/>
+		<nd ref="5982418763"/>
+		<nd ref="5982418755"/>
+		<nd ref="61458256"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:ref" v="0 N121"/>
+		<tag k="massgis:way_id" v="142280"/>
+		<tag k="name" v="William J. Day Boulevard"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="29.0"/>
+	</way>
+<way id="216267545">
+		<nd ref="2256188234"/>
+		<nd ref="5979504019"/>
+		<nd ref="9873448038"/>
+		<nd ref="61348972"/>
+		<nd ref="61348992"/>
+		<nd ref="61563476"/>
+		<nd ref="2256188282"/>
+		<nd ref="2256188265"/>
+		<nd ref="9873448039"/>
+		<nd ref="2256188212"/>
+		<nd ref="2256188202"/>
+		<nd ref="61345029"/>
+		<nd ref="2256188222"/>
+		<nd ref="2256188210"/>
+		<nd ref="61345027"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="cycleway:right" v="lane"/>
+		<tag k="cycleway:right:buffer" v="yes"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="1"/>
+		<tag k="massgis:ref" v="0 N121"/>
+		<tag k="massgis:way_id" v="142280"/>
+		<tag k="name" v="William J. Day Boulevard"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="parking:both" v="no"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+<way id="217383359">
+		<nd ref="2173867061"/>
+		<nd ref="2447103584"/>
+		<nd ref="61343644"/>
+		<nd ref="2173867056"/>
+		<nd ref="2266571766"/>
+		<nd ref="61343570"/>
+		<nd ref="2266571755"/>
+		<nd ref="2266571758"/>
+		<nd ref="6015923217"/>
+		<nd ref="61343575"/>
+		<nd ref="2447103598"/>
+		<nd ref="2266571767"/>
+		<nd ref="7777358043"/>
+		<nd ref="2266571769"/>
+		<nd ref="4044527412"/>
+		<nd ref="61343574"/>
+		<nd ref="6015923201"/>
+		<nd ref="2173867058"/>
+		<nd ref="6015923187"/>
+		<nd ref="6015923188"/>
+		<nd ref="9250452105"/>
+		<nd ref="9250452106"/>
+		<nd ref="9250452107"/>
+		<nd ref="9250452108"/>
+		<nd ref="9250452109"/>
+		<nd ref="9250452110"/>
+		<nd ref="9250462330"/>
+		<nd ref="61343553"/>
+		<tag k="access" v="yes"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="cycleway" v="shared_lane"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="tertiary"/>
+		<tag k="lanes" v="4"/>
+		<tag k="massgis:way_id" v="142280"/>
+		<tag k="motor_vehicle" v="yes"/>
+		<tag k="name" v="William J. Day Boulevard"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="width" v="29.0"/>
+	</way>
+<way id="239477699">
+		<nd ref="2256188203"/>
+		<nd ref="5973405889"/>
+		<nd ref="2256188215"/>
+		<nd ref="2256188236"/>
+		<nd ref="2256188252"/>
+		<nd ref="61420321"/>
+		<nd ref="2256188208"/>
+		<nd ref="5979504024"/>
+		<nd ref="2256188234"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="cycleway:right" v="lane"/>
+		<tag k="cycleway:right:buffer" v="yes"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="1"/>
+		<tag k="massgis:ref" v="0 N121"/>
+		<tag k="massgis:way_id" v="142280"/>
+		<tag k="name" v="William J. Day Boulevard"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="parking:both" v="no"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+<way id="420753198">
+		<nd ref="61345027"/>
+		<nd ref="9873448044"/>
+		<nd ref="61345032"/>
+		<nd ref="5982418733"/>
+		<nd ref="61345031"/>
+		<nd ref="5982418745"/>
+		<nd ref="61345036"/>
+		<nd ref="5982418730"/>
+		<nd ref="5982418748"/>
+		<nd ref="2256188274"/>
+		<nd ref="5982418740"/>
+		<nd ref="61345034"/>
+		<nd ref="5982418758"/>
+		<nd ref="2266548324"/>
+		<nd ref="5982418751"/>
+		<nd ref="2266548329"/>
+		<nd ref="5982418753"/>
+		<nd ref="61345040"/>
+		<nd ref="5982418749"/>
+		<nd ref="61345038"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="cycleway:both" v="lane"/>
+		<tag k="cycleway:both:buffer" v="yes"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:ref" v="0 N121"/>
+		<tag k="massgis:way_id" v="142280"/>
+		<tag k="name" v="William J. Day Boulevard"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="29.0"/>
+	</way>
+<way id="923827371">
+		<nd ref="2256188243"/>
+		<nd ref="8855340085"/>
+		<nd ref="61403831"/>
+		<nd ref="8855340086"/>
+		<nd ref="2256188241"/>
+		<nd ref="8855340088"/>
+		<nd ref="8855340089"/>
+		<nd ref="2256188218"/>
+		<nd ref="8855340090"/>
+		<nd ref="61403853"/>
+		<nd ref="61348991"/>
+		<nd ref="6011235512"/>
+		<nd ref="8855340096"/>
+		<nd ref="61348996"/>
+		<nd ref="8855340097"/>
+		<nd ref="8855340098"/>
+		<nd ref="2256188255"/>
+		<nd ref="8855340099"/>
+		<nd ref="61348994"/>
+		<nd ref="2565856912"/>
+		<nd ref="61348985"/>
+		<nd ref="8855340101"/>
+		<nd ref="8855340102"/>
+		<nd ref="8855340103"/>
+		<nd ref="8855340104"/>
+		<nd ref="8855340105"/>
+		<nd ref="2565856924"/>
+		<nd ref="61348983"/>
+		<nd ref="2256188206"/>
+		<nd ref="8855340106"/>
+		<nd ref="2565856943"/>
+		<nd ref="2256188211"/>
+		<nd ref="8855340107"/>
+		<nd ref="8855340108"/>
+		<nd ref="8855340109"/>
+		<nd ref="61348989"/>
+		<nd ref="2565856967"/>
+		<nd ref="2256188235"/>
+		<nd ref="2565856977"/>
+		<nd ref="61348987"/>
+		<nd ref="2256188267"/>
+		<nd ref="61349009"/>
+		<nd ref="2256188232"/>
+		<nd ref="61349011"/>
+		<nd ref="2565857007"/>
+		<nd ref="2256188261"/>
+		<nd ref="2565857025"/>
+		<nd ref="61349006"/>
+		<nd ref="2256188263"/>
+		<nd ref="2565857037"/>
+		<nd ref="2256188286"/>
+		<nd ref="61349007"/>
+		<nd ref="2565857065"/>
+		<nd ref="2256188259"/>
+		<nd ref="9873448031"/>
+		<nd ref="61349002"/>
+		<nd ref="2256188249"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="cycleway:both" v="lane"/>
+		<tag k="cycleway:both:buffer" v="yes"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:ref" v="0 N121"/>
+		<tag k="massgis:way_id" v="142280"/>
+		<tag k="name" v="William J. Day Boulevard"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="29.0"/>
+	</way>
+<way id="1076718174">
+		<nd ref="61403875"/>
+		<nd ref="8855309595"/>
+		<nd ref="61403880"/>
+		<nd ref="8855309596"/>
+		<nd ref="2255821073"/>
+		<nd ref="8855309597"/>
+		<nd ref="61403835"/>
+		<nd ref="2256188223"/>
+		<nd ref="8855309599"/>
+		<nd ref="8855309598"/>
+		<nd ref="61403840"/>
+		<nd ref="8855340079"/>
+		<nd ref="2256188237"/>
+		<nd ref="8855340080"/>
+		<nd ref="2256188233"/>
+		<nd ref="8855340081"/>
+		<nd ref="61403825"/>
+		<nd ref="8855340083"/>
+		<nd ref="8855340082"/>
+		<nd ref="2256188217"/>
+		<nd ref="8855340084"/>
+		<nd ref="2256188243"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="4"/>
+		<tag k="massgis:ref" v="0 N121"/>
+		<tag k="massgis:way_id" v="142280"/>
+		<tag k="name" v="William J. Day Boulevard"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="29.0"/>
+	</way>
+<way id="1087006179">
+		<nd ref="2256188249"/>
+		<nd ref="61349004"/>
+		<nd ref="2256188239"/>
+		<nd ref="61345566"/>
+		<nd ref="2256188225"/>
+		<nd ref="61348981"/>
+		<nd ref="6013886089"/>
+		<nd ref="9959616590"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="cycleway:both" v="lane"/>
+		<tag k="cycleway:both:buffer" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:ref" v="0 N121"/>
+		<tag k="massgis:way_id" v="142280"/>
+		<tag k="name" v="William J. Day Boulevard"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="29.0"/>
+	</way>
+<way id="1087006180">
+		<nd ref="9959616590"/>
+		<nd ref="2256188226"/>
+		<nd ref="6013886093"/>
+		<nd ref="61348979"/>
+		<nd ref="61348970"/>
+		<nd ref="2256188228"/>
+		<nd ref="4779912919"/>
+		<nd ref="61348968"/>
+		<nd ref="2256188224"/>
+		<nd ref="2256188284"/>
+		<nd ref="61348974"/>
+		<nd ref="2256188234"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="cycleway:both" v="lane"/>
+		<tag k="cycleway:both:buffer" v="yes"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:ref" v="0 N121"/>
+		<tag k="massgis:way_id" v="142280"/>
+		<tag k="name" v="William J. Day Boulevard"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="29.0"/>
+	</way>
+<way id="1361076012">
+		<nd ref="61345087"/>
+		<nd ref="10914151369"/>
+		<nd ref="10913210381"/>
+		<nd ref="61458193"/>
+		<nd ref="61345316"/>
+		<nd ref="61345937"/>
+		<nd ref="5986539971"/>
+		<nd ref="5986539970"/>
+		<nd ref="2266561636"/>
+		<nd ref="10913210384"/>
+		<nd ref="10913210403"/>
+		<nd ref="61345950"/>
+		<nd ref="2266561640"/>
+		<nd ref="61372386"/>
+		<nd ref="5986549728"/>
+		<nd ref="7777358002"/>
+		<nd ref="2565832482"/>
+		<nd ref="61372304"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="142280"/>
+		<tag k="name" v="William J. Day Boulevard"/>
+		<tag k="oneway" v="no"/>
+		<tag k="parking:both" v="lane"/>
+		<tag k="parking:both:orientation" v="parallel"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="29.0"/>
+	</way>
+  </modify>
+</osmChange>

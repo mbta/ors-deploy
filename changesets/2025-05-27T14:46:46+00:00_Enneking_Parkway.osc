@@ -1,0 +1,232 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="8640504">
+		<nd ref="61355600"/>
+		<nd ref="61435143"/>
+		<nd ref="61435139"/>
+		<nd ref="61435146"/>
+		<nd ref="61435145"/>
+		<nd ref="61435151"/>
+		<nd ref="61435148"/>
+		<nd ref="61435079"/>
+		<nd ref="61435075"/>
+		<nd ref="61435086"/>
+		<nd ref="61435084"/>
+		<nd ref="61435097"/>
+		<nd ref="61435092"/>
+		<nd ref="61435111"/>
+		<nd ref="61435103"/>
+		<nd ref="61434901"/>
+		<nd ref="61434904"/>
+		<nd ref="61434894"/>
+		<nd ref="61434897"/>
+		<nd ref="61434917"/>
+		<nd ref="61434921"/>
+		<nd ref="61434907"/>
+		<nd ref="61434911"/>
+		<nd ref="61434866"/>
+		<nd ref="61434868"/>
+		<nd ref="61434860"/>
+		<nd ref="9908217306"/>
+		<nd ref="61434862"/>
+		<nd ref="9908217305"/>
+		<nd ref="61434885"/>
+		<nd ref="61434890"/>
+		<nd ref="61434872"/>
+		<nd ref="61434879"/>
+		<nd ref="61434978"/>
+		<nd ref="61434972"/>
+		<nd ref="9908217304"/>
+		<nd ref="61434966"/>
+		<nd ref="61434963"/>
+		<nd ref="61434994"/>
+		<nd ref="896356735"/>
+		<nd ref="61434993"/>
+		<nd ref="7502265795"/>
+		<nd ref="61434990"/>
+		<nd ref="61434983"/>
+		<nd ref="61434943"/>
+		<nd ref="61434937"/>
+		<nd ref="61434931"/>
+		<nd ref="61434926"/>
+		<nd ref="61434960"/>
+		<nd ref="61434955"/>
+		<nd ref="61434951"/>
+		<nd ref="7502265792"/>
+		<nd ref="61434949"/>
+		<nd ref="61434759"/>
+		<nd ref="61434765"/>
+		<nd ref="61434768"/>
+		<nd ref="61434773"/>
+		<nd ref="61434735"/>
+		<nd ref="61434743"/>
+		<nd ref="61434748"/>
+		<nd ref="61434754"/>
+		<nd ref="61434715"/>
+		<nd ref="61434721"/>
+		<nd ref="61434725"/>
+		<nd ref="61434730"/>
+		<nd ref="61434667"/>
+		<nd ref="61434669"/>
+		<nd ref="61434705"/>
+		<nd ref="61434707"/>
+		<nd ref="61434847"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="111896"/>
+		<tag k="maxspeed" v="35 mph"/>
+		<tag k="name" v="Enneking Parkway"/>
+		<tag k="rcn_ref" v="1"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="21.3"/>
+	</way>
+<way id="8647557">
+		<nd ref="61494815"/>
+		<nd ref="9143485798"/>
+		<nd ref="61559040"/>
+		<nd ref="9143485799"/>
+		<nd ref="9143485800"/>
+		<nd ref="61559020"/>
+		<nd ref="61559026"/>
+		<nd ref="61559007"/>
+		<nd ref="61559012"/>
+		<nd ref="61559092"/>
+		<nd ref="61559089"/>
+		<nd ref="61559098"/>
+		<nd ref="61559097"/>
+		<nd ref="61559067"/>
+		<nd ref="61559062"/>
+		<nd ref="61559079"/>
+		<nd ref="61559072"/>
+		<nd ref="8942707054"/>
+		<nd ref="61559114"/>
+		<nd ref="7502265772"/>
+		<nd ref="8942707055"/>
+		<nd ref="61559110"/>
+		<nd ref="8942707056"/>
+		<nd ref="8942707057"/>
+		<nd ref="8942707058"/>
+		<nd ref="61559125"/>
+		<nd ref="61559119"/>
+		<nd ref="8942707059"/>
+		<nd ref="8942707060"/>
+		<nd ref="61559103"/>
+		<nd ref="8942707061"/>
+		<nd ref="8942707062"/>
+		<nd ref="61559100"/>
+		<nd ref="8942707063"/>
+		<nd ref="61559107"/>
+		<nd ref="8942707064"/>
+		<nd ref="8942707065"/>
+		<nd ref="8942707066"/>
+		<nd ref="61559104"/>
+		<nd ref="8942707067"/>
+		<nd ref="8942707068"/>
+		<nd ref="8942724561"/>
+		<nd ref="61559156"/>
+		<nd ref="8942724562"/>
+		<nd ref="61559159"/>
+		<nd ref="8942724563"/>
+		<nd ref="61455895"/>
+		<nd ref="8942734617"/>
+		<nd ref="8942734618"/>
+		<nd ref="61561611"/>
+		<nd ref="8942734619"/>
+		<nd ref="8942734620"/>
+		<nd ref="9634452872"/>
+		<nd ref="11144414347"/>
+		<nd ref="61367847"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="111896"/>
+		<tag k="maxspeed" v="35 mph"/>
+		<tag k="name" v="Enneking Parkway"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="15.2"/>
+	</way>
+<way id="48960286">
+		<nd ref="61366728"/>
+		<nd ref="61561631"/>
+		<nd ref="61561642"/>
+		<nd ref="61561651"/>
+		<nd ref="61561886"/>
+		<nd ref="61561879"/>
+		<nd ref="61561872"/>
+		<nd ref="61561858"/>
+		<nd ref="61561918"/>
+		<nd ref="61561911"/>
+		<nd ref="61561902"/>
+		<nd ref="61561892"/>
+		<nd ref="61561952"/>
+		<nd ref="61561944"/>
+		<nd ref="61561935"/>
+		<nd ref="61561927"/>
+		<nd ref="61561978"/>
+		<nd ref="9143485794"/>
+		<nd ref="9143485793"/>
+		<nd ref="9143485792"/>
+		<nd ref="9143485795"/>
+		<nd ref="9143485796"/>
+		<nd ref="9143485797"/>
+		<nd ref="61494815"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="111896"/>
+		<tag k="maxspeed" v="35 mph"/>
+		<tag k="name" v="Enneking Parkway"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="21.3"/>
+	</way>
+<way id="1308543262">
+		<nd ref="61365670"/>
+		<nd ref="9233666549"/>
+		<nd ref="9908358078"/>
+		<nd ref="3392495634"/>
+		<nd ref="9143468999"/>
+		<nd ref="61434856"/>
+		<nd ref="61562660"/>
+		<nd ref="9143468998"/>
+		<nd ref="9143468997"/>
+		<nd ref="61434854"/>
+		<nd ref="61427056"/>
+		<nd ref="9143469001"/>
+		<nd ref="9143468996"/>
+		<nd ref="9143469002"/>
+		<nd ref="9143469003"/>
+		<nd ref="61434822"/>
+		<nd ref="61434819"/>
+		<nd ref="61434834"/>
+		<nd ref="61434830"/>
+		<nd ref="61434799"/>
+		<nd ref="61434797"/>
+		<nd ref="61434840"/>
+		<nd ref="61355600"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="111896"/>
+		<tag k="maxspeed" v="35 mph"/>
+		<tag k="name" v="Enneking Parkway"/>
+		<tag k="rcn_ref" v="1"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="21.3"/>
+	</way>
+  </modify>
+</osmChange>

@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="8641110">
+		<nd ref="4871222608"/>
+		<nd ref="61452989"/>
+		<nd ref="4871222618"/>
+		<nd ref="4871222923"/>
+		<nd ref="4871222614"/>
+		<nd ref="61452995"/>
+		<nd ref="61453073"/>
+		<nd ref="4872550591"/>
+		<nd ref="6955654837"/>
+		<nd ref="11943814532"/>
+		<nd ref="61358326"/>
+		<nd ref="61358324"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="tertiary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="209034"/>
+		<tag k="maxspeed" v="20 mph"/>
+		<tag k="name" v="Cemetery Road"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="13.4"/>
+	</way>
+<way id="495355538">
+		<nd ref="61453063"/>
+		<nd ref="61453059"/>
+		<nd ref="4871222666"/>
+		<nd ref="4871222668"/>
+		<nd ref="4871222667"/>
+		<nd ref="4871222665"/>
+		<nd ref="61354526"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="tertiary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="209034"/>
+		<tag k="maxspeed" v="20 mph"/>
+		<tag k="name" v="Cemetery Road"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="13.4"/>
+	</way>
+<way id="495355539">
+		<nd ref="4871222608"/>
+		<nd ref="61453063"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="tertiary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="layer" v="-1"/>
+		<tag k="massgis:way_id" v="209034"/>
+		<tag k="maxspeed" v="20 mph"/>
+		<tag k="name" v="Cemetery Road"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="tunnel" v="yes"/>
+		<tag k="width" v="13.4"/>
+	</way>
+  </modify>
+</osmChange>

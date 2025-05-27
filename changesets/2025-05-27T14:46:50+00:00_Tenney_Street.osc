@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="8648982">
+		<nd ref="61662889"/>
+		<nd ref="61658043"/>
+		<nd ref="61666980"/>
+		<nd ref="61661030"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="tertiary"/>
+		<tag k="name" v="Tenney Street"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+  </modify>
+</osmChange>

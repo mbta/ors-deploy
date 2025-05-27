@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="8841458">
+		<nd ref="5273779843"/>
+		<nd ref="63973894"/>
+		<nd ref="64030693"/>
+		<nd ref="63990752"/>
+		<nd ref="63963559"/>
+		<nd ref="63992698"/>
+		<nd ref="9532847967"/>
+		<nd ref="64046894"/>
+		<nd ref="63975931"/>
+		<nd ref="9532847966"/>
+		<nd ref="64007965"/>
+		<nd ref="63994121"/>
+		<nd ref="63955499"/>
+		<nd ref="5273779832"/>
+		<nd ref="9532847965"/>
+		<nd ref="63961333"/>
+		<nd ref="63941318"/>
+		<nd ref="63942261"/>
+		<nd ref="64047273"/>
+		<nd ref="63939253"/>
+		<nd ref="63971283"/>
+		<nd ref="63987622"/>
+		<nd ref="63995282"/>
+		<nd ref="63958740"/>
+		<nd ref="63946508"/>
+		<nd ref="64029596"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="intolerable"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="1"/>
+		<tag k="massgis:way_id" v="201054"/>
+		<tag k="name" v="Goss Lane"/>
+		<tag k="source" v="massgis_import_v0.1_20071009085326"/>
+		<tag k="surface" v="unpaved"/>
+		<tag k="width" v="9.1"/>
+	</way>
+<way id="8841775">
+		<nd ref="64038001"/>
+		<nd ref="63947972"/>
+		<nd ref="64004272"/>
+		<nd ref="63933063"/>
+		<nd ref="64033873"/>
+		<nd ref="63979384"/>
+		<nd ref="63965793"/>
+		<nd ref="64054048"/>
+		<nd ref="64032428"/>
+		<nd ref="5273779826"/>
+		<nd ref="63967163"/>
+		<nd ref="63987925"/>
+		<nd ref="64016021"/>
+		<nd ref="64027281"/>
+		<nd ref="64050253"/>
+		<nd ref="5273779820"/>
+		<nd ref="63957231"/>
+		<nd ref="64015690"/>
+		<nd ref="63956202"/>
+		<nd ref="5273779814"/>
+		<nd ref="5273779813"/>
+		<nd ref="64021494"/>
+		<nd ref="63988560"/>
+		<nd ref="63971804"/>
+		<nd ref="64019072"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="1"/>
+		<tag k="massgis:way_id" v="201054"/>
+		<tag k="name" v="Goss Lane"/>
+		<tag k="source" v="massgis_import_v0.1_20071009085326"/>
+		<tag k="width" v="9.1"/>
+	</way>
+<way id="8841777">
+		<nd ref="63942093"/>
+		<nd ref="12069284771"/>
+		<nd ref="63992092"/>
+		<nd ref="5273779843"/>
+		<tag k="access" v="destination"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="1"/>
+		<tag k="massgis:way_id" v="201054"/>
+		<tag k="name" v="Goss Lane"/>
+		<tag k="source" v="massgis_import_v0.1_20071009085326"/>
+		<tag k="width" v="9.1"/>
+	</way>
+<way id="8842000">
+		<nd ref="64029596"/>
+		<nd ref="63988775"/>
+		<nd ref="63983186"/>
+		<nd ref="63932159"/>
+		<nd ref="64025087"/>
+		<nd ref="64038001"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="deficient"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="1"/>
+		<tag k="massgis:way_id" v="201054"/>
+		<tag k="name" v="Goss Lane"/>
+		<tag k="source" v="massgis_import_v0.1_20071009085326"/>
+		<tag k="surface" v="unpaved"/>
+		<tag k="width" v="9.1"/>
+	</way>
+  </modify>
+</osmChange>

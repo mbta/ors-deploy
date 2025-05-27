@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="9184291">
+		<nd ref="68348909"/>
+		<nd ref="68328696"/>
+		<nd ref="68310450"/>
+		<nd ref="68329001"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lane_markings" v="no"/>
+		<tag k="massgis:way_id" v="121168"/>
+		<tag k="name" v="Pine Street"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="massgis_import_v0.1_20071009091501"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="12.2"/>
+	</way>
+<way id="9327971">
+		<nd ref="70325856"/>
+		<nd ref="70295944"/>
+		<nd ref="70377826"/>
+		<nd ref="8320697516"/>
+		<nd ref="70311036"/>
+		<nd ref="70330791"/>
+		<nd ref="70400908"/>
+		<nd ref="70329974"/>
+		<nd ref="70368379"/>
+		<nd ref="70312120"/>
+		<nd ref="70346789"/>
+		<nd ref="70346285"/>
+		<nd ref="70300794"/>
+		<nd ref="70357534"/>
+		<nd ref="70370852"/>
+		<nd ref="70365404"/>
+		<nd ref="70355219"/>
+		<nd ref="70378191"/>
+		<nd ref="70397818"/>
+		<nd ref="70321246"/>
+		<nd ref="70373752"/>
+		<nd ref="70299132"/>
+		<nd ref="70353700"/>
+		<nd ref="70357040"/>
+		<nd ref="70385359"/>
+		<nd ref="70341160"/>
+		<nd ref="70328727"/>
+		<nd ref="70391864"/>
+		<nd ref="70327522"/>
+		<nd ref="70399349"/>
+		<nd ref="70397011"/>
+		<nd ref="70380545"/>
+		<nd ref="70304669"/>
+		<nd ref="70357532"/>
+		<nd ref="70314372"/>
+		<nd ref="70333323"/>
+		<nd ref="70351636"/>
+		<nd ref="70310918"/>
+		<nd ref="70381223"/>
+		<nd ref="70396782"/>
+		<nd ref="70335957"/>
+		<nd ref="70302100"/>
+		<nd ref="70333256"/>
+		<nd ref="70369678"/>
+		<nd ref="70390486"/>
+		<nd ref="70306649"/>
+		<nd ref="70300191"/>
+		<nd ref="70293781"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="122006"/>
+		<tag k="name" v="Pine Street"/>
+		<tag k="source" v="massgis_import_v0.1_20071009092036"/>
+		<tag k="width" v="15.2"/>
+	</way>
+<way id="635300492">
+		<nd ref="68329001"/>
+		<nd ref="68345524"/>
+		<nd ref="68352394"/>
+		<nd ref="68346388"/>
+		<nd ref="68358884"/>
+		<nd ref="68345543"/>
+		<nd ref="68314196"/>
+		<nd ref="12747542427"/>
+		<nd ref="68355464"/>
+		<nd ref="6866397094"/>
+		<nd ref="68347509"/>
+		<nd ref="68329110"/>
+		<nd ref="68326117"/>
+		<nd ref="68305774"/>
+		<nd ref="68341303"/>
+		<nd ref="8370424361"/>
+		<nd ref="8370424362"/>
+		<nd ref="68328645"/>
+		<nd ref="68328702"/>
+		<nd ref="9654524846"/>
+		<nd ref="68329143"/>
+		<nd ref="10110287118"/>
+		<nd ref="68354508"/>
+		<nd ref="68313420"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="1"/>
+		<tag k="massgis:way_id" v="121168"/>
+		<tag k="name" v="Pine Street"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="massgis_import_v0.1_20071009091501"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="12.2"/>
+	</way>
+  </modify>
+</osmChange>

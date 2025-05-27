@@ -1,0 +1,404 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="8651760">
+		<nd ref="61395123"/>
+		<nd ref="7087024440"/>
+		<nd ref="7087024467"/>
+		<nd ref="7087024469"/>
+		<nd ref="7087024454"/>
+		<nd ref="7087024444"/>
+		<nd ref="7087024460"/>
+		<nd ref="7087024455"/>
+		<nd ref="7087024450"/>
+		<nd ref="7087024471"/>
+		<nd ref="61394791"/>
+		<nd ref="7087024448"/>
+		<nd ref="7087024456"/>
+		<nd ref="7087024451"/>
+		<nd ref="2667402739"/>
+		<nd ref="7087024470"/>
+		<nd ref="61394799"/>
+		<nd ref="7087024439"/>
+		<nd ref="61394795"/>
+		<nd ref="7087024466"/>
+		<nd ref="2667402733"/>
+		<nd ref="7087024472"/>
+		<nd ref="61394810"/>
+		<nd ref="7087024449"/>
+		<nd ref="2667386805"/>
+		<nd ref="7087024447"/>
+		<nd ref="61394803"/>
+		<nd ref="7087024436"/>
+		<nd ref="2667386773"/>
+		<nd ref="7087024459"/>
+		<nd ref="61394821"/>
+		<nd ref="7087024458"/>
+		<nd ref="2667386800"/>
+		<nd ref="7087024438"/>
+		<nd ref="61394817"/>
+		<nd ref="7087024445"/>
+		<nd ref="2667386795"/>
+		<nd ref="7087024453"/>
+		<nd ref="61394755"/>
+		<nd ref="7087024461"/>
+		<nd ref="2667386776"/>
+		<nd ref="7087024434"/>
+		<nd ref="2667386780"/>
+		<nd ref="11743268811"/>
+		<nd ref="11743268812"/>
+		<nd ref="7086916799"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="condition" v="good"/>
+		<tag k="destination" v="Arlington"/>
+		<tag k="destination:ref" v="MA 2;US 3"/>
+		<tag k="destination:street" v="Fresh Pond Parkway"/>
+		<tag k="expressway" v="yes"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="horse" v="no"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="141342"/>
+		<tag k="name" v="Eliot Bridge"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="width" v="28.0"/>
+	</way>
+<way id="41743732">
+		<nd ref="61283403"/>
+		<nd ref="61354538"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bridge" v="yes"/>
+		<tag k="condition" v="good"/>
+		<tag k="expressway" v="yes"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="layer" v="1"/>
+		<tag k="massgis:ref" v="0 N332"/>
+		<tag k="massgis:way_id" v="141342;201268"/>
+		<tag k="name" v="Eliot Bridge"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="massgis_import_v0.1_20071008165629"/>
+		<tag k="width" v="28.0"/>
+	</way>
+<way id="42161639">
+		<nd ref="61326095"/>
+		<nd ref="2660050864"/>
+		<nd ref="7086766323"/>
+		<nd ref="2660050863"/>
+		<nd ref="7086766351"/>
+		<nd ref="997344655"/>
+		<nd ref="7086766329"/>
+		<nd ref="61331635"/>
+		<nd ref="7086766313"/>
+		<nd ref="7086766343"/>
+		<nd ref="2660050866"/>
+		<nd ref="7086766350"/>
+		<nd ref="61331643"/>
+		<nd ref="7086766321"/>
+		<nd ref="61331268"/>
+		<nd ref="7086766311"/>
+		<nd ref="1170760557"/>
+		<nd ref="7086766322"/>
+		<nd ref="12552950443"/>
+		<nd ref="12552950444"/>
+		<nd ref="61331284"/>
+		<nd ref="12552950445"/>
+		<nd ref="12552950447"/>
+		<nd ref="12552950446"/>
+		<nd ref="61325507"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="201268"/>
+		<tag k="name" v="Eliot Bridge"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="massgis_import_v0.1_20071008165629"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="right|right"/>
+		<tag k="width" v="25.9"/>
+	</way>
+<way id="42161640">
+		<nd ref="61354538"/>
+		<nd ref="61354509"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="expressway" v="yes"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:ref" v="0 N332"/>
+		<tag k="massgis:way_id" v="141342"/>
+		<tag k="name" v="Eliot Bridge"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="turn:lanes" v="through|through;right"/>
+		<tag k="width" v="28.0"/>
+	</way>
+<way id="42161642">
+		<nd ref="61585264"/>
+		<nd ref="61331597"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bridge" v="yes"/>
+		<tag k="condition" v="good"/>
+		<tag k="expressway" v="yes"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="layer" v="1"/>
+		<tag k="massgis:way_id" v="141342;201268"/>
+		<tag k="name" v="Eliot Bridge"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="massgis_import_v0.1_20071008165629"/>
+		<tag k="turn:lanes" v="through;right|right"/>
+		<tag k="width" v="28.0"/>
+	</way>
+<way id="93128877">
+		<nd ref="61354509"/>
+		<nd ref="7086758362"/>
+		<nd ref="7086758349"/>
+		<nd ref="61516891"/>
+		<nd ref="7086758351"/>
+		<nd ref="7086758353"/>
+		<nd ref="2667431648"/>
+		<nd ref="7086758355"/>
+		<nd ref="61516902"/>
+		<nd ref="7086758357"/>
+		<nd ref="61516900"/>
+		<nd ref="7086758347"/>
+		<nd ref="61516889"/>
+		<nd ref="7086758356"/>
+		<nd ref="2667431637"/>
+		<nd ref="7086758360"/>
+		<nd ref="61516887"/>
+		<nd ref="2667406704"/>
+		<nd ref="7086758359"/>
+		<nd ref="61516894"/>
+		<nd ref="7086758350"/>
+		<nd ref="7086758358"/>
+		<nd ref="2667431660"/>
+		<nd ref="61589419"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="condition" v="good"/>
+		<tag k="expressway" v="yes"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="3"/>
+		<tag k="massgis:ref" v="0 N332"/>
+		<tag k="massgis:way_id" v="141342"/>
+		<tag k="name" v="Eliot Bridge"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="width" v="28.0"/>
+	</way>
+<way id="353942598">
+		<nd ref="61323151"/>
+		<nd ref="7089862728"/>
+		<nd ref="7089862734"/>
+		<nd ref="7089862729"/>
+		<nd ref="7089862744"/>
+		<nd ref="7089862727"/>
+		<nd ref="2660067737"/>
+		<nd ref="61323150"/>
+		<nd ref="7089862739"/>
+		<nd ref="7045375850"/>
+		<nd ref="61323148"/>
+		<nd ref="7045375847"/>
+		<nd ref="2659991001"/>
+		<nd ref="7045375845"/>
+		<nd ref="61323146"/>
+		<nd ref="12552950435"/>
+		<nd ref="7045375853"/>
+		<nd ref="7045375844"/>
+		<nd ref="2659990983"/>
+		<nd ref="61316733"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="expressway" v="yes"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:ref" v="0 N332"/>
+		<tag k="massgis:way_id" v="201268"/>
+		<tag k="name" v="Eliot Bridge"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="massgis_import_v0.1_20071008165629"/>
+		<tag k="width" v="25.9"/>
+	</way>
+<way id="533537967">
+		<nd ref="61589419"/>
+		<nd ref="7086758344"/>
+		<nd ref="2667406702"/>
+		<nd ref="7086758354"/>
+		<nd ref="2667406698"/>
+		<nd ref="61449801"/>
+		<nd ref="2667431638"/>
+		<nd ref="61449806"/>
+		<nd ref="7086915033"/>
+		<nd ref="2667431642"/>
+		<nd ref="7086915049"/>
+		<nd ref="61449848"/>
+		<nd ref="7086915044"/>
+		<nd ref="2667431647"/>
+		<nd ref="7086915039"/>
+		<nd ref="61449853"/>
+		<nd ref="7086915030"/>
+		<nd ref="61449857"/>
+		<nd ref="7086915046"/>
+		<nd ref="61449859"/>
+		<nd ref="7086915061"/>
+		<nd ref="2667431657"/>
+		<nd ref="7089823801"/>
+		<nd ref="61449830"/>
+		<nd ref="7089823803"/>
+		<nd ref="2667431649"/>
+		<nd ref="7089823802"/>
+		<nd ref="61449835"/>
+		<nd ref="11743283192"/>
+		<nd ref="11743283190"/>
+		<nd ref="11743283191"/>
+		<nd ref="11743283188"/>
+		<nd ref="11743283189"/>
+		<nd ref="61449838"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="expressway" v="yes"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="horse" v="no"/>
+		<tag k="massgis:ref" v="0 N332"/>
+		<tag k="massgis:way_id" v="141342"/>
+		<tag k="name" v="Eliot Bridge"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="turn:lanes" v="||merge_to_left"/>
+		<tag k="width" v="28.0"/>
+	</way>
+<way id="657086856">
+		<nd ref="61316733"/>
+		<nd ref="2660009412"/>
+		<nd ref="7045375840"/>
+		<nd ref="61316734"/>
+		<nd ref="61316731"/>
+		<nd ref="2660009420"/>
+		<nd ref="2660009413"/>
+		<nd ref="61316732"/>
+		<nd ref="61316737"/>
+		<nd ref="7045375851"/>
+		<nd ref="61316738"/>
+		<nd ref="7045375855"/>
+		<nd ref="2660009396"/>
+		<nd ref="7086766328"/>
+		<nd ref="61316735"/>
+		<nd ref="7086766348"/>
+		<nd ref="2660009408"/>
+		<nd ref="7086766318"/>
+		<nd ref="61283383"/>
+		<nd ref="7086766356"/>
+		<nd ref="61316729"/>
+		<nd ref="7086766337"/>
+		<nd ref="61283403"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="expressway" v="yes"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:ref" v="0 N332"/>
+		<tag k="massgis:way_id" v="201268"/>
+		<tag k="name" v="Eliot Bridge"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="massgis_import_v0.1_20071008165629"/>
+		<tag k="width" v="25.9"/>
+	</way>
+<way id="1040228196">
+		<nd ref="7086916799"/>
+		<nd ref="11743268815"/>
+		<nd ref="11743268813"/>
+		<nd ref="7086916801"/>
+		<nd ref="11743268814"/>
+		<nd ref="61394761"/>
+		<nd ref="61585264"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="expressway" v="yes"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="192483"/>
+		<tag k="maxspeed" v="35 mph"/>
+		<tag k="name" v="Eliot Bridge"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="source:maxspeed" v="massgis"/>
+	</way>
+<way id="1108976247">
+		<nd ref="61449838"/>
+		<nd ref="7089852548"/>
+		<nd ref="61449844"/>
+		<nd ref="7089852545"/>
+		<nd ref="2667431641"/>
+		<nd ref="7089852560"/>
+		<nd ref="61450062"/>
+		<nd ref="7089852547"/>
+		<nd ref="11743283187"/>
+		<nd ref="11743283186"/>
+		<nd ref="11743283185"/>
+		<nd ref="12552950430"/>
+		<nd ref="12552950431"/>
+		<nd ref="12552950432"/>
+		<nd ref="61366391"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="expressway" v="yes"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="horse" v="no"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:ref" v="0 N332"/>
+		<tag k="massgis:way_id" v="141342"/>
+		<tag k="name" v="Eliot Bridge"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="width" v="28.0"/>
+	</way>
+<way id="1317520253">
+		<nd ref="61331597"/>
+		<nd ref="12552950450"/>
+		<nd ref="12193960464"/>
+		<nd ref="12552950434"/>
+		<nd ref="12552950433"/>
+		<nd ref="61326095"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="201268"/>
+		<tag k="name" v="Eliot Bridge"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="massgis_import_v0.1_20071008165629"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="through;right|right"/>
+		<tag k="width" v="25.9"/>
+	</way>
+  </modify>
+</osmChange>

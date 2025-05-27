@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="9242423">
+		<nd ref="69133760"/>
+		<nd ref="9621131653"/>
+		<nd ref="10949943536"/>
+		<nd ref="69133899"/>
+		<nd ref="10949943538"/>
+		<nd ref="7651128085"/>
+		<nd ref="69161785"/>
+		<nd ref="7651121378"/>
+		<nd ref="7651128086"/>
+		<nd ref="69136585"/>
+		<nd ref="11821919432"/>
+		<nd ref="11821919433"/>
+		<nd ref="69119961"/>
+		<nd ref="69120250"/>
+		<nd ref="69129577"/>
+		<nd ref="10949791388"/>
+		<nd ref="69177585"/>
+		<nd ref="69161669"/>
+		<nd ref="69166279"/>
+		<nd ref="69142108"/>
+		<nd ref="69149209"/>
+		<nd ref="69138206"/>
+		<nd ref="69113769"/>
+		<nd ref="69169899"/>
+		<nd ref="11821919434"/>
+		<nd ref="69154988"/>
+		<nd ref="69181015"/>
+		<nd ref="69165914"/>
+		<nd ref="69156175"/>
+		<nd ref="69157328"/>
+		<nd ref="11821919435"/>
+		<nd ref="69161426"/>
+		<nd ref="69121221"/>
+		<nd ref="69155449"/>
+		<nd ref="11821919436"/>
+		<nd ref="11821919437"/>
+		<nd ref="69142536"/>
+		<nd ref="69112353"/>
+		<nd ref="7651128088"/>
+		<nd ref="69129032"/>
+		<nd ref="69133590"/>
+		<nd ref="11821919438"/>
+		<nd ref="69157979"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="tertiary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="196071"/>
+		<tag k="maxspeed" v="30 mph"/>
+		<tag k="name" v="Kendall Street"/>
+		<tag k="source" v="massgis_import_v0.1_20071009094103"/>
+		<tag k="source:maxspeed" v="massgis"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="14.0"/>
+	</way>
+  </modify>
+</osmChange>

@@ -1,0 +1,244 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="8645270">
+		<nd ref="8890622513"/>
+		<nd ref="9962822305"/>
+		<nd ref="61363095"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bicycle" v="yes"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:right" v="lane"/>
+		<tag k="cycleway:right:buffer" v="yes"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="1"/>
+		<tag k="massgis:way_id" v="152670"/>
+		<tag k="name" v="Old Colony Avenue"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="parking:lane:right" v="parallel"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="24.4"/>
+	</way>
+<way id="215950474">
+		<nd ref="9959616587"/>
+		<nd ref="61391257"/>
+		<nd ref="61448347"/>
+		<nd ref="2256326283"/>
+		<nd ref="2256326276"/>
+		<nd ref="61448336"/>
+		<nd ref="2256326267"/>
+		<nd ref="2256326262"/>
+		<nd ref="61448340"/>
+		<nd ref="61448324"/>
+		<nd ref="2256326272"/>
+		<nd ref="9686887672"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bicycle" v="yes"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:right" v="lane"/>
+		<tag k="cycleway:right:buffer" v="yes"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="152670"/>
+		<tag k="name" v="Old Colony Avenue"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="parking:lane:right" v="parallel"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="24.4"/>
+	</way>
+<way id="1012547700">
+		<nd ref="61346596"/>
+		<nd ref="2254130934"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bicycle" v="yes"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:right" v="lane"/>
+		<tag k="cycleway:right:buffer" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="1"/>
+		<tag k="massgis:way_id" v="152670"/>
+		<tag k="name" v="Old Colony Avenue"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="parking:lane:right" v="parallel"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="24.4"/>
+	</way>
+<way id="1087006173">
+		<nd ref="8855351862"/>
+		<nd ref="8855351867"/>
+		<nd ref="61346596"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bicycle" v="yes"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:right" v="lane"/>
+		<tag k="cycleway:right:buffer" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="1"/>
+		<tag k="massgis:way_id" v="152670"/>
+		<tag k="name" v="Old Colony Avenue"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="parking:lane:right" v="parallel"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="24.4"/>
+	</way>
+<way id="1087006174">
+		<nd ref="9686887672"/>
+		<nd ref="9959600442"/>
+		<nd ref="61448329"/>
+		<nd ref="2256326269"/>
+		<nd ref="3403853073"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bicycle" v="yes"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:right" v="lane"/>
+		<tag k="cycleway:right:buffer" v="yes"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="152670"/>
+		<tag k="name" v="Old Colony Avenue"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="24.4"/>
+	</way>
+<way id="1087006175">
+		<nd ref="9959616588"/>
+		<nd ref="61399040"/>
+		<nd ref="3172314304"/>
+		<nd ref="9686887670"/>
+		<nd ref="9959616587"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bicycle" v="yes"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:right" v="lane"/>
+		<tag k="cycleway:right:buffer" v="yes"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="152670"/>
+		<tag k="name" v="Old Colony Avenue"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="24.4"/>
+	</way>
+<way id="1087006176">
+		<nd ref="2254130937"/>
+		<nd ref="8855351855"/>
+		<nd ref="61367052"/>
+		<nd ref="10861566206"/>
+		<nd ref="10861564604"/>
+		<nd ref="8855351861"/>
+		<nd ref="8855351866"/>
+		<nd ref="9686887666"/>
+		<nd ref="9686887668"/>
+		<nd ref="9959616588"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bicycle" v="yes"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:right" v="lane"/>
+		<tag k="cycleway:right:buffer" v="yes"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="152670"/>
+		<tag k="name" v="Old Colony Avenue"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="parking:lane:right" v="parallel"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="24.4"/>
+	</way>
+<way id="1198828536">
+		<nd ref="61363095"/>
+		<nd ref="61357011"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bicycle" v="yes"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:right" v="lane"/>
+		<tag k="cycleway:right:buffer" v="yes"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="1"/>
+		<tag k="massgis:way_id" v="152670"/>
+		<tag k="name" v="Old Colony Avenue"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="parking:lane:right" v="parallel"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="24.4"/>
+	</way>
+<way id="1198828537">
+		<nd ref="61357011"/>
+		<nd ref="61345441"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bicycle" v="yes"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:right" v="lane"/>
+		<tag k="cycleway:right:buffer" v="yes"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="1"/>
+		<tag k="massgis:way_id" v="152670"/>
+		<tag k="name" v="Old Colony Avenue"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="parking:lane:right" v="parallel"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="24.4"/>
+	</way>
+<way id="1198828538">
+		<nd ref="61345441"/>
+		<nd ref="3172314303"/>
+		<nd ref="9686887671"/>
+		<nd ref="61345435"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bicycle" v="yes"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:right" v="lane"/>
+		<tag k="cycleway:right:buffer" v="yes"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="1"/>
+		<tag k="massgis:way_id" v="152670"/>
+		<tag k="name" v="Old Colony Avenue"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="parking:lane:right" v="parallel"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="24.4"/>
+	</way>
+<way id="1198828539">
+		<nd ref="61345435"/>
+		<nd ref="4780399910"/>
+		<nd ref="9686887669"/>
+		<nd ref="9686887667"/>
+		<nd ref="8855351862"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bicycle" v="yes"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:right" v="lane"/>
+		<tag k="cycleway:right:buffer" v="yes"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="1"/>
+		<tag k="massgis:way_id" v="152670"/>
+		<tag k="name" v="Old Colony Avenue"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="parking:lane:right" v="parallel"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="24.4"/>
+	</way>
+  </modify>
+</osmChange>

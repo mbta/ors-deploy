@@ -1,0 +1,226 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="9233005">
+		<nd ref="69060706"/>
+		<nd ref="69032381"/>
+		<nd ref="69051241"/>
+		<nd ref="69051660"/>
+		<nd ref="69036843"/>
+		<nd ref="69042150"/>
+		<nd ref="69030291"/>
+		<nd ref="69055720"/>
+		<nd ref="69055309"/>
+		<nd ref="69045681"/>
+		<nd ref="69039025"/>
+		<nd ref="69046741"/>
+		<nd ref="69061299"/>
+		<nd ref="69026640"/>
+		<nd ref="69025002"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bicycle" v="yes"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="yes"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="unclassified"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="126628"/>
+		<tag k="motor_vehicle" v="permit"/>
+		<tag k="name" v="Hemlock Road"/>
+		<tag k="source" v="massgis_import_v0.1_20071009094037"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="15.2"/>
+	</way>
+<way id="9616930">
+		<nd ref="74916978"/>
+		<nd ref="74925875"/>
+		<nd ref="74941051"/>
+		<nd ref="74912780"/>
+		<nd ref="74961522"/>
+		<nd ref="74925750"/>
+		<nd ref="74918364"/>
+		<nd ref="74926131"/>
+		<nd ref="74924810"/>
+		<nd ref="74957867"/>
+		<nd ref="74918310"/>
+		<nd ref="5665244384"/>
+		<nd ref="74950765"/>
+		<nd ref="74946678"/>
+		<nd ref="5665244434"/>
+		<nd ref="74943384"/>
+		<nd ref="74950344"/>
+		<nd ref="5665244435"/>
+		<nd ref="74922966"/>
+		<nd ref="74950894"/>
+		<nd ref="74913683"/>
+		<nd ref="5665244438"/>
+		<nd ref="74920590"/>
+		<nd ref="5665244437"/>
+		<nd ref="74929385"/>
+		<nd ref="5665244436"/>
+		<nd ref="74919065"/>
+		<nd ref="74914010"/>
+		<nd ref="74923905"/>
+		<nd ref="74961871"/>
+		<nd ref="5665244432"/>
+		<nd ref="74958037"/>
+		<nd ref="74932713"/>
+		<nd ref="5665244431"/>
+		<nd ref="74921807"/>
+		<nd ref="5665244430"/>
+		<nd ref="74912854"/>
+		<nd ref="74942574"/>
+		<nd ref="1278154982"/>
+		<nd ref="74943740"/>
+		<nd ref="74915407"/>
+		<nd ref="74922457"/>
+		<nd ref="5665244429"/>
+		<nd ref="5665244428"/>
+		<nd ref="74956226"/>
+		<nd ref="5665244426"/>
+		<nd ref="74915532"/>
+		<nd ref="5665244427"/>
+		<nd ref="74917025"/>
+		<nd ref="74935340"/>
+		<nd ref="9943986916"/>
+		<nd ref="74911730"/>
+		<nd ref="74920665"/>
+		<nd ref="74952056"/>
+		<nd ref="74950526"/>
+		<nd ref="74952141"/>
+		<nd ref="74947841"/>
+		<nd ref="74963212"/>
+		<nd ref="74950079"/>
+		<nd ref="74926885"/>
+		<nd ref="74922271"/>
+		<nd ref="74923303"/>
+		<nd ref="74961664"/>
+		<nd ref="74958476"/>
+		<nd ref="74925206"/>
+		<nd ref="74941613"/>
+		<nd ref="74914997"/>
+		<nd ref="74937011"/>
+		<nd ref="74947109"/>
+		<nd ref="74959679"/>
+		<nd ref="74918860"/>
+		<nd ref="74916989"/>
+		<nd ref="74919946"/>
+		<nd ref="74930619"/>
+		<nd ref="74912155"/>
+		<nd ref="951464636"/>
+		<nd ref="74931728"/>
+		<nd ref="6265256726"/>
+		<nd ref="74954216"/>
+		<nd ref="951464638"/>
+		<nd ref="74917032"/>
+		<nd ref="74959487"/>
+		<nd ref="74941491"/>
+		<nd ref="74935592"/>
+		<nd ref="74917907"/>
+		<nd ref="74957717"/>
+		<nd ref="74936383"/>
+		<nd ref="74942822"/>
+		<nd ref="951464646"/>
+		<nd ref="74921772"/>
+		<nd ref="74962095"/>
+		<nd ref="69060706"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bicycle" v="yes"/>
+		<tag k="condition" v="good"/>
+		<tag k="foot" v="yes"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="unclassified"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="117378"/>
+		<tag k="motor_vehicle" v="permit"/>
+		<tag k="name" v="Hemlock Road"/>
+		<tag k="source" v="massgis_import_v0.1_20071009093108"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+<way id="57827041">
+		<nd ref="74916978"/>
+		<nd ref="74919740"/>
+		<nd ref="74929025"/>
+		<nd ref="74931587"/>
+		<nd ref="74946760"/>
+		<nd ref="74915722"/>
+		<nd ref="951463861"/>
+		<nd ref="74960490"/>
+		<nd ref="951463864"/>
+		<nd ref="74955284"/>
+		<nd ref="74962048"/>
+		<nd ref="74926435"/>
+		<nd ref="74952385"/>
+		<nd ref="74960397"/>
+		<nd ref="74919202"/>
+		<nd ref="74938487"/>
+		<nd ref="74946412"/>
+		<nd ref="74954799"/>
+		<nd ref="3903322190"/>
+		<nd ref="74958277"/>
+		<nd ref="74914086"/>
+		<nd ref="74912771"/>
+		<nd ref="717417154"/>
+		<nd ref="74932701"/>
+		<nd ref="74925482"/>
+		<nd ref="74922519"/>
+		<nd ref="74960913"/>
+		<nd ref="74932052"/>
+		<nd ref="74929692"/>
+		<nd ref="951463888"/>
+		<nd ref="74949087"/>
+		<nd ref="951463896"/>
+		<nd ref="74916234"/>
+		<nd ref="74914707"/>
+		<nd ref="74952730"/>
+		<nd ref="3236267332"/>
+		<nd ref="74945414"/>
+		<nd ref="74957509"/>
+		<nd ref="3236267331"/>
+		<nd ref="74934322"/>
+		<nd ref="74925679"/>
+		<nd ref="74949795"/>
+		<nd ref="74961936"/>
+		<nd ref="74925652"/>
+		<nd ref="74961217"/>
+		<nd ref="74960026"/>
+		<nd ref="74910517"/>
+		<nd ref="74930749"/>
+		<nd ref="74958597"/>
+		<nd ref="74926339"/>
+		<nd ref="74932402"/>
+		<nd ref="74936301"/>
+		<nd ref="74962146"/>
+		<nd ref="5665242057"/>
+		<nd ref="74960278"/>
+		<nd ref="5665242058"/>
+		<nd ref="74928378"/>
+		<nd ref="5665242056"/>
+		<nd ref="74944153"/>
+		<nd ref="74933978"/>
+		<nd ref="74936003"/>
+		<nd ref="74923161"/>
+		<nd ref="74913817"/>
+		<nd ref="74937313"/>
+		<nd ref="74942993"/>
+		<nd ref="74942162"/>
+		<nd ref="74922740"/>
+		<nd ref="74929753"/>
+		<nd ref="951463903"/>
+		<nd ref="74962562"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bicycle" v="yes"/>
+		<tag k="condition" v="good"/>
+		<tag k="foot" v="yes"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="unclassified"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="262;117378"/>
+		<tag k="motor_vehicle" v="permit"/>
+		<tag k="name" v="Hemlock Road"/>
+		<tag k="source" v="massgis_import_v0.1_20071009093108;massgis_import_v0.1_20071009094037"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+  </modify>
+</osmChange>

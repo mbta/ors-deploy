@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="9237968">
+		<nd ref="69066691"/>
+		<nd ref="9520623137"/>
+		<nd ref="9520623141"/>
+		<nd ref="68937127"/>
+		<nd ref="9520623147"/>
+		<nd ref="69114567"/>
+		<nd ref="69114464"/>
+		<nd ref="69037242"/>
+		<nd ref="9520623142"/>
+		<nd ref="69010604"/>
+		<nd ref="9520623143"/>
+		<nd ref="69006518"/>
+		<nd ref="9520623144"/>
+		<nd ref="68917770"/>
+		<nd ref="69034142"/>
+		<nd ref="68927284"/>
+		<nd ref="69019966"/>
+		<nd ref="9520623146"/>
+		<nd ref="9520687290"/>
+		<nd ref="9520687291"/>
+		<nd ref="69038875"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="113664"/>
+		<tag k="name" v="Bow Street"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="massgis_import_v0.1_20071009093715"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="12.2"/>
+	</way>
+<way id="9589018">
+		<nd ref="74325647"/>
+		<nd ref="3847803759"/>
+		<nd ref="74368533"/>
+		<nd ref="3847803761"/>
+		<nd ref="3847803763"/>
+		<nd ref="3847803765"/>
+		<nd ref="74397323"/>
+		<nd ref="3847803766"/>
+		<nd ref="3847803773"/>
+		<nd ref="74333002"/>
+		<nd ref="8212686500"/>
+		<nd ref="74367472"/>
+		<nd ref="3847803826"/>
+		<nd ref="74332286"/>
+		<nd ref="3847803839"/>
+		<nd ref="74346930"/>
+		<nd ref="3847803856"/>
+		<nd ref="3847803859"/>
+		<nd ref="3847803863"/>
+		<nd ref="74333393"/>
+		<nd ref="74327327"/>
+		<nd ref="3847803877"/>
+		<nd ref="74396806"/>
+		<nd ref="74356818"/>
+		<nd ref="3847803882"/>
+		<nd ref="3160399043"/>
+		<nd ref="74376799"/>
+		<nd ref="3160399431"/>
+		<nd ref="74388563"/>
+		<nd ref="3160399516"/>
+		<nd ref="3160399565"/>
+		<nd ref="3160399669"/>
+		<nd ref="3847070123"/>
+		<nd ref="3847070125"/>
+		<nd ref="74310829"/>
+		<nd ref="3847070131"/>
+		<nd ref="3847070133"/>
+		<nd ref="74383425"/>
+		<nd ref="74302599"/>
+		<nd ref="3453159713"/>
+		<nd ref="74334485"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="2"/>
+		<tag k="lit" v="yes"/>
+		<tag k="name" v="Bow Street"/>
+		<tag k="sidewalk" v="both"/>
+		<tag k="sidewalk:both:surface" v="concrete"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+  </modify>
+</osmChange>

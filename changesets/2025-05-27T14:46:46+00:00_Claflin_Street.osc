@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="9695112">
+		<nd ref="65701752"/>
+		<nd ref="12302184792"/>
+		<nd ref="65640624"/>
+		<nd ref="65680597"/>
+		<nd ref="65745616"/>
+		<nd ref="65660600"/>
+		<nd ref="65722666"/>
+		<nd ref="12444492194"/>
+		<nd ref="65745185"/>
+		<nd ref="12444492195"/>
+		<nd ref="65648255"/>
+		<nd ref="65754319"/>
+		<nd ref="65686187"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="184552"/>
+		<tag k="name" v="Claflin Street"/>
+		<tag k="source" v="massgis_import_v0.1_20071009100855"/>
+		<tag k="width" v="15.2"/>
+	</way>
+  </modify>
+</osmChange>

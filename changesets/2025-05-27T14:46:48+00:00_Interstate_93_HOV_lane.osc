@@ -1,0 +1,221 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="124740535">
+		<nd ref="1387463301"/>
+		<nd ref="1387463299"/>
+		<nd ref="3606119779"/>
+		<nd ref="1519101018"/>
+		<nd ref="1387463297"/>
+		<nd ref="1519100807"/>
+		<nd ref="1387463296"/>
+		<nd ref="1519101039"/>
+		<nd ref="1387463285"/>
+		<nd ref="3606119782"/>
+		<nd ref="3606119790"/>
+		<nd ref="1387463283"/>
+		<nd ref="3606119789"/>
+		<nd ref="3606119788"/>
+		<nd ref="1387463281"/>
+		<nd ref="1387463279"/>
+		<nd ref="3606119781"/>
+		<nd ref="3606119786"/>
+		<nd ref="1387463264"/>
+		<nd ref="1387463261"/>
+		<tag k="access" v="hov"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov" v="designated"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lit" v="yes"/>
+		<tag k="name" v="Interstate 93 HOV lane"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+<way id="124740545">
+		<nd ref="1387463354"/>
+		<nd ref="1387463338"/>
+		<nd ref="3606022261"/>
+		<nd ref="1387463336"/>
+		<nd ref="3606022264"/>
+		<nd ref="1387463335"/>
+		<nd ref="1387463334"/>
+		<nd ref="3606103464"/>
+		<nd ref="1387463333"/>
+		<nd ref="1387463332"/>
+		<nd ref="1387463330"/>
+		<nd ref="1387463328"/>
+		<nd ref="3606119783"/>
+		<nd ref="1387463301"/>
+		<tag k="access" v="hov"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bridge" v="yes"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov" v="designated"/>
+		<tag k="lanes" v="1"/>
+		<tag k="layer" v="2"/>
+		<tag k="lit" v="yes"/>
+		<tag k="name" v="Interstate 93 HOV lane"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+<way id="124740549">
+		<nd ref="1387463360"/>
+		<nd ref="1387463358"/>
+		<tag k="access" v="hov"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bridge" v="yes"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov" v="designated"/>
+		<tag k="lanes" v="1"/>
+		<tag k="layer" v="1"/>
+		<tag k="lit" v="yes"/>
+		<tag k="name" v="Interstate 93 HOV lane"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+<way id="124740553">
+		<nd ref="71938469"/>
+		<nd ref="8096696607"/>
+		<nd ref="8096699018"/>
+		<nd ref="1387463360"/>
+		<tag k="access" v="hov"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="foot" v="no"/>
+		<tag k="hazmat" v="destination"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov" v="designated"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lit" v="yes"/>
+		<tag k="name" v="Interstate 93 HOV lane"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+<way id="124740555">
+		<nd ref="1387463358"/>
+		<nd ref="1387463356"/>
+		<nd ref="1387463354"/>
+		<tag k="access" v="hov"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov" v="designated"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lit" v="yes"/>
+		<tag k="name" v="Interstate 93 HOV lane"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+<way id="355232321">
+		<nd ref="1387463261"/>
+		<nd ref="1387463250"/>
+		<nd ref="3606119785"/>
+		<nd ref="3606119787"/>
+		<nd ref="1387463249"/>
+		<nd ref="1519077280"/>
+		<nd ref="1387463248"/>
+		<nd ref="1519077262"/>
+		<nd ref="1387463245"/>
+		<nd ref="1519077248"/>
+		<nd ref="1387463243"/>
+		<nd ref="1519077281"/>
+		<nd ref="1387463240"/>
+		<nd ref="1519077265"/>
+		<nd ref="1387463235"/>
+		<nd ref="1519077238"/>
+		<nd ref="1519077239"/>
+		<nd ref="1387463220"/>
+		<nd ref="3608171513"/>
+		<nd ref="3608171502"/>
+		<nd ref="3608171518"/>
+		<nd ref="3608171499"/>
+		<nd ref="3608171510"/>
+		<nd ref="3608171509"/>
+		<nd ref="3608171517"/>
+		<nd ref="3608171516"/>
+		<nd ref="3608171511"/>
+		<nd ref="3608171498"/>
+		<nd ref="3608171500"/>
+		<nd ref="3608171512"/>
+		<nd ref="3608171508"/>
+		<nd ref="3608171501"/>
+		<nd ref="3608171515"/>
+		<nd ref="3608390573"/>
+		<nd ref="3608390564"/>
+		<nd ref="3608390575"/>
+		<nd ref="3608390568"/>
+		<nd ref="3608390576"/>
+		<nd ref="3608390563"/>
+		<nd ref="3608396151"/>
+		<nd ref="3608396153"/>
+		<nd ref="3608396149"/>
+		<nd ref="3608396147"/>
+		<nd ref="3608396148"/>
+		<nd ref="3608396152"/>
+		<nd ref="3608396150"/>
+		<nd ref="3608417397"/>
+		<nd ref="3608417406"/>
+		<nd ref="3608417398"/>
+		<nd ref="3608417400"/>
+		<nd ref="3608427842"/>
+		<nd ref="3608427839"/>
+		<nd ref="3608427830"/>
+		<nd ref="3608427833"/>
+		<nd ref="3608427829"/>
+		<nd ref="3608427836"/>
+		<nd ref="3608427838"/>
+		<nd ref="3608427841"/>
+		<nd ref="3608427831"/>
+		<nd ref="3608427828"/>
+		<nd ref="3608427834"/>
+		<nd ref="1387463138"/>
+		<nd ref="1519101012"/>
+		<nd ref="3608427832"/>
+		<nd ref="1387463129"/>
+		<nd ref="3608427835"/>
+		<nd ref="1519100860"/>
+		<nd ref="11756955116"/>
+		<nd ref="3608427843"/>
+		<nd ref="1387463125"/>
+		<nd ref="1519101089"/>
+		<nd ref="11756955115"/>
+		<nd ref="3608427837"/>
+		<nd ref="3608427840"/>
+		<nd ref="61385022"/>
+		<tag k="access" v="hov"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bridge" v="yes"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway"/>
+		<tag k="hov" v="designated"/>
+		<tag k="lanes" v="1"/>
+		<tag k="layer" v="2"/>
+		<tag k="lit" v="yes"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="name" v="Interstate 93 HOV lane"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+  </modify>
+</osmChange>

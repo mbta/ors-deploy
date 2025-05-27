@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="713944880">
+		<nd ref="6712141802"/>
+		<nd ref="6712141803"/>
+		<tag k="bridge" v="yes"/>
+		<tag k="condition" v="deficient"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="1"/>
+		<tag k="layer" v="1"/>
+		<tag k="maxweight" v="4000 lbs"/>
+		<tag k="name" v="Emmons Road"/>
+		<tag k="surface" v="unpaved"/>
+		<tag k="width" v="6.1"/>
+	</way>
+  </modify>
+</osmChange>

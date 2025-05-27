@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="507869719">
+		<nd ref="10253623753"/>
+		<nd ref="7895635389"/>
+		<nd ref="61322493"/>
+		<nd ref="7896357290"/>
+		<nd ref="61325452"/>
+		<nd ref="1881894726"/>
+		<nd ref="1881894731"/>
+		<nd ref="1881894735"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="204646"/>
+		<tag k="maxspeed" v="20 mph"/>
+		<tag k="name" v="Columbia Street"/>
+		<tag k="parking:left" v="lane"/>
+		<tag k="parking:left:orientation" v="parallel"/>
+		<tag k="parking:right" v="no"/>
+		<tag k="sidewalk:both" v="separate"/>
+		<tag k="source" v="massgis_import_v0.1_20071008165629"/>
+		<tag k="source:maxspeed" v="massgis"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="14.9"/>
+	</way>
+<way id="1121040920">
+		<nd ref="10253623752"/>
+		<nd ref="12414028150"/>
+		<nd ref="1881894944"/>
+		<nd ref="61321635"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="204646"/>
+		<tag k="maxspeed" v="20 mph"/>
+		<tag k="name" v="Columbia Street"/>
+		<tag k="parking:left" v="no"/>
+		<tag k="parking:right" v="no"/>
+		<tag k="sidewalk:both" v="separate"/>
+		<tag k="source" v="massgis_import_v0.1_20071008165629"/>
+		<tag k="source:maxspeed" v="massgis"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="14.9"/>
+	</way>
+<way id="1121040921">
+		<nd ref="1881894763"/>
+		<nd ref="1881894770"/>
+		<nd ref="1881894829"/>
+		<nd ref="61322508"/>
+		<nd ref="1881894847"/>
+		<nd ref="10253623752"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="204646"/>
+		<tag k="maxspeed" v="20 mph"/>
+		<tag k="name" v="Columbia Street"/>
+		<tag k="parking:left" v="no"/>
+		<tag k="parking:right" v="lane"/>
+		<tag k="parking:right:access" v="permit"/>
+		<tag k="parking:right:orientation" v="parallel"/>
+		<tag k="sidewalk:both" v="separate"/>
+		<tag k="source" v="massgis_import_v0.1_20071008165629"/>
+		<tag k="source:maxspeed" v="massgis"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="14.9"/>
+	</way>
+<way id="1121040922">
+		<nd ref="1881894735"/>
+		<nd ref="1881894751"/>
+		<nd ref="1881894763"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="204646"/>
+		<tag k="maxspeed" v="20 mph"/>
+		<tag k="name" v="Columbia Street"/>
+		<tag k="parking:left" v="no"/>
+		<tag k="parking:right" v="no"/>
+		<tag k="sidewalk:both" v="separate"/>
+		<tag k="source" v="massgis_import_v0.1_20071008165629"/>
+		<tag k="source:maxspeed" v="massgis"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="14.9"/>
+	</way>
+<way id="1121040923">
+		<nd ref="61326728"/>
+		<nd ref="10253623753"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="204646"/>
+		<tag k="maxspeed" v="20 mph"/>
+		<tag k="name" v="Columbia Street"/>
+		<tag k="parking:left" v="no"/>
+		<tag k="parking:right" v="no"/>
+		<tag k="sidewalk:both" v="separate"/>
+		<tag k="source" v="massgis_import_v0.1_20071008165629"/>
+		<tag k="source:maxspeed" v="massgis"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="14.9"/>
+	</way>
+<way id="1121040924">
+		<nd ref="61322522"/>
+		<nd ref="11106981192"/>
+		<nd ref="5244281079"/>
+		<nd ref="10253623754"/>
+		<nd ref="61326728"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="204646"/>
+		<tag k="maxspeed" v="20 mph"/>
+		<tag k="name" v="Columbia Street"/>
+		<tag k="parking:left" v="no"/>
+		<tag k="parking:right" v="lane"/>
+		<tag k="parking:right:orientation" v="parallel"/>
+		<tag k="sidewalk:both" v="separate"/>
+		<tag k="source" v="massgis_import_v0.1_20071008165629"/>
+		<tag k="source:maxspeed" v="massgis"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="14.9"/>
+	</way>
+  </modify>
+</osmChange>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="8614772">
+		<nd ref="61325590"/>
+		<nd ref="11501719764"/>
+		<nd ref="6124523700"/>
+		<nd ref="61330602"/>
+		<nd ref="61317659"/>
+		<nd ref="7629147360"/>
+		<nd ref="61323347"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="171626"/>
+		<tag k="maxspeed" v="20 mph"/>
+		<tag k="name" v="Athens Street"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="sidewalk:both" v="separate"/>
+		<tag k="source" v="massgis_import_v0.1_20071008165629"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="11.6"/>
+	</way>
+  </modify>
+</osmChange>

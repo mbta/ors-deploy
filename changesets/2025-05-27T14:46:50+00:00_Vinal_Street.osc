@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="9531516">
+		<nd ref="73555337"/>
+		<nd ref="73554984"/>
+		<nd ref="73583402"/>
+		<nd ref="73559594"/>
+		<nd ref="7152784971"/>
+		<nd ref="7152784970"/>
+		<nd ref="9680977776"/>
+		<nd ref="9680977777"/>
+		<nd ref="9680977778"/>
+		<nd ref="9680977779"/>
+		<nd ref="9680977780"/>
+		<nd ref="73557879"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="2"/>
+		<tag k="lit" v="yes"/>
+		<tag k="massgis:way_id" v="194789"/>
+		<tag k="name" v="Vinal Street"/>
+		<tag k="oneway" v="no"/>
+		<tag k="source" v="massgis_import_v0.1_20071009092815"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="12.2"/>
+	</way>
+<way id="620610874">
+		<nd ref="73570756"/>
+		<nd ref="73592374"/>
+		<nd ref="73553018"/>
+		<nd ref="73555337"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="2"/>
+		<tag k="lit" v="yes"/>
+		<tag k="massgis:way_id" v="194789"/>
+		<tag k="name" v="Vinal Street"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="massgis_import_v0.1_20071009092815"/>
+		<tag k="width" v="12.2"/>
+	</way>
+  </modify>
+</osmChange>

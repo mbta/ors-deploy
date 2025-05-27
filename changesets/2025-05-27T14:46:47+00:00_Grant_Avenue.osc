@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="9225206">
+		<nd ref="68768728"/>
+		<nd ref="1722561367"/>
+		<nd ref="68754478"/>
+		<nd ref="68743960"/>
+		<nd ref="1722561365"/>
+		<nd ref="68748599"/>
+		<nd ref="68871028"/>
+		<nd ref="3637984078"/>
+		<nd ref="68734145"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="120453"/>
+		<tag k="name" v="Grant Avenue"/>
+		<tag k="source" v="massgis_import_v0.1_20071009091810"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="9.8"/>
+	</way>
+  </modify>
+</osmChange>

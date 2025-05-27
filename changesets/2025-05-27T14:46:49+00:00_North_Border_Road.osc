@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="9342663">
+		<nd ref="70589326"/>
+		<nd ref="70565858"/>
+		<nd ref="70591695"/>
+		<nd ref="5553596201"/>
+		<nd ref="70590263"/>
+		<nd ref="5553596202"/>
+		<nd ref="70561083"/>
+		<nd ref="5553596203"/>
+		<nd ref="70582437"/>
+		<nd ref="10134481421"/>
+		<nd ref="70589100"/>
+		<nd ref="10134481420"/>
+		<nd ref="70589979"/>
+		<nd ref="70590571"/>
+		<nd ref="1765364538"/>
+		<nd ref="70569756"/>
+		<nd ref="70586739"/>
+		<nd ref="70571371"/>
+		<nd ref="70551738"/>
+		<nd ref="1765364510"/>
+		<nd ref="1765364506"/>
+		<nd ref="1765364503"/>
+		<nd ref="70568010"/>
+		<nd ref="1765364496"/>
+		<nd ref="1765364494"/>
+		<nd ref="70555240"/>
+		<nd ref="1765364486"/>
+		<nd ref="5459048228"/>
+		<nd ref="70575091"/>
+		<nd ref="5553101223"/>
+		<nd ref="70586779"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="lit" v="yes"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="name" v="North Border Road"/>
+		<tag k="sidewalk" v="left"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+  </modify>
+</osmChange>

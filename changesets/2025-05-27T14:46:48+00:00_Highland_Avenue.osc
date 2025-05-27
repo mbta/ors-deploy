@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="9569162">
+		<nd ref="4798956829"/>
+		<nd ref="74127645"/>
+		<nd ref="74116313"/>
+		<nd ref="9261185465"/>
+		<nd ref="74123865"/>
+		<nd ref="74122931"/>
+		<nd ref="74105578"/>
+		<nd ref="74146542"/>
+		<nd ref="74151322"/>
+		<nd ref="74164890"/>
+		<nd ref="74138263"/>
+		<nd ref="74109130"/>
+		<nd ref="5458384941"/>
+		<nd ref="74126909"/>
+		<nd ref="74142377"/>
+		<nd ref="5458384949"/>
+		<nd ref="74095318"/>
+		<nd ref="74145177"/>
+		<nd ref="74132543"/>
+		<nd ref="74103673"/>
+		<nd ref="74100701"/>
+		<nd ref="74147974"/>
+		<nd ref="74157828"/>
+		<nd ref="74136923"/>
+		<nd ref="74167910"/>
+		<nd ref="9936229696"/>
+		<nd ref="74104680"/>
+		<nd ref="74134930"/>
+		<nd ref="74134649"/>
+		<nd ref="74148507"/>
+		<nd ref="8693968714"/>
+		<nd ref="74099021"/>
+		<nd ref="74111865"/>
+		<nd ref="74107964"/>
+		<nd ref="74120555"/>
+		<nd ref="74147704"/>
+		<nd ref="74125112"/>
+		<nd ref="5912263597"/>
+		<nd ref="74133080"/>
+		<nd ref="2560424629"/>
+		<nd ref="74118485"/>
+		<nd ref="74114273"/>
+		<nd ref="7959603533"/>
+		<nd ref="74166519"/>
+		<nd ref="74105620"/>
+		<nd ref="74156680"/>
+		<nd ref="74092399"/>
+		<nd ref="2757607167"/>
+		<nd ref="74129648"/>
+		<nd ref="6609141364"/>
+		<nd ref="74102174"/>
+		<nd ref="9936229697"/>
+		<nd ref="74137908"/>
+		<nd ref="74147288"/>
+		<nd ref="74126483"/>
+		<nd ref="74149385"/>
+		<nd ref="74121424"/>
+		<nd ref="2757607310"/>
+		<nd ref="2757607313"/>
+		<nd ref="74154157"/>
+		<nd ref="74162510"/>
+		<nd ref="74131771"/>
+		<nd ref="74113174"/>
+		<nd ref="74146049"/>
+		<nd ref="74131311"/>
+		<nd ref="74099543"/>
+		<nd ref="9936229698"/>
+		<nd ref="74143940"/>
+		<nd ref="74109544"/>
+		<nd ref="74146536"/>
+		<nd ref="74141640"/>
+		<nd ref="74155746"/>
+		<nd ref="74092801"/>
+		<nd ref="74119862"/>
+		<nd ref="74140847"/>
+		<nd ref="74113983"/>
+		<nd ref="74094115"/>
+		<nd ref="74117978"/>
+		<nd ref="74147541"/>
+		<nd ref="74105168"/>
+		<nd ref="6884898590"/>
+		<nd ref="74126075"/>
+		<nd ref="74162109"/>
+		<nd ref="74124440"/>
+		<nd ref="74160406"/>
+		<nd ref="74111150"/>
+		<nd ref="74129098"/>
+		<nd ref="74107906"/>
+		<nd ref="74099997"/>
+		<nd ref="9936229699"/>
+		<nd ref="74107159"/>
+		<nd ref="74157843"/>
+		<nd ref="74161842"/>
+		<nd ref="74110075"/>
+		<nd ref="74141847"/>
+		<nd ref="74144825"/>
+		<nd ref="74097621"/>
+		<nd ref="74127813"/>
+		<nd ref="74119307"/>
+		<nd ref="4798956846"/>
+		<nd ref="74166898"/>
+		<nd ref="9936229700"/>
+		<nd ref="74143909"/>
+		<nd ref="74143037"/>
+		<nd ref="74146335"/>
+		<nd ref="74114164"/>
+		<nd ref="74122832"/>
+		<nd ref="74101285"/>
+		<nd ref="74099657"/>
+		<nd ref="74138700"/>
+		<nd ref="74132279"/>
+		<nd ref="9936229701"/>
+		<nd ref="74099296"/>
+		<nd ref="74131434"/>
+		<nd ref="74104235"/>
+		<nd ref="9936229711"/>
+		<nd ref="74139599"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="lit" v="yes"/>
+		<tag k="massgis:way_id" v="201922"/>
+		<tag k="maxspeed" v="30 mph"/>
+		<tag k="name" v="Highland Avenue"/>
+		<tag k="sidewalk" v="both"/>
+		<tag k="source" v="massgis_import_v0.1_20071009094808"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="18.3"/>
+	</way>
+  </modify>
+</osmChange>

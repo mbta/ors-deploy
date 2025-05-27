@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="9328613">
+		<nd ref="70347549"/>
+		<nd ref="70294148"/>
+		<nd ref="70361573"/>
+		<nd ref="8321073619"/>
+		<nd ref="70324076"/>
+		<nd ref="70343922"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="deficient"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="128787"/>
+		<tag k="name" v="Hillside Drive"/>
+		<tag k="source" v="massgis_import_v0.1_20071009092036"/>
+		<tag k="width" v="15.2"/>
+	</way>
+  </modify>
+</osmChange>

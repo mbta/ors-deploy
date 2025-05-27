@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="9503358">
+		<nd ref="69625779"/>
+		<nd ref="73100267"/>
+		<nd ref="8602297061"/>
+		<nd ref="73085754"/>
+		<nd ref="5298599297"/>
+		<nd ref="6773940082"/>
+		<nd ref="73092021"/>
+		<nd ref="73095560"/>
+		<nd ref="73124150"/>
+		<nd ref="9938107929"/>
+		<nd ref="73094718"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="deficient"/>
+		<tag k="cycleway" v="shared_lane"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="tertiary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="126676"/>
+		<tag k="name" v="Everett Street"/>
+		<tag k="source" v="massgis_import_v0.1_20071009094641"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="12.2"/>
+	</way>
+  </modify>
+</osmChange>
