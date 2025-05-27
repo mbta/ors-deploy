@@ -1,0 +1,259 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="8615981">
+		<nd ref="12552950452"/>
+		<nd ref="1412454625"/>
+		<nd ref="12552950454"/>
+		<nd ref="12552950453"/>
+		<nd ref="2659991003"/>
+		<nd ref="2659990995"/>
+		<nd ref="12552950461"/>
+		<nd ref="1412454627"/>
+		<nd ref="7080747071"/>
+		<nd ref="7080747068"/>
+		<nd ref="61332506"/>
+		<nd ref="7080747074"/>
+		<nd ref="559369962"/>
+		<nd ref="7080747077"/>
+		<nd ref="7082705543"/>
+		<nd ref="61323151"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="expressway" v="yes"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:ref" v="0 N332"/>
+		<tag k="massgis:way_id" v="201268"/>
+		<tag k="name" v="Gerry's Landing Road"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="sidewalk:right" v="yes"/>
+		<tag k="source" v="massgis_import_v0.1_20071008165629"/>
+		<tag k="width" v="25.9"/>
+	</way>
+<way id="85928138">
+		<nd ref="941442904"/>
+		<nd ref="12552950480"/>
+		<nd ref="61326067"/>
+		<nd ref="12552950481"/>
+		<nd ref="2666089449"/>
+		<nd ref="11232775494"/>
+		<nd ref="1330240808"/>
+		<nd ref="12552950477"/>
+		<nd ref="12552950476"/>
+		<nd ref="7080681731"/>
+		<nd ref="2659895861"/>
+		<nd ref="61334022"/>
+		<nd ref="7080681733"/>
+		<nd ref="2658002031"/>
+		<nd ref="61334024"/>
+		<nd ref="7080681740"/>
+		<nd ref="2658002036"/>
+		<nd ref="7080681737"/>
+		<nd ref="2658002019"/>
+		<nd ref="7080780398"/>
+		<nd ref="61334011"/>
+		<nd ref="7080780404"/>
+		<nd ref="2658002029"/>
+		<nd ref="7080780417"/>
+		<nd ref="61334013"/>
+		<nd ref="7080780407"/>
+		<nd ref="2658002021"/>
+		<nd ref="7080780412"/>
+		<nd ref="61334015"/>
+		<nd ref="12552950451"/>
+		<nd ref="61326136"/>
+		<nd ref="7080780396"/>
+		<nd ref="7080780395"/>
+		<nd ref="7080780413"/>
+		<nd ref="7080780409"/>
+		<nd ref="7080780400"/>
+		<nd ref="7080780415"/>
+		<nd ref="12552950452"/>
+		<tag k="NHS" v="yes"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="expressway" v="yes"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="3"/>
+		<tag k="massgis:way_id" v="185017"/>
+		<tag k="maxspeed" v="40 mph"/>
+		<tag k="name" v="Gerry's Landing Road"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="US 3;MA 2"/>
+		<tag k="sidewalk:right" v="yes"/>
+		<tag k="source" v="massgis_import_v0.1_20071008165629"/>
+		<tag k="source:maxspeed" v="massgis"/>
+		<tag k="turn:lanes" v="slight_left|slight_left;slight_right|slight_right"/>
+		<tag k="width" v="38.1"/>
+	</way>
+<way id="85928140">
+		<nd ref="61331770"/>
+		<nd ref="61331745"/>
+		<nd ref="7045384873"/>
+		<nd ref="7045384876"/>
+		<nd ref="997344652"/>
+		<nd ref="7045384875"/>
+		<nd ref="61331751"/>
+		<tag k="NHS" v="yes"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="expressway" v="yes"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="3"/>
+		<tag k="massgis:way_id" v="185017"/>
+		<tag k="name" v="Gerry's Landing Road"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="US 3;MA 2"/>
+		<tag k="sidewalk:left" v="no"/>
+		<tag k="sidewalk:right" v="separate"/>
+		<tag k="source" v="massgis_import_v0.1_20071008165629"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="slight_left|slight_left;slight_right|slight_right"/>
+		<tag k="width" v="38.1"/>
+	</way>
+<way id="404138733">
+		<nd ref="61325507"/>
+		<nd ref="12552950449"/>
+		<nd ref="12552934241"/>
+		<nd ref="12552934239"/>
+		<nd ref="12552934242"/>
+		<nd ref="7080747080"/>
+		<nd ref="2660061523"/>
+		<nd ref="7080747069"/>
+		<nd ref="61330293"/>
+		<nd ref="7080824395"/>
+		<nd ref="997305746"/>
+		<nd ref="7080824391"/>
+		<nd ref="12552950455"/>
+		<nd ref="61330295"/>
+		<nd ref="7080747078"/>
+		<nd ref="997305748"/>
+		<nd ref="7080747081"/>
+		<nd ref="61326139"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="expressway" v="yes"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="3"/>
+		<tag k="massgis:way_id" v="201268"/>
+		<tag k="name" v="Gerry's Landing Road"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="massgis_import_v0.1_20071008165629"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="25.9"/>
+	</way>
+<way id="404138734">
+		<nd ref="61322206"/>
+		<nd ref="9652968365"/>
+		<nd ref="1330240877"/>
+		<nd ref="11232775492"/>
+		<nd ref="61321864"/>
+		<tag k="NHS" v="yes"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="destination" v="Arlington;Belmont"/>
+		<tag k="destination:ref" v="MA 2;US 3"/>
+		<tag k="destination:ref:to" v="MA 16 North"/>
+		<tag k="expressway" v="yes"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="185017"/>
+		<tag k="name" v="Gerry's Landing Road"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="US 3;MA 2"/>
+		<tag k="source" v="massgis_import_v0.1_20071008165629"/>
+		<tag k="turn:lanes" v="through|through"/>
+		<tag k="width" v="38.1"/>
+	</way>
+<way id="657086820">
+		<nd ref="61326139"/>
+		<nd ref="1412454626"/>
+		<nd ref="7080824386"/>
+		<nd ref="61330313"/>
+		<nd ref="61330300"/>
+		<nd ref="7080824389"/>
+		<nd ref="61330302"/>
+		<nd ref="2660067728"/>
+		<nd ref="7045276661"/>
+		<nd ref="7045285574"/>
+		<nd ref="7045276672"/>
+		<nd ref="7045276663"/>
+		<nd ref="7045276674"/>
+		<nd ref="61331770"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="expressway" v="yes"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="3"/>
+		<tag k="massgis:way_id" v="201268"/>
+		<tag k="name" v="Gerry's Landing Road"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="massgis_import_v0.1_20071008165629"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="25.9"/>
+	</way>
+<way id="1108984387">
+		<nd ref="61331751"/>
+		<nd ref="7045411369"/>
+		<nd ref="7045411371"/>
+		<nd ref="7045411367"/>
+		<nd ref="7045411364"/>
+		<nd ref="5681887763"/>
+		<nd ref="61331749"/>
+		<tag k="NHS" v="yes"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="destination" v="Arlington;Belmont"/>
+		<tag k="destination:ref" v="MA 2;US 3"/>
+		<tag k="destination:ref:to" v="MA 16 North"/>
+		<tag k="expressway" v="yes"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="185017"/>
+		<tag k="name" v="Gerry's Landing Road"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="US 3;MA 2"/>
+		<tag k="sidewalk:right" v="yes"/>
+		<tag k="source" v="massgis_import_v0.1_20071008165629"/>
+		<tag k="width" v="38.1"/>
+	</way>
+<way id="1108984388">
+		<nd ref="61331749"/>
+		<nd ref="61322206"/>
+		<tag k="NHS" v="yes"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="destination" v="Arlington;Belmont"/>
+		<tag k="destination:ref" v="MA 2;US 3"/>
+		<tag k="destination:ref:to" v="MA 16 North"/>
+		<tag k="expressway" v="yes"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="185017"/>
+		<tag k="name" v="Gerry's Landing Road"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="US 3;MA 2"/>
+		<tag k="sidewalk:right" v="yes"/>
+		<tag k="source" v="massgis_import_v0.1_20071008165629"/>
+		<tag k="turn:lanes" v="through|through;right"/>
+		<tag k="width" v="38.1"/>
+	</way>
+  </modify>
+</osmChange>

@@ -1,0 +1,252 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="8646802">
+		<nd ref="2251797836"/>
+		<nd ref="2173936791"/>
+		<nd ref="4947830284"/>
+		<nd ref="61447355"/>
+		<nd ref="4947830296"/>
+		<nd ref="11340605433"/>
+		<nd ref="11340605434"/>
+		<nd ref="2251797821"/>
+		<nd ref="4947830292"/>
+		<nd ref="4947830293"/>
+		<nd ref="11340605435"/>
+		<nd ref="61447366"/>
+		<nd ref="2251797856"/>
+		<nd ref="2251797878"/>
+		<nd ref="61484288"/>
+		<nd ref="2251797850"/>
+		<nd ref="2251797840"/>
+		<nd ref="4947830277"/>
+		<nd ref="2251797884"/>
+		<nd ref="61447372"/>
+		<nd ref="11345484447"/>
+		<nd ref="11345484448"/>
+		<nd ref="11345484449"/>
+		<nd ref="61475213"/>
+		<nd ref="11345484450"/>
+		<nd ref="61475102"/>
+		<nd ref="11345327360"/>
+		<nd ref="2251751947"/>
+		<nd ref="11345327361"/>
+		<nd ref="2251565907"/>
+		<nd ref="11345484451"/>
+		<nd ref="61475119"/>
+		<nd ref="11345484452"/>
+		<nd ref="61475114"/>
+		<nd ref="11345484453"/>
+		<nd ref="11345484454"/>
+		<nd ref="2251751945"/>
+		<nd ref="2251751942"/>
+		<nd ref="11345484455"/>
+		<nd ref="11345484456"/>
+		<nd ref="61475093"/>
+		<nd ref="11345484457"/>
+		<nd ref="61475148"/>
+		<nd ref="11345484458"/>
+		<nd ref="61475144"/>
+		<nd ref="11345484459"/>
+		<nd ref="11345484460"/>
+		<nd ref="2251565911"/>
+		<nd ref="11345484461"/>
+		<nd ref="11345484462"/>
+		<nd ref="61475160"/>
+		<nd ref="11345502472"/>
+		<nd ref="11345502473"/>
+		<nd ref="11345502470"/>
+		<nd ref="11345502471"/>
+		<nd ref="61393902"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bicycle" v="yes"/>
+		<tag k="bus" v="no"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="yes"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="massgis:way_id" v="122591"/>
+		<tag k="maxspeed" v="35 mph"/>
+		<tag k="name" v="William T. Morrissey Boulevard"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="parking:both" v="no"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="source:maxspeed" v="massgis"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="32.0"/>
+	</way>
+<way id="215895487">
+		<nd ref="61376856"/>
+		<nd ref="8853992808"/>
+		<nd ref="8853992809"/>
+		<nd ref="61376870"/>
+		<nd ref="8853992810"/>
+		<nd ref="61376866"/>
+		<nd ref="2253136023"/>
+		<nd ref="2253136033"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="destination" v="Boston"/>
+		<tag k="destination:street" v="Columbia Road"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:ref" v="0 N118"/>
+		<tag k="massgis:way_id" v="122591"/>
+		<tag k="maxspeed" v="35 mph"/>
+		<tag k="name" v="William T. Morrissey Boulevard"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="sidewalk" v="no"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="source:maxspeed" v="massgis"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="32.0"/>
+	</way>
+<way id="215895489">
+		<nd ref="2253136021"/>
+		<nd ref="61407982"/>
+		<nd ref="8855050109"/>
+		<nd ref="8855050108"/>
+		<nd ref="61407932"/>
+		<nd ref="8855050107"/>
+		<nd ref="8855050106"/>
+		<nd ref="8855050105"/>
+		<nd ref="61407905"/>
+		<nd ref="8855050104"/>
+		<nd ref="61407957"/>
+		<nd ref="61407950"/>
+		<nd ref="61407968"/>
+		<nd ref="8855050102"/>
+		<nd ref="8855050103"/>
+		<nd ref="61411766"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="122591"/>
+		<tag k="maxspeed" v="35 mph"/>
+		<tag k="name" v="William T. Morrissey Boulevard"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="parking:both" v="no"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="sidewalk" v="separate"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="source:maxspeed" v="massgis"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="32.0"/>
+	</way>
+<way id="215895491">
+		<nd ref="61411792"/>
+		<nd ref="8843243737"/>
+		<nd ref="8843243738"/>
+		<nd ref="8843243736"/>
+		<nd ref="8843243735"/>
+		<nd ref="2253136032"/>
+		<nd ref="8843243734"/>
+		<nd ref="2253136034"/>
+		<nd ref="8843243733"/>
+		<nd ref="2253136019"/>
+		<nd ref="8843243731"/>
+		<nd ref="8843243732"/>
+		<nd ref="2253136029"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="122591"/>
+		<tag k="maxspeed" v="35 mph"/>
+		<tag k="name" v="William T. Morrissey Boulevard"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="sidewalk" v="no"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="source:maxspeed" v="massgis"/>
+		<tag k="width" v="32.0"/>
+	</way>
+<way id="215895494">
+		<nd ref="2253136042"/>
+		<nd ref="2253136036"/>
+		<nd ref="4945007186"/>
+		<nd ref="2253136038"/>
+		<nd ref="4945007176"/>
+		<nd ref="2253136040"/>
+		<nd ref="8848910347"/>
+		<nd ref="8848910348"/>
+		<nd ref="8843116520"/>
+		<nd ref="8848910346"/>
+		<nd ref="3403864646"/>
+		<nd ref="4945007179"/>
+		<nd ref="8843116521"/>
+		<nd ref="3403864645"/>
+		<nd ref="8843116522"/>
+		<nd ref="61347114"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="destination" v="Boston"/>
+		<tag k="destination:street" v="Columbia Road"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:ref" v="0 N118"/>
+		<tag k="massgis:way_id" v="122591"/>
+		<tag k="maxspeed" v="35 mph"/>
+		<tag k="name" v="William T. Morrissey Boulevard"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="sidewalk" v="no"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="source:maxspeed" v="massgis"/>
+		<tag k="width" v="32.0"/>
+	</way>
+<way id="215895497">
+		<nd ref="2253136033"/>
+		<nd ref="2253136042"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bridge" v="yes"/>
+		<tag k="condition" v="fair"/>
+		<tag k="destination" v="Boston"/>
+		<tag k="destination:street" v="Columbia Road"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="layer" v="1"/>
+		<tag k="massgis:ref" v="0 N118"/>
+		<tag k="massgis:way_id" v="122591"/>
+		<tag k="maxspeed" v="35 mph"/>
+		<tag k="name" v="William T. Morrissey Boulevard"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="sidewalk" v="no"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="source:maxspeed" v="massgis"/>
+		<tag k="width" v="32.0"/>
+	</way>
+<way id="215895503">
+		<nd ref="2253136029"/>
+		<nd ref="2253136021"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bridge" v="yes"/>
+		<tag k="condition" v="fair"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="layer" v="1"/>
+		<tag k="massgis:way_id" v="122591"/>
+		<tag k="maxspeed" v="35 mph"/>
+		<tag k="name" v="William T. Morrissey Boulevard"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="sidewalk" v="no"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="source:maxspeed" v="massgis"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="32.0"/>
+	</way>
+  </modify>
+</osmChange>

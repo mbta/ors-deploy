@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="97905650">
+		<nd ref="6838171452"/>
+		<nd ref="6838171451"/>
+		<nd ref="5584746826"/>
+		<nd ref="6838171455"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="residential"/>
+		<tag k="name" v="Hall Street"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="sidewalk" v="separate"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+<way id="107758332">
+		<nd ref="64883030"/>
+		<nd ref="6880266461"/>
+		<nd ref="64887307"/>
+		<nd ref="64848117"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lit" v="yes"/>
+		<tag k="massgis:way_id" v="160"/>
+		<tag k="name" v="Hall Street"/>
+		<tag k="sidewalk" v="separate"/>
+		<tag k="source" v="massgis_import_v0.1_20071009090147"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+<way id="107758375">
+		<nd ref="64907480"/>
+		<nd ref="64883030"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bridge" v="yes"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="residential"/>
+		<tag k="layer" v="1"/>
+		<tag k="massgis:way_id" v="160"/>
+		<tag k="motor_vehicle" v="yes"/>
+		<tag k="name" v="Hall Street"/>
+		<tag k="sidewalk" v="separate"/>
+		<tag k="source" v="massgis_import_v0.1_20071009090147"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+<way id="267139817">
+		<nd ref="64901124"/>
+		<nd ref="64831548"/>
+		<nd ref="64882163"/>
+		<nd ref="64907480"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lane_markings" v="no"/>
+		<tag k="massgis:way_id" v="160"/>
+		<tag k="name" v="Hall Street"/>
+		<tag k="sidewalk" v="separate"/>
+		<tag k="source" v="massgis_import_v0.1_20071009090147"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+<way id="729967503">
+		<nd ref="6838171455"/>
+		<nd ref="6838171454"/>
+		<nd ref="6838171453"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="residential"/>
+		<tag k="name" v="Hall Street"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="sidewalk" v="separate"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+<way id="729967504">
+		<nd ref="64901124"/>
+		<nd ref="6838171455"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lane_markings" v="no"/>
+		<tag k="name" v="Hall Street"/>
+		<tag k="sidewalk" v="separate"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+  </modify>
+</osmChange>

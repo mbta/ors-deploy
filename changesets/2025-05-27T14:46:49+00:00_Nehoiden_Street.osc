@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="9184188">
+		<nd ref="68328734"/>
+		<nd ref="3903586277"/>
+		<nd ref="3903586278"/>
+		<nd ref="3903586275"/>
+		<nd ref="3903586276"/>
+		<nd ref="8620532970"/>
+		<nd ref="68311080"/>
+		<nd ref="68322219"/>
+		<nd ref="68327761"/>
+		<nd ref="68309957"/>
+		<nd ref="68336929"/>
+		<nd ref="68322231"/>
+		<nd ref="68359042"/>
+		<nd ref="68353454"/>
+		<nd ref="9908312204"/>
+		<nd ref="68304867"/>
+		<nd ref="68345664"/>
+		<nd ref="68312546"/>
+		<nd ref="5919578677"/>
+		<nd ref="6587207341"/>
+		<nd ref="68331879"/>
+		<nd ref="6587207327"/>
+		<nd ref="68305932"/>
+		<nd ref="6976937774"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="tertiary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="196589"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="name" v="Nehoiden Street"/>
+		<tag k="source" v="massgis_import_v0.1_20071009091501"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="10.7"/>
+	</way>
+<way id="1058028117">
+		<nd ref="6976937774"/>
+		<nd ref="68312745"/>
+		<nd ref="9910652722"/>
+		<nd ref="68307940"/>
+		<nd ref="9910652723"/>
+		<nd ref="9908312205"/>
+		<nd ref="68339883"/>
+		<nd ref="68329553"/>
+		<nd ref="68333048"/>
+		<nd ref="68328476"/>
+		<nd ref="68319279"/>
+		<nd ref="68311169"/>
+		<nd ref="68323633"/>
+		<nd ref="68338689"/>
+		<nd ref="3104786785"/>
+		<nd ref="3104786786"/>
+		<nd ref="7799660823"/>
+		<nd ref="3104786787"/>
+		<nd ref="68357260"/>
+		<nd ref="3104786791"/>
+		<nd ref="68328810"/>
+		<nd ref="68307628"/>
+		<nd ref="68320456"/>
+		<nd ref="68310129"/>
+		<nd ref="68337762"/>
+		<nd ref="68347264"/>
+		<nd ref="8784494071"/>
+		<nd ref="68311723"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="tertiary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="196589"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="name" v="Nehoiden Street"/>
+		<tag k="source" v="massgis_import_v0.1_20071009091501"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="10.7"/>
+	</way>
+  </modify>
+</osmChange>

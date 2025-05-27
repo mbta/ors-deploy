@@ -1,0 +1,2303 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="1188964372">
+		<nd ref="11040107303"/>
+		<nd ref="11999404200"/>
+		<nd ref="11999404201"/>
+		<nd ref="61352071"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="official_name" v="General Casimir Pulaski Skyway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964373">
+		<nd ref="11040107303"/>
+		<nd ref="11040136805"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="maxspeed" v="35 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="official_name" v="General Casimir Pulaski Skyway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964374">
+		<nd ref="275300802"/>
+		<nd ref="11040107303"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="maxspeed" v="35 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="official_name" v="General Casimir Pulaski Skyway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964375">
+		<nd ref="11040136805"/>
+		<nd ref="11040136806"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="official_name" v="General Casimir Pulaski Skyway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964376">
+		<nd ref="11040136806"/>
+		<nd ref="11040136807"/>
+		<nd ref="11040136808"/>
+		<nd ref="11040136809"/>
+		<nd ref="11040136810"/>
+		<nd ref="11040136811"/>
+		<nd ref="11040136821"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bridge" v="yes"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="layer" v="1"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="official_name" v="General Casimir Pulaski Skyway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964377">
+		<nd ref="11040136821"/>
+		<nd ref="11040136812"/>
+		<nd ref="11040136813"/>
+		<nd ref="11040136814"/>
+		<nd ref="11040136815"/>
+		<nd ref="11040136816"/>
+		<nd ref="11040136817"/>
+		<nd ref="11040136818"/>
+		<nd ref="11040136819"/>
+		<nd ref="11040136820"/>
+		<nd ref="11040136822"/>
+		<nd ref="11040136823"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="official_name" v="General Casimir Pulaski Skyway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964378">
+		<nd ref="11040136823"/>
+		<nd ref="11040136824"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bridge" v="yes"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="layer" v="1"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="official_name" v="General Casimir Pulaski Skyway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964379">
+		<nd ref="11040136824"/>
+		<nd ref="11040136829"/>
+		<nd ref="11040136825"/>
+		<nd ref="11040136826"/>
+		<nd ref="11040136827"/>
+		<nd ref="11040136828"/>
+		<nd ref="11040136830"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="official_name" v="General Casimir Pulaski Skyway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964380">
+		<nd ref="11040136830"/>
+		<nd ref="11040136831"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bridge" v="yes"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="layer" v="1"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="official_name" v="General Casimir Pulaski Skyway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964381">
+		<nd ref="11040136831"/>
+		<nd ref="11040136832"/>
+		<nd ref="11040136833"/>
+		<nd ref="11040136834"/>
+		<nd ref="11040136835"/>
+		<nd ref="11040136836"/>
+		<nd ref="11040136837"/>
+		<nd ref="11040136838"/>
+		<nd ref="11040136839"/>
+		<nd ref="11040136840"/>
+		<nd ref="11040136841"/>
+		<nd ref="11040136842"/>
+		<nd ref="11040136843"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="official_name" v="General Casimir Pulaski Skyway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964382">
+		<nd ref="11040136843"/>
+		<nd ref="11040136844"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bridge" v="yes"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="layer" v="1"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="official_name" v="General Casimir Pulaski Skyway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964383">
+		<nd ref="11040136844"/>
+		<nd ref="11040136863"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="official_name" v="General Casimir Pulaski Skyway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964384">
+		<nd ref="11040136863"/>
+		<nd ref="11040136845"/>
+		<nd ref="11040136846"/>
+		<nd ref="11040136847"/>
+		<nd ref="11040136848"/>
+		<nd ref="11040136849"/>
+		<nd ref="11040136850"/>
+		<nd ref="11040136851"/>
+		<nd ref="11040136852"/>
+		<nd ref="11040136853"/>
+		<nd ref="11040136854"/>
+		<nd ref="11040136855"/>
+		<nd ref="11040136856"/>
+		<nd ref="11040136857"/>
+		<nd ref="11040136858"/>
+		<nd ref="11040136859"/>
+		<nd ref="11040136860"/>
+		<nd ref="11040136861"/>
+		<nd ref="11040136862"/>
+		<nd ref="11040136864"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bridge" v="yes"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="layer" v="1"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="official_name" v="General Casimir Pulaski Skyway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964385">
+		<nd ref="11040136864"/>
+		<nd ref="11040136865"/>
+		<nd ref="11040136866"/>
+		<nd ref="11040136867"/>
+		<nd ref="11040136868"/>
+		<nd ref="11040136871"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="official_name" v="General Casimir Pulaski Skyway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964386">
+		<nd ref="11040136871"/>
+		<nd ref="11040136869"/>
+		<nd ref="11040136870"/>
+		<nd ref="11040136872"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bridge" v="yes"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="layer" v="1"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="official_name" v="General Casimir Pulaski Skyway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964387">
+		<nd ref="11040136872"/>
+		<nd ref="11040136873"/>
+		<nd ref="11040136874"/>
+		<nd ref="11040136875"/>
+		<nd ref="11040136876"/>
+		<nd ref="11040136877"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="official_name" v="General Casimir Pulaski Skyway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964388">
+		<nd ref="11040136877"/>
+		<nd ref="11040136878"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="official_name" v="Sergeant William G. Walsh Expressway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964389">
+		<nd ref="11040136878"/>
+		<nd ref="11040136879"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bridge" v="yes"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="layer" v="1"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="official_name" v="Sergeant William G. Walsh Expressway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964390">
+		<nd ref="11040136879"/>
+		<nd ref="11040136880"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="official_name" v="Sergeant William G. Walsh Expressway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964391">
+		<nd ref="11040136880"/>
+		<nd ref="11040136889"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bridge" v="yes"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="layer" v="1"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964392">
+		<nd ref="11040136889"/>
+		<nd ref="11040136881"/>
+		<nd ref="11040136882"/>
+		<nd ref="11040136883"/>
+		<nd ref="11040136884"/>
+		<nd ref="11040136885"/>
+		<nd ref="11040136886"/>
+		<nd ref="11040136887"/>
+		<nd ref="11040136888"/>
+		<nd ref="11040136896"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="good"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964393">
+		<nd ref="11040136896"/>
+		<nd ref="11040136890"/>
+		<nd ref="11040136891"/>
+		<nd ref="11040136892"/>
+		<nd ref="11040136893"/>
+		<nd ref="11040136894"/>
+		<nd ref="11040136895"/>
+		<nd ref="11040136897"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bridge" v="yes"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="good"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="layer" v="1"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964394">
+		<nd ref="11040136897"/>
+		<nd ref="11040136898"/>
+		<nd ref="11040136899"/>
+		<nd ref="11040136900"/>
+		<nd ref="11040136901"/>
+		<nd ref="11040136902"/>
+		<nd ref="11040136903"/>
+		<nd ref="11040136904"/>
+		<nd ref="11040136905"/>
+		<nd ref="11040136906"/>
+		<nd ref="11040136907"/>
+		<nd ref="11040136908"/>
+		<nd ref="11040136909"/>
+		<nd ref="11040136910"/>
+		<nd ref="11040136911"/>
+		<nd ref="11040136912"/>
+		<nd ref="11040136913"/>
+		<nd ref="11040136914"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="good"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964395">
+		<nd ref="11040136914"/>
+		<nd ref="11040136915"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="good"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="layer" v="-1"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+		<tag k="tunnel" v="yes"/>
+	</way>
+<way id="1188964396">
+		<nd ref="11040136915"/>
+		<nd ref="11040136916"/>
+		<nd ref="11040136933"/>
+		<nd ref="11040136917"/>
+		<nd ref="11040136918"/>
+		<nd ref="11040136919"/>
+		<nd ref="11040136920"/>
+		<nd ref="11040136921"/>
+		<nd ref="11040136922"/>
+		<nd ref="11040136923"/>
+		<nd ref="11040136924"/>
+		<nd ref="11040136925"/>
+		<nd ref="11040136926"/>
+		<nd ref="11040136927"/>
+		<nd ref="11040136928"/>
+		<nd ref="11040136929"/>
+		<nd ref="11040136930"/>
+		<nd ref="11040136931"/>
+		<nd ref="11040136932"/>
+		<nd ref="11040136934"/>
+		<nd ref="11040136986"/>
+		<nd ref="11040136935"/>
+		<nd ref="11040136936"/>
+		<nd ref="11040136937"/>
+		<nd ref="11040136938"/>
+		<nd ref="11040136939"/>
+		<nd ref="11040136940"/>
+		<nd ref="11040136941"/>
+		<nd ref="11040136942"/>
+		<nd ref="11040136943"/>
+		<nd ref="11040136944"/>
+		<nd ref="11040136945"/>
+		<nd ref="11040136946"/>
+		<nd ref="11040136947"/>
+		<nd ref="11040136948"/>
+		<nd ref="11040136949"/>
+		<nd ref="11040136950"/>
+		<nd ref="11040136951"/>
+		<nd ref="11040136952"/>
+		<nd ref="11040136953"/>
+		<nd ref="11040136954"/>
+		<nd ref="11040136955"/>
+		<nd ref="11040136956"/>
+		<nd ref="11040136957"/>
+		<nd ref="11040136958"/>
+		<nd ref="11040136959"/>
+		<nd ref="11040136960"/>
+		<nd ref="11040136961"/>
+		<nd ref="11040136962"/>
+		<nd ref="11040136963"/>
+		<nd ref="11040136964"/>
+		<nd ref="11040136965"/>
+		<nd ref="11040136966"/>
+		<nd ref="11040136967"/>
+		<nd ref="11040136968"/>
+		<nd ref="11040136969"/>
+		<nd ref="11040136970"/>
+		<nd ref="11040136971"/>
+		<nd ref="11040136972"/>
+		<nd ref="11040136973"/>
+		<nd ref="11040136974"/>
+		<nd ref="11040136975"/>
+		<nd ref="11040136976"/>
+		<nd ref="11040136977"/>
+		<nd ref="11040136978"/>
+		<nd ref="11040136979"/>
+		<nd ref="11040136980"/>
+		<nd ref="11040136981"/>
+		<nd ref="11040136982"/>
+		<nd ref="11040136983"/>
+		<nd ref="11040136984"/>
+		<nd ref="11040136985"/>
+		<nd ref="11040136987"/>
+		<nd ref="11040136988"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="good"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="maxheight" v="default"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964397">
+		<nd ref="11040136988"/>
+		<nd ref="11040136989"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bridge" v="yes"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="good"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="layer" v="1"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964398">
+		<nd ref="11040136989"/>
+		<nd ref="11040136990"/>
+		<nd ref="11040136991"/>
+		<nd ref="11040136992"/>
+		<nd ref="11040136993"/>
+		<nd ref="11040136994"/>
+		<nd ref="11040136995"/>
+		<nd ref="11040136996"/>
+		<nd ref="11040136997"/>
+		<nd ref="11040136998"/>
+		<nd ref="11040136999"/>
+		<nd ref="11040137000"/>
+		<nd ref="11040137001"/>
+		<nd ref="11040137002"/>
+		<nd ref="11040137003"/>
+		<nd ref="11040137004"/>
+		<nd ref="11040137005"/>
+		<nd ref="11040137006"/>
+		<nd ref="11040137007"/>
+		<nd ref="11040137008"/>
+		<nd ref="11040137009"/>
+		<nd ref="11040137010"/>
+		<nd ref="11040137011"/>
+		<nd ref="11040137012"/>
+		<nd ref="11040137013"/>
+		<nd ref="11040137014"/>
+		<nd ref="11040137015"/>
+		<nd ref="11040137016"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="good"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964399">
+		<nd ref="11040137016"/>
+		<nd ref="11040137023"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bridge" v="yes"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="good"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="layer" v="1"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964400">
+		<nd ref="11040137023"/>
+		<nd ref="11040137017"/>
+		<nd ref="11040137018"/>
+		<nd ref="11040137019"/>
+		<nd ref="11040137020"/>
+		<nd ref="11040137021"/>
+		<nd ref="11040137022"/>
+		<nd ref="11040137045"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="good"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964401">
+		<nd ref="11040137024"/>
+		<nd ref="11040137299"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="good"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="maxspeed" v="35 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964402">
+		<nd ref="11040137024"/>
+		<nd ref="11040137025"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="good"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964403">
+		<nd ref="11040137046"/>
+		<nd ref="11040137027"/>
+		<nd ref="11040137028"/>
+		<nd ref="11040137029"/>
+		<nd ref="11040137030"/>
+		<nd ref="11040137031"/>
+		<nd ref="11040137032"/>
+		<nd ref="11040137033"/>
+		<nd ref="11040137034"/>
+		<nd ref="11040137035"/>
+		<nd ref="11040137036"/>
+		<nd ref="11040137037"/>
+		<nd ref="11040137038"/>
+		<nd ref="11040137039"/>
+		<nd ref="11040137040"/>
+		<nd ref="11040137041"/>
+		<nd ref="11040137042"/>
+		<nd ref="11040137026"/>
+		<nd ref="11040137024"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="good"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964404">
+		<nd ref="11040137045"/>
+		<nd ref="11040137043"/>
+		<nd ref="11040137044"/>
+		<nd ref="11040137046"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bridge" v="yes"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="good"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Th 00:00-15:00,19:00-24:00; Fr 00:00-14:00,19:00-24:00; Sa,Su)"/>
+		<tag k="layer" v="1"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Th 15:00-19:00; Fr 14:00-19:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964407">
+		<nd ref="11040137059"/>
+		<nd ref="11040137050"/>
+		<nd ref="11999404192"/>
+		<nd ref="11999404191"/>
+		<nd ref="11040137051"/>
+		<nd ref="11999404190"/>
+		<nd ref="11040137047"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="official_name" v="General Casimir Pulaski Skyway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964408">
+		<nd ref="11040137058"/>
+		<nd ref="11040137052"/>
+		<nd ref="11040137053"/>
+		<nd ref="11040137054"/>
+		<nd ref="11040137055"/>
+		<nd ref="11040137056"/>
+		<nd ref="11040137057"/>
+		<nd ref="11040137059"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bridge" v="yes"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="layer" v="1"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="official_name" v="General Casimir Pulaski Skyway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964409">
+		<nd ref="11040137070"/>
+		<nd ref="11040137069"/>
+		<nd ref="11040137060"/>
+		<nd ref="11040137061"/>
+		<nd ref="11040137062"/>
+		<nd ref="11040137063"/>
+		<nd ref="11040137064"/>
+		<nd ref="11040137065"/>
+		<nd ref="11040137066"/>
+		<nd ref="11040137067"/>
+		<nd ref="11040137068"/>
+		<nd ref="11040137058"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="official_name" v="General Casimir Pulaski Skyway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964410">
+		<nd ref="11040137071"/>
+		<nd ref="11040137070"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bridge" v="yes"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="layer" v="1"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="official_name" v="General Casimir Pulaski Skyway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964411">
+		<nd ref="11040137077"/>
+		<nd ref="11040137075"/>
+		<nd ref="11040137073"/>
+		<nd ref="11040137072"/>
+		<nd ref="11040137074"/>
+		<nd ref="11040137071"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="official_name" v="General Casimir Pulaski Skyway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964412">
+		<nd ref="11040137076"/>
+		<nd ref="11040137077"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bridge" v="yes"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="layer" v="1"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="official_name" v="General Casimir Pulaski Skyway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964413">
+		<nd ref="11040137087"/>
+		<nd ref="11040137078"/>
+		<nd ref="11040137079"/>
+		<nd ref="11040137080"/>
+		<nd ref="11040137081"/>
+		<nd ref="11040137082"/>
+		<nd ref="11040137083"/>
+		<nd ref="11040137084"/>
+		<nd ref="11040137085"/>
+		<nd ref="11040137086"/>
+		<nd ref="11040137076"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="official_name" v="General Casimir Pulaski Skyway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964414">
+		<nd ref="11040137088"/>
+		<nd ref="11040137087"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bridge" v="yes"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="layer" v="1"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="official_name" v="General Casimir Pulaski Skyway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964415">
+		<nd ref="11040137099"/>
+		<nd ref="11040137088"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="official_name" v="General Casimir Pulaski Skyway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964416">
+		<nd ref="11040137121"/>
+		<nd ref="11040137100"/>
+		<nd ref="11040137101"/>
+		<nd ref="11040137102"/>
+		<nd ref="11040137103"/>
+		<nd ref="11040137104"/>
+		<nd ref="11040137105"/>
+		<nd ref="11040137106"/>
+		<nd ref="11040137107"/>
+		<nd ref="11040137108"/>
+		<nd ref="11040137109"/>
+		<nd ref="11040137110"/>
+		<nd ref="11040137111"/>
+		<nd ref="11040137112"/>
+		<nd ref="11040137113"/>
+		<nd ref="11040137114"/>
+		<nd ref="11040137115"/>
+		<nd ref="11040137098"/>
+		<nd ref="11040137089"/>
+		<nd ref="11040137090"/>
+		<nd ref="11040137091"/>
+		<nd ref="11040137092"/>
+		<nd ref="11040137093"/>
+		<nd ref="11040137094"/>
+		<nd ref="11040137095"/>
+		<nd ref="11040137096"/>
+		<nd ref="11040137097"/>
+		<nd ref="11040137099"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bridge" v="yes"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="layer" v="1"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="official_name" v="General Casimir Pulaski Skyway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964417">
+		<nd ref="11040137120"/>
+		<nd ref="11040137116"/>
+		<nd ref="11040137117"/>
+		<nd ref="11040137118"/>
+		<nd ref="11040137119"/>
+		<nd ref="11040137121"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="official_name" v="General Casimir Pulaski Skyway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964418">
+		<nd ref="11040137124"/>
+		<nd ref="11040137122"/>
+		<nd ref="11040137123"/>
+		<nd ref="11040137120"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bridge" v="yes"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="layer" v="1"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="official_name" v="General Casimir Pulaski Skyway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964419">
+		<nd ref="11040137129"/>
+		<nd ref="11040137128"/>
+		<nd ref="11040137125"/>
+		<nd ref="11040137126"/>
+		<nd ref="11040137127"/>
+		<nd ref="11040137124"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="official_name" v="General Casimir Pulaski Skyway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964420">
+		<nd ref="11040137130"/>
+		<nd ref="11040137129"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="official_name" v="Sergeant William G. Walsh Expressway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964421">
+		<nd ref="11040137132"/>
+		<nd ref="11040137130"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bridge" v="yes"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="layer" v="1"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="official_name" v="Sergeant William G. Walsh Expressway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964422">
+		<nd ref="11040137131"/>
+		<nd ref="11040137132"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="official_name" v="Sergeant William G. Walsh Expressway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964423">
+		<nd ref="11040137133"/>
+		<nd ref="11040137131"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bridge" v="yes"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="layer" v="1"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964424">
+		<nd ref="11040137144"/>
+		<nd ref="11040137134"/>
+		<nd ref="11040137135"/>
+		<nd ref="11040137136"/>
+		<nd ref="11040137137"/>
+		<nd ref="11040137138"/>
+		<nd ref="11040137139"/>
+		<nd ref="11040137140"/>
+		<nd ref="11040137133"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="good"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964425">
+		<nd ref="11040137161"/>
+		<nd ref="11040137141"/>
+		<nd ref="11040137142"/>
+		<nd ref="11040137143"/>
+		<nd ref="11040137144"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bridge" v="yes"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="good"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="layer" v="1"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964426">
+		<nd ref="11040137164"/>
+		<nd ref="11040137162"/>
+		<nd ref="11040137163"/>
+		<nd ref="11040137145"/>
+		<nd ref="11040137146"/>
+		<nd ref="11040137147"/>
+		<nd ref="11040137148"/>
+		<nd ref="11040137149"/>
+		<nd ref="11040137150"/>
+		<nd ref="11040137151"/>
+		<nd ref="11040137152"/>
+		<nd ref="11040137153"/>
+		<nd ref="11040137154"/>
+		<nd ref="11040137155"/>
+		<nd ref="11040137156"/>
+		<nd ref="11040137157"/>
+		<nd ref="11040137158"/>
+		<nd ref="11040137159"/>
+		<nd ref="11040137160"/>
+		<nd ref="11040137161"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="good"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="maxheight" v="14'3&quot;"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964427">
+		<nd ref="11040137166"/>
+		<nd ref="11040137165"/>
+		<nd ref="11040137164"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="good"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="layer" v="-1"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+		<tag k="tunnel" v="yes"/>
+	</way>
+<way id="1188964428">
+		<nd ref="11040137238"/>
+		<nd ref="11040137230"/>
+		<nd ref="11040137231"/>
+		<nd ref="11040137232"/>
+		<nd ref="11040137233"/>
+		<nd ref="11040137234"/>
+		<nd ref="11040137235"/>
+		<nd ref="11040137236"/>
+		<nd ref="11040137229"/>
+		<nd ref="11040137187"/>
+		<nd ref="11040137188"/>
+		<nd ref="11040137189"/>
+		<nd ref="11040137190"/>
+		<nd ref="11040137191"/>
+		<nd ref="11040137192"/>
+		<nd ref="11040137193"/>
+		<nd ref="11040137194"/>
+		<nd ref="11040137195"/>
+		<nd ref="11040137196"/>
+		<nd ref="11040137197"/>
+		<nd ref="11040137198"/>
+		<nd ref="11040137199"/>
+		<nd ref="11040137200"/>
+		<nd ref="11040137201"/>
+		<nd ref="11040137202"/>
+		<nd ref="11040137203"/>
+		<nd ref="11040137204"/>
+		<nd ref="11040137205"/>
+		<nd ref="11040137206"/>
+		<nd ref="11040137207"/>
+		<nd ref="11040137208"/>
+		<nd ref="11040137209"/>
+		<nd ref="11040137210"/>
+		<nd ref="11040137211"/>
+		<nd ref="11040137212"/>
+		<nd ref="11040137213"/>
+		<nd ref="11040137214"/>
+		<nd ref="11040137215"/>
+		<nd ref="11040137216"/>
+		<nd ref="11040137217"/>
+		<nd ref="11040137218"/>
+		<nd ref="11040137219"/>
+		<nd ref="11040137220"/>
+		<nd ref="11040137221"/>
+		<nd ref="11040137222"/>
+		<nd ref="11040137223"/>
+		<nd ref="11040137224"/>
+		<nd ref="11040137225"/>
+		<nd ref="11040137226"/>
+		<nd ref="11040137227"/>
+		<nd ref="11040137228"/>
+		<nd ref="11040137186"/>
+		<nd ref="11040137184"/>
+		<nd ref="11040137181"/>
+		<nd ref="11040137182"/>
+		<nd ref="11040137183"/>
+		<nd ref="11040137185"/>
+		<nd ref="11040137169"/>
+		<nd ref="11040137170"/>
+		<nd ref="11040137171"/>
+		<nd ref="11040137172"/>
+		<nd ref="11040137173"/>
+		<nd ref="11040137174"/>
+		<nd ref="11040137175"/>
+		<nd ref="11040137176"/>
+		<nd ref="11040137177"/>
+		<nd ref="11040137178"/>
+		<nd ref="11040137179"/>
+		<nd ref="11040137180"/>
+		<nd ref="11040137167"/>
+		<nd ref="11040137168"/>
+		<nd ref="11040137166"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="good"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964429">
+		<nd ref="11040137237"/>
+		<nd ref="11040137238"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bridge" v="yes"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="good"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="layer" v="1"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964430">
+		<nd ref="11040137267"/>
+		<nd ref="11040137239"/>
+		<nd ref="11040137240"/>
+		<nd ref="11040137241"/>
+		<nd ref="11040137242"/>
+		<nd ref="11040137243"/>
+		<nd ref="11040137244"/>
+		<nd ref="11040137245"/>
+		<nd ref="11040137246"/>
+		<nd ref="11040137247"/>
+		<nd ref="11040137248"/>
+		<nd ref="11040137249"/>
+		<nd ref="11040137250"/>
+		<nd ref="11040137251"/>
+		<nd ref="11040137252"/>
+		<nd ref="11040137253"/>
+		<nd ref="11040137254"/>
+		<nd ref="11040137255"/>
+		<nd ref="11040137256"/>
+		<nd ref="11040137257"/>
+		<nd ref="11040137258"/>
+		<nd ref="11040137259"/>
+		<nd ref="11040137260"/>
+		<nd ref="11040137261"/>
+		<nd ref="11040137262"/>
+		<nd ref="11040137263"/>
+		<nd ref="11040137264"/>
+		<nd ref="11040137265"/>
+		<nd ref="11040137266"/>
+		<nd ref="11040137237"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="good"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="maxheight:signed" v="no"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964431">
+		<nd ref="11040137275"/>
+		<nd ref="11040137267"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bridge" v="yes"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="good"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="layer" v="1"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964432">
+		<nd ref="11040137278"/>
+		<nd ref="11040137268"/>
+		<nd ref="11040137269"/>
+		<nd ref="11040137270"/>
+		<nd ref="11040137271"/>
+		<nd ref="11040137272"/>
+		<nd ref="11040137273"/>
+		<nd ref="11040137274"/>
+		<nd ref="11040137275"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="good"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964433">
+		<nd ref="11040137277"/>
+		<nd ref="11040137276"/>
+		<nd ref="11040137278"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bridge" v="yes"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="good"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="layer" v="1"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964435">
+		<nd ref="11040137299"/>
+		<nd ref="11040137284"/>
+		<nd ref="11040137285"/>
+		<nd ref="11040137286"/>
+		<nd ref="11040137287"/>
+		<nd ref="11040137288"/>
+		<nd ref="11040137289"/>
+		<nd ref="11040137290"/>
+		<nd ref="11040137291"/>
+		<nd ref="11040137292"/>
+		<nd ref="11040137293"/>
+		<nd ref="11040137294"/>
+		<nd ref="11040137295"/>
+		<nd ref="11040137296"/>
+		<nd ref="11040137297"/>
+		<nd ref="11040137298"/>
+		<nd ref="11040137282"/>
+		<nd ref="11040137279"/>
+		<nd ref="11040137280"/>
+		<nd ref="11040137281"/>
+		<nd ref="11040137277"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="good"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1188964436">
+		<nd ref="11040137301"/>
+		<nd ref="11040137300"/>
+		<nd ref="11040137024"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="good"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="maxspeed" v="35 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+<way id="1294793297">
+		<nd ref="11040137047"/>
+		<nd ref="11999404193"/>
+		<nd ref="11999404194"/>
+		<nd ref="11999404199"/>
+		<nd ref="11040107303"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bus:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="change" v="no"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="motorway_link"/>
+		<tag k="highway:conditional" v="no @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="horse" v="no"/>
+		<tag k="hov:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="hov:minimum" v="2"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lanes:conditional" v="0 @ (Mo-Fr 00:00-05:00,10:00-24:00; Sa,Su)"/>
+		<tag k="maxspeed" v="55 mph"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="motorcycle:conditional" v="designated @ (Mo-Fr 05:00-10:00)"/>
+		<tag k="name" v="Southeast Expressway HOV Lane"/>
+		<tag k="official_name" v="General Casimir Pulaski Skyway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="I 93;US 1;MA 3"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="https://www.mass.gov/info-details/southeast-expressway-hov-lane"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="trailer" v="no"/>
+	</way>
+  </modify>
+</osmChange>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="9327931">
+		<nd ref="70371706"/>
+		<nd ref="70356058"/>
+		<nd ref="70335925"/>
+		<nd ref="70313910"/>
+		<nd ref="70374729"/>
+		<nd ref="70339243"/>
+		<nd ref="70383867"/>
+		<nd ref="70329907"/>
+		<nd ref="70392949"/>
+		<nd ref="70310178"/>
+		<nd ref="70360183"/>
+		<nd ref="70385592"/>
+		<nd ref="70358062"/>
+		<nd ref="70339152"/>
+		<nd ref="70380942"/>
+		<nd ref="70376151"/>
+		<nd ref="70329374"/>
+		<nd ref="70390000"/>
+		<nd ref="70309592"/>
+		<nd ref="70332614"/>
+		<nd ref="70304760"/>
+		<nd ref="70347651"/>
+		<nd ref="70319667"/>
+		<nd ref="70369494"/>
+		<nd ref="70300328"/>
+		<nd ref="70377417"/>
+		<nd ref="70297851"/>
+		<nd ref="70344863"/>
+		<nd ref="70347510"/>
+		<nd ref="70304869"/>
+		<nd ref="70379353"/>
+		<nd ref="7180870012"/>
+		<nd ref="7180870007"/>
+		<nd ref="70383098"/>
+		<nd ref="7144679330"/>
+		<nd ref="9055919615"/>
+		<nd ref="8320498999"/>
+		<nd ref="70379719"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="152998"/>
+		<tag k="name" v="Lawrence Street"/>
+		<tag k="source" v="massgis_import_v0.1_20071009092036"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="15.2"/>
+	</way>
+  </modify>
+</osmChange>

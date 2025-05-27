@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="9589410">
+		<nd ref="74291703"/>
+		<nd ref="3453159711"/>
+		<nd ref="3840893247"/>
+		<nd ref="74319196"/>
+		<nd ref="74331278"/>
+		<nd ref="74301877"/>
+		<nd ref="9607705511"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="tertiary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="lit" v="no"/>
+		<tag k="name" v="Memorial Avenue"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+  </modify>
+</osmChange>

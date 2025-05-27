@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="68310078">
+		<nd ref="73921092"/>
+		<nd ref="10198425152"/>
+		<nd ref="74128613"/>
+		<nd ref="73956453"/>
+		<nd ref="6814993473"/>
+		<nd ref="74109665"/>
+		<nd ref="10198425151"/>
+		<nd ref="74059370"/>
+		<nd ref="74111964"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:left" v="lane"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lit" v="yes"/>
+		<tag k="name" v="Adams Street"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="rcn_ref" v="1"/>
+		<tag k="sidewalk" v="left"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="12.2"/>
+	</way>
+  </modify>
+</osmChange>

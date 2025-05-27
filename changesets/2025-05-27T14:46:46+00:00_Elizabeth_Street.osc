@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="9224986">
+		<nd ref="68847444"/>
+		<nd ref="2701368066"/>
+		<nd ref="68801264"/>
+		<nd ref="68831968"/>
+		<nd ref="68805851"/>
+		<nd ref="68887578"/>
+		<nd ref="68727220"/>
+		<nd ref="68850926"/>
+		<nd ref="68898402"/>
+		<nd ref="68741291"/>
+		<nd ref="68809777"/>
+		<nd ref="68930651"/>
+		<nd ref="68838580"/>
+		<nd ref="3637984079"/>
+		<nd ref="68817101"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="2"/>
+		<tag k="maxweight" v="2.5 st"/>
+		<tag k="name" v="Elizabeth Street"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+  </modify>
+</osmChange>

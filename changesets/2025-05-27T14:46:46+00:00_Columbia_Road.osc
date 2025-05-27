@@ -1,0 +1,274 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="8640426">
+		<nd ref="9959616589"/>
+		<nd ref="9761784768"/>
+		<nd ref="8855377320"/>
+		<nd ref="9761784767"/>
+		<nd ref="8855377319"/>
+		<nd ref="9761784766"/>
+		<nd ref="8855377318"/>
+		<nd ref="61462715"/>
+		<nd ref="9761784765"/>
+		<nd ref="8855367416"/>
+		<nd ref="8855351860"/>
+		<nd ref="9959600455"/>
+		<nd ref="8855367413"/>
+		<nd ref="8855367412"/>
+		<nd ref="2254130937"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bicycle" v="yes"/>
+		<tag k="condition" v="good"/>
+		<tag k="cycleway:right" v="lane"/>
+		<tag k="cycleway:right:buffer" v="yes"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="massgis:ref" v="0 N118"/>
+		<tag k="massgis:way_id" v="194771"/>
+		<tag k="name" v="Columbia Road"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="parking:lane:right" v="parallel"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="21.3"/>
+	</way>
+<way id="8646487">
+		<nd ref="61353309"/>
+		<nd ref="2256198639"/>
+		<nd ref="6011056736"/>
+		<nd ref="2253530904"/>
+		<nd ref="61593319"/>
+		<nd ref="61593309"/>
+		<nd ref="6011056742"/>
+		<nd ref="61593302"/>
+		<nd ref="6011056730"/>
+		<nd ref="61448363"/>
+		<nd ref="61448374"/>
+		<nd ref="61448378"/>
+		<nd ref="6011056746"/>
+		<nd ref="61448380"/>
+		<nd ref="6011056754"/>
+		<nd ref="1079504793"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="cycleway:right" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="141908"/>
+		<tag k="name" v="Columbia Road"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="24.4"/>
+	</way>
+<way id="8650902">
+		<nd ref="6011056741"/>
+		<nd ref="9959600438"/>
+		<nd ref="2566290349"/>
+		<nd ref="61448352"/>
+		<nd ref="2256198623"/>
+		<nd ref="61448358"/>
+		<nd ref="2256198633"/>
+		<nd ref="61448342"/>
+		<nd ref="61353309"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="cycleway:right" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="4"/>
+		<tag k="massgis:way_id" v="176107"/>
+		<tag k="name" v="Columbia Road"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="concrete"/>
+		<tag k="width" v="21.3"/>
+	</way>
+<way id="93123308">
+		<nd ref="61353309"/>
+		<nd ref="2256198635"/>
+		<nd ref="61353307"/>
+		<nd ref="2256198629"/>
+		<nd ref="2256198627"/>
+		<nd ref="2256198638"/>
+		<nd ref="61353305"/>
+		<nd ref="2256198624"/>
+		<nd ref="61353303"/>
+		<nd ref="61353301"/>
+		<nd ref="61353299"/>
+		<nd ref="9959600431"/>
+		<nd ref="61345081"/>
+		<nd ref="61345075"/>
+		<nd ref="10856287966"/>
+		<nd ref="61345077"/>
+		<nd ref="10856287965"/>
+		<nd ref="10858935592"/>
+		<nd ref="2256188209"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="4"/>
+		<tag k="massgis:way_id" v="176107"/>
+		<tag k="name" v="Columbia Road"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="21.3"/>
+	</way>
+<way id="216267540">
+		<nd ref="2256188203"/>
+		<nd ref="2565857263"/>
+		<nd ref="2256188276"/>
+		<nd ref="2256188207"/>
+		<nd ref="2256188213"/>
+		<nd ref="2256188278"/>
+		<nd ref="2256188209"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="176107"/>
+		<tag k="name" v="Columbia Road"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+	</way>
+<way id="216267548">
+		<nd ref="2256188209"/>
+		<nd ref="5973405904"/>
+		<nd ref="5973405902"/>
+		<nd ref="5973405901"/>
+		<nd ref="61353311"/>
+		<nd ref="9873448041"/>
+		<nd ref="2256188215"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="176107"/>
+		<tag k="name" v="Columbia Road"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+	</way>
+<way id="216275097">
+		<nd ref="61351132"/>
+		<nd ref="8843079768"/>
+		<nd ref="2254130906"/>
+		<nd ref="8843079767"/>
+		<nd ref="61351130"/>
+		<nd ref="61351121"/>
+		<nd ref="8843079773"/>
+		<nd ref="8843079774"/>
+		<nd ref="61351119"/>
+		<nd ref="8843079775"/>
+		<nd ref="8843079776"/>
+		<nd ref="8843079777"/>
+		<nd ref="2254130919"/>
+		<nd ref="8843079778"/>
+		<nd ref="8843079779"/>
+		<nd ref="2254130922"/>
+		<nd ref="8843079780"/>
+		<nd ref="8843079764"/>
+		<nd ref="61457195"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bicycle" v="yes"/>
+		<tag k="condition" v="good"/>
+		<tag k="cycleway:right" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:ref" v="0 N118"/>
+		<tag k="massgis:way_id" v="194771"/>
+		<tag k="name" v="Columbia Road"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="21.3"/>
+	</way>
+<way id="591236269">
+		<nd ref="2254130934"/>
+		<nd ref="2254130958"/>
+		<nd ref="2254130960"/>
+		<nd ref="61585159"/>
+		<nd ref="8855351859"/>
+		<nd ref="61353390"/>
+		<nd ref="11981499294"/>
+		<nd ref="8843079772"/>
+		<nd ref="8843079771"/>
+		<nd ref="8843079770"/>
+		<nd ref="61351132"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bicycle" v="yes"/>
+		<tag k="condition" v="good"/>
+		<tag k="cycleway:right" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:ref" v="0 N118"/>
+		<tag k="massgis:way_id" v="194771"/>
+		<tag k="name" v="Columbia Road"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="shoulder" v="right"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="21.3"/>
+	</way>
+<way id="1087006177">
+		<nd ref="9959600484"/>
+		<nd ref="11328571588"/>
+		<nd ref="8855377323"/>
+		<nd ref="61462434"/>
+		<nd ref="9761784772"/>
+		<nd ref="61462437"/>
+		<nd ref="9761784771"/>
+		<nd ref="8855377322"/>
+		<nd ref="9761784770"/>
+		<nd ref="8855377321"/>
+		<nd ref="9761784769"/>
+		<nd ref="61462464"/>
+		<nd ref="9959616589"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bicycle" v="yes"/>
+		<tag k="condition" v="good"/>
+		<tag k="cycleway:right" v="lane"/>
+		<tag k="cycleway:right:buffer" v="yes"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:ref" v="0 N118"/>
+		<tag k="massgis:way_id" v="194771"/>
+		<tag k="name" v="Columbia Road"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="21.3"/>
+	</way>
+<way id="1087006178">
+		<nd ref="2254130955"/>
+		<nd ref="11328571586"/>
+		<nd ref="11328571587"/>
+		<nd ref="8855377326"/>
+		<nd ref="8855377325"/>
+		<nd ref="2254130904"/>
+		<nd ref="9959600484"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bicycle" v="yes"/>
+		<tag k="condition" v="good"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="massgis:ref" v="0 N118"/>
+		<tag k="massgis:way_id" v="194771"/>
+		<tag k="name" v="Columbia Road"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="21.3"/>
+	</way>
+  </modify>
+</osmChange>

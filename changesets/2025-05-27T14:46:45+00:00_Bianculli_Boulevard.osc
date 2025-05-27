@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="1201000289">
+		<nd ref="2253082658"/>
+		<nd ref="7722653918"/>
+		<nd ref="7722653917"/>
+		<nd ref="7722653915"/>
+		<nd ref="7722653916"/>
+		<nd ref="7722653914"/>
+		<nd ref="61356914"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="cycleway:right" v="lane"/>
+		<tag k="cycleway:right:buffer" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="tertiary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="152146"/>
+		<tag k="name" v="Bianculli Boulevard"/>
+		<tag k="old_name" v="University of Massachusetts Access Road"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="30.5"/>
+	</way>
+  </modify>
+</osmChange>

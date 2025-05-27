@@ -1,0 +1,621 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="9037742">
+		<nd ref="66451735"/>
+		<nd ref="66430319"/>
+		<nd ref="66424069"/>
+		<nd ref="66439546"/>
+		<nd ref="271201667"/>
+		<nd ref="66475400"/>
+		<nd ref="3960540403"/>
+		<nd ref="12463788854"/>
+		<nd ref="66433766"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="expressway" v="yes"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="1"/>
+		<tag k="massgis:way_id" v="149708"/>
+		<tag k="maxspeed" v="35 mph"/>
+		<tag k="name" v="Mystic Valley Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="MA 16"/>
+		<tag k="source" v="massgis_import_v0.1_20071009090921"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="30.2;21.3"/>
+	</way>
+<way id="9037770">
+		<nd ref="66487462"/>
+		<nd ref="66452293"/>
+		<nd ref="66443453"/>
+		<nd ref="66453670"/>
+		<nd ref="66474522"/>
+		<nd ref="66472523"/>
+		<nd ref="271201668"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="expressway" v="yes"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="1"/>
+		<tag k="massgis:way_id" v="149708"/>
+		<tag k="maxspeed" v="35 mph"/>
+		<tag k="name" v="Mystic Valley Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="MA 16"/>
+		<tag k="source" v="massgis_import_v0.1_20071009090921"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+<way id="9038615">
+		<nd ref="66483277"/>
+		<nd ref="1808422944"/>
+		<nd ref="1037356222"/>
+		<nd ref="5674797607"/>
+		<nd ref="66450277"/>
+		<nd ref="66426594"/>
+		<nd ref="66475424"/>
+		<nd ref="66478490"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="141667"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="name" v="Mystic Valley Parkway"/>
+		<tag k="ref" v="MA 16"/>
+		<tag k="source" v="massgis_import_v0.1_20071009090921"/>
+		<tag k="width" v="30.2"/>
+	</way>
+<way id="9038732">
+		<nd ref="66487840"/>
+		<nd ref="12569413857"/>
+		<nd ref="12569413866"/>
+		<nd ref="12569413856"/>
+		<nd ref="12569413859"/>
+		<nd ref="12569413855"/>
+		<nd ref="12569413854"/>
+		<nd ref="12569413853"/>
+		<nd ref="66451653"/>
+		<nd ref="66466517"/>
+		<nd ref="66444933"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="destination" v="Everett;Revere"/>
+		<tag k="destination:ref" v="MA 16 East"/>
+		<tag k="expressway" v="yes"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="1"/>
+		<tag k="massgis:way_id" v="141667"/>
+		<tag k="name" v="Mystic Valley Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="MA 16"/>
+		<tag k="source" v="massgis_import_v0.1_20071009090921"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="15.2"/>
+	</way>
+<way id="24958070">
+		<nd ref="1095909181"/>
+		<nd ref="271208130"/>
+		<nd ref="66440565"/>
+		<nd ref="66449868"/>
+		<nd ref="66476685"/>
+		<nd ref="66460754"/>
+		<nd ref="66428442"/>
+		<nd ref="944185268"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="destination:lanes" v="Concord New Hampshire;Boston|Everett;Revere"/>
+		<tag k="destination:ref:lanes" v="I 93|MA 16 East"/>
+		<tag k="expressway" v="yes"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="141667"/>
+		<tag k="name" v="Mystic Valley Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="MA 16"/>
+		<tag k="source" v="massgis_import_v0.1_20071009090921"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="15.2"/>
+	</way>
+<way id="80989682">
+		<nd ref="66421574"/>
+		<nd ref="66477496"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bridge" v="yes"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="1"/>
+		<tag k="layer" v="1"/>
+		<tag k="massgis:way_id" v="141667"/>
+		<tag k="name" v="Mystic Valley Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="parking:both" v="no"/>
+		<tag k="ref" v="MA 16;MA 38"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="massgis_import_v0.1_20071009090921"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="30.2"/>
+	</way>
+<way id="80989683">
+		<nd ref="66464905"/>
+		<nd ref="3756559068"/>
+		<nd ref="2466070882"/>
+		<nd ref="66421574"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="141667"/>
+		<tag k="name" v="Mystic Valley Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="parking:both" v="no"/>
+		<tag k="ref" v="MA 16;MA 38"/>
+		<tag k="source" v="massgis_import_v0.1_20071009090921"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="30.2"/>
+	</way>
+<way id="80989693">
+		<nd ref="944185268"/>
+		<nd ref="944185274"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bridge" v="yes"/>
+		<tag k="condition" v="fair"/>
+		<tag k="expressway" v="yes"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="1"/>
+		<tag k="layer" v="1"/>
+		<tag k="massgis:way_id" v="141667"/>
+		<tag k="name" v="Mystic Valley Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="MA 16"/>
+		<tag k="source" v="massgis_import_v0.1_20071009090921"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="15.2"/>
+	</way>
+<way id="80989702">
+		<nd ref="271201668"/>
+		<nd ref="66451735"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bridge" v="yes"/>
+		<tag k="condition" v="good"/>
+		<tag k="expressway" v="yes"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="1"/>
+		<tag k="layer" v="1"/>
+		<tag k="massgis:way_id" v="149708"/>
+		<tag k="maxspeed" v="35 mph"/>
+		<tag k="name" v="Mystic Valley Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="MA 16"/>
+		<tag k="source" v="massgis_import_v0.1_20071009090921"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="21.3"/>
+	</way>
+<way id="80994978">
+		<nd ref="944275832"/>
+		<nd ref="66483277"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="4"/>
+		<tag k="massgis:way_id" v="141667"/>
+		<tag k="name" v="Mystic Valley Parkway"/>
+		<tag k="ref" v="MA 16"/>
+		<tag k="source" v="massgis_import_v0.1_20071009090921"/>
+		<tag k="width" v="30.2"/>
+	</way>
+<way id="80994979">
+		<nd ref="944275803"/>
+		<nd ref="944275832"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bridge" v="yes"/>
+		<tag k="condition" v="fair"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="4"/>
+		<tag k="layer" v="1"/>
+		<tag k="massgis:way_id" v="141667"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="name" v="Mystic Valley Parkway"/>
+		<tag k="ref" v="MA 16"/>
+		<tag k="source" v="massgis_import_v0.1_20071009090921"/>
+		<tag k="width" v="30.2"/>
+	</way>
+<way id="92017346">
+		<nd ref="66455370"/>
+		<nd ref="10110208100"/>
+		<nd ref="66457092"/>
+		<nd ref="66467154"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:both" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="141667"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="name" v="Mystic Valley Parkway"/>
+		<tag k="ref" v="MA 16"/>
+		<tag k="source" v="massgis_import_v0.1_20071009090921"/>
+		<tag k="width" v="30.2"/>
+	</way>
+<way id="138789038">
+		<nd ref="71936516"/>
+		<nd ref="1037355970"/>
+		<nd ref="12464090947"/>
+		<nd ref="71949549"/>
+		<nd ref="6894990985"/>
+		<nd ref="71924526"/>
+		<nd ref="1808422964"/>
+		<nd ref="6755324518"/>
+		<nd ref="1808422926"/>
+		<nd ref="1808422942"/>
+		<nd ref="71923372"/>
+		<nd ref="1808422950"/>
+		<nd ref="71928659"/>
+		<nd ref="71922481"/>
+		<nd ref="71938702"/>
+		<nd ref="71942937"/>
+		<nd ref="71918756"/>
+		<nd ref="1078358769"/>
+		<nd ref="71954196"/>
+		<nd ref="1808422883"/>
+		<nd ref="1808422954"/>
+		<nd ref="66425906"/>
+		<nd ref="1808422868"/>
+		<nd ref="66461282"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="4"/>
+		<tag k="massgis:way_id" v="122069"/>
+		<tag k="maxspeed" v="30 mph"/>
+		<tag k="name" v="Mystic Valley Parkway"/>
+		<tag k="ref" v="MA 16"/>
+		<tag k="source" v="massgis_import_v0.1_20071009093301"/>
+		<tag k="width" v="18.3"/>
+	</way>
+<way id="169674762">
+		<nd ref="66461282"/>
+		<nd ref="1808422935"/>
+		<nd ref="1808422967"/>
+		<nd ref="1078359456"/>
+		<nd ref="1808422946"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="4"/>
+		<tag k="massgis:way_id" v="141667"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="name" v="Mystic Valley Parkway"/>
+		<tag k="ref" v="MA 16"/>
+		<tag k="source" v="massgis_import_v0.1_20071009090921"/>
+		<tag k="width" v="30.2"/>
+	</way>
+<way id="238810223">
+		<nd ref="66464905"/>
+		<nd ref="66456778"/>
+		<nd ref="1096009918"/>
+		<nd ref="6771564369"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="141667"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="name" v="Mystic Valley Parkway"/>
+		<tag k="parking:both" v="no"/>
+		<tag k="ref" v="MA 16;MA 38"/>
+		<tag k="source" v="massgis_import_v0.1_20071009090921"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="30.2"/>
+	</way>
+<way id="238810224">
+		<nd ref="2466070876"/>
+		<nd ref="2466070879"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bridge" v="yes"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="1"/>
+		<tag k="layer" v="1"/>
+		<tag k="massgis:way_id" v="141667"/>
+		<tag k="name" v="Mystic Valley Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="parking:both" v="no"/>
+		<tag k="ref" v="MA 16;MA 38"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="massgis_import_v0.1_20071009090921"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="30.2"/>
+	</way>
+<way id="238810225">
+		<nd ref="2466070879"/>
+		<nd ref="3756559067"/>
+		<nd ref="2466070885"/>
+		<nd ref="3756559069"/>
+		<nd ref="66464905"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="1"/>
+		<tag k="massgis:way_id" v="141667"/>
+		<tag k="name" v="Mystic Valley Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="parking:both" v="no"/>
+		<tag k="ref" v="MA 16;MA 38"/>
+		<tag k="source" v="massgis_import_v0.1_20071009090921"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="30.2"/>
+	</way>
+<way id="417758589">
+		<nd ref="66433766"/>
+		<nd ref="2466070876"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="1"/>
+		<tag k="massgis:way_id" v="149708"/>
+		<tag k="name" v="Mystic Valley Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="MA 16;MA 38"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="massgis_import_v0.1_20071009090921"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="30.2;21.3"/>
+	</way>
+<way id="417758590">
+		<nd ref="3185276630"/>
+		<nd ref="1095909178"/>
+		<nd ref="1095909181"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="expressway" v="yes"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="1"/>
+		<tag k="massgis:way_id" v="141667"/>
+		<tag k="name" v="Mystic Valley Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="MA 16;MA 38"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="massgis_import_v0.1_20071009090921"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="15.2"/>
+	</way>
+<way id="420769297">
+		<nd ref="66487803"/>
+		<nd ref="66437731"/>
+		<nd ref="66480133"/>
+		<nd ref="66478490"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="141667"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="name" v="Mystic Valley Parkway"/>
+		<tag k="ref" v="MA 16"/>
+		<tag k="source" v="massgis_import_v0.1_20071009090921"/>
+		<tag k="width" v="30.2"/>
+	</way>
+<way id="426848498">
+		<nd ref="66451608"/>
+		<nd ref="10110208095"/>
+		<nd ref="66455370"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:both" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="lanes:backward" v="1"/>
+		<tag k="lanes:forward" v="2"/>
+		<tag k="massgis:way_id" v="141667"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="name" v="Mystic Valley Parkway"/>
+		<tag k="ref" v="MA 16;MA 38"/>
+		<tag k="sidewalk:left" v="no"/>
+		<tag k="sidewalk:right" v="separate"/>
+		<tag k="source" v="massgis_import_v0.1_20071009090921"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes:forward" v="|right"/>
+		<tag k="width" v="30.2"/>
+	</way>
+<way id="596331228">
+		<nd ref="944185274"/>
+		<nd ref="271201953"/>
+		<nd ref="12569413858"/>
+		<nd ref="66487840"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="expressway" v="yes"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="141667"/>
+		<tag k="name" v="Mystic Valley Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="MA 16"/>
+		<tag k="source" v="massgis_import_v0.1_20071009090921"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="15.2"/>
+	</way>
+<way id="697755681">
+		<nd ref="66467154"/>
+		<nd ref="66438885"/>
+		<nd ref="66432183"/>
+		<nd ref="66428920"/>
+		<nd ref="66478534"/>
+		<nd ref="66448392"/>
+		<nd ref="944277174"/>
+		<nd ref="66475214"/>
+		<nd ref="66433529"/>
+		<nd ref="66487803"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="141667"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="name" v="Mystic Valley Parkway"/>
+		<tag k="ref" v="MA 16"/>
+		<tag k="source" v="massgis_import_v0.1_20071009090921"/>
+		<tag k="width" v="30.2"/>
+	</way>
+<way id="721874217">
+		<nd ref="6771564371"/>
+		<nd ref="66440596"/>
+		<nd ref="10110208088"/>
+		<nd ref="3756559399"/>
+		<nd ref="989244846"/>
+		<nd ref="10110208087"/>
+		<nd ref="3756614188"/>
+		<nd ref="3756559417"/>
+		<nd ref="3185276629"/>
+		<nd ref="3756559427"/>
+		<nd ref="66484862"/>
+		<nd ref="3756559436"/>
+		<nd ref="3756559438"/>
+		<nd ref="66425510"/>
+		<nd ref="3756559439"/>
+		<nd ref="1096009927"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="141667"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="name" v="Mystic Valley Parkway"/>
+		<tag k="ref" v="MA 16;MA 38"/>
+		<tag k="sidewalk:both" v="separate"/>
+		<tag k="source" v="massgis_import_v0.1_20071009090921"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="30.2"/>
+	</way>
+<way id="721874218">
+		<nd ref="3756559367"/>
+		<nd ref="6771564371"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="141667"/>
+		<tag k="name" v="Mystic Valley Parkway"/>
+		<tag k="ref" v="MA 16;MA 38"/>
+		<tag k="source" v="massgis_import_v0.1_20071009090921"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="30.2"/>
+	</way>
+<way id="721874219">
+		<nd ref="6771564369"/>
+		<nd ref="66473903"/>
+		<nd ref="3756559367"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="141667"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="name" v="Mystic Valley Parkway"/>
+		<tag k="ref" v="MA 16;MA 38"/>
+		<tag k="source" v="massgis_import_v0.1_20071009090921"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="30.2"/>
+	</way>
+<way id="1110400228">
+		<nd ref="1808422946"/>
+		<nd ref="1808422937"/>
+		<nd ref="944275803"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="4"/>
+		<tag k="massgis:way_id" v="141667"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="name" v="Mystic Valley Parkway"/>
+		<tag k="ref" v="MA 16"/>
+		<tag k="source" v="massgis_import_v0.1_20071009090921"/>
+		<tag k="width" v="30.2"/>
+	</way>
+<way id="1195395340">
+		<nd ref="1096009927"/>
+		<nd ref="1096009925"/>
+		<nd ref="3756614198"/>
+		<nd ref="66428022"/>
+		<nd ref="3756614200"/>
+		<nd ref="66475946"/>
+		<nd ref="3756581068"/>
+		<nd ref="66423850"/>
+		<nd ref="3756581069"/>
+		<nd ref="66451608"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="141667"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="name" v="Mystic Valley Parkway"/>
+		<tag k="ref" v="MA 16;MA 38"/>
+		<tag k="sidewalk:left" v="no"/>
+		<tag k="sidewalk:right" v="separate"/>
+		<tag k="source" v="massgis_import_v0.1_20071009090921"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="30.2"/>
+	</way>
+<way id="1312942903">
+		<nd ref="66477496"/>
+		<nd ref="12463788855"/>
+		<nd ref="3185276630"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="1"/>
+		<tag k="massgis:way_id" v="141667"/>
+		<tag k="name" v="Mystic Valley Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="MA 16;MA 38"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="source" v="massgis_import_v0.1_20071009090921"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="15.2"/>
+	</way>
+  </modify>
+</osmChange>

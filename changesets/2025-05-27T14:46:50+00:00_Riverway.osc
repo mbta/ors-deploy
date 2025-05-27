@@ -1,0 +1,271 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="8643674">
+		<nd ref="822453771"/>
+		<nd ref="61451174"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bridge" v="yes"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="layer" v="1"/>
+		<tag k="lit" v="yes"/>
+		<tag k="mapillary" v="1445837186284918"/>
+		<tag k="massgis:ref" v="0 N411"/>
+		<tag k="massgis:way_id" v="126020"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="name" v="Riverway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="sidewalk" v="no"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="survey:date" v="2024-03-12"/>
+		<tag k="width" v="12.2"/>
+	</way>
+<way id="8647433">
+		<nd ref="61519366"/>
+		<nd ref="3124387306"/>
+		<nd ref="61423547"/>
+		<nd ref="3124387298"/>
+		<nd ref="6032952070"/>
+		<nd ref="3124387296"/>
+		<nd ref="61432049"/>
+		<nd ref="61411421"/>
+		<nd ref="6031042975"/>
+		<nd ref="61411434"/>
+		<nd ref="61411436"/>
+		<nd ref="3124384516"/>
+		<nd ref="61411430"/>
+		<nd ref="3124384513"/>
+		<nd ref="3124384510"/>
+		<nd ref="61411394"/>
+		<nd ref="61411390"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="126020"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="name" v="Riverway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="sidewalk" v="no"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="12.2"/>
+	</way>
+<way id="8650148">
+		<nd ref="61343572"/>
+		<nd ref="10259596393"/>
+		<nd ref="3124387501"/>
+		<nd ref="61355072"/>
+		<nd ref="61355079"/>
+		<nd ref="61355078"/>
+		<nd ref="3124387516"/>
+		<nd ref="61355077"/>
+		<nd ref="3124387518"/>
+		<nd ref="61355076"/>
+		<nd ref="61355067"/>
+		<nd ref="3124387525"/>
+		<nd ref="61355080"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:both" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="4"/>
+		<tag k="massgis:ref" v="0 N411"/>
+		<tag k="massgis:way_id" v="126020"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="name" v="Riverway"/>
+		<tag k="parking:both" v="no"/>
+		<tag k="sidewalk:left" v="no"/>
+		<tag k="sidewalk:right" v="separate"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="17.7"/>
+	</way>
+<way id="42687273">
+		<nd ref="61411390"/>
+		<nd ref="61409196"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bridge" v="yes"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="layer" v="1"/>
+		<tag k="lit" v="yes"/>
+		<tag k="mapillary" v="2439306199603594"/>
+		<tag k="massgis:way_id" v="126020"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="name" v="Riverway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="survey:date" v="2024-03-12"/>
+		<tag k="width" v="12.2"/>
+	</way>
+<way id="42687274">
+		<nd ref="61451174"/>
+		<nd ref="61451172"/>
+		<nd ref="3124384511"/>
+		<nd ref="61451168"/>
+		<nd ref="3124384514"/>
+		<nd ref="61451164"/>
+		<nd ref="3124384517"/>
+		<nd ref="61451158"/>
+		<nd ref="3124384522"/>
+		<nd ref="61389213"/>
+		<nd ref="6032952069"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:ref" v="0 N411"/>
+		<tag k="massgis:way_id" v="126020"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="name" v="Riverway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="12.2"/>
+	</way>
+<way id="384322483">
+		<nd ref="61519366"/>
+		<nd ref="6031042971"/>
+		<nd ref="3124387323"/>
+		<nd ref="6031042968"/>
+		<nd ref="61562095"/>
+		<nd ref="61562086"/>
+		<nd ref="3124387429"/>
+		<nd ref="3124387432"/>
+		<nd ref="61562042"/>
+		<nd ref="3124387439"/>
+		<nd ref="61562034"/>
+		<nd ref="3124387443"/>
+		<nd ref="3124387446"/>
+		<nd ref="3124387447"/>
+		<nd ref="61562057"/>
+		<nd ref="61562051"/>
+		<nd ref="3124387451"/>
+		<nd ref="61562101"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:both" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="4"/>
+		<tag k="massgis:ref" v="0 N411"/>
+		<tag k="massgis:way_id" v="126020"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="name" v="Riverway"/>
+		<tag k="sidewalk" v="right"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="17.7"/>
+	</way>
+<way id="684605247">
+		<nd ref="61423445"/>
+		<nd ref="2484605912"/>
+		<nd ref="11506955721"/>
+		<nd ref="61423438"/>
+		<nd ref="2484605996"/>
+		<nd ref="4865683869"/>
+		<nd ref="2484605902"/>
+		<nd ref="4865683857"/>
+		<nd ref="12150548992"/>
+		<nd ref="1551460746"/>
+		<nd ref="1551460741"/>
+		<nd ref="61352398"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="113421"/>
+		<tag k="maxspeed" v="30 mph"/>
+		<tag k="name" v="Riverway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="parking:both" v="no"/>
+		<tag k="sidewalk" v="no"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="24.4"/>
+	</way>
+<way id="798290274">
+		<nd ref="61355080"/>
+		<nd ref="3124387526"/>
+		<nd ref="3124387528"/>
+		<nd ref="61355081"/>
+		<nd ref="61355086"/>
+		<nd ref="3124387630"/>
+		<nd ref="61355087"/>
+		<nd ref="61355084"/>
+		<nd ref="61355085"/>
+		<nd ref="3124387632"/>
+		<nd ref="61355075"/>
+		<nd ref="3124387634"/>
+		<nd ref="3124387635"/>
+		<nd ref="61355074"/>
+		<nd ref="3124387637"/>
+		<nd ref="61355073"/>
+		<nd ref="61355089"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:both" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="4"/>
+		<tag k="massgis:ref" v="0 N411"/>
+		<tag k="massgis:way_id" v="126020"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="name" v="Riverway"/>
+		<tag k="sidewalk:left" v="no"/>
+		<tag k="sidewalk:right" v="separate"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="17.7"/>
+	</way>
+<way id="798317647">
+		<nd ref="61562101"/>
+		<nd ref="3124387460"/>
+		<nd ref="61562107"/>
+		<nd ref="3124387470"/>
+		<nd ref="61562117"/>
+		<nd ref="3124387477"/>
+		<nd ref="61562124"/>
+		<nd ref="3124387481"/>
+		<nd ref="61562079"/>
+		<nd ref="3124387488"/>
+		<nd ref="3124387492"/>
+		<nd ref="61562069"/>
+		<nd ref="10259596395"/>
+		<nd ref="61343572"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:both" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="4"/>
+		<tag k="massgis:ref" v="0 N411"/>
+		<tag k="massgis:way_id" v="126020"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="name" v="Riverway"/>
+		<tag k="parking:both" v="no"/>
+		<tag k="sidewalk" v="right"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes:forward" v="through|right"/>
+		<tag k="width" v="17.7"/>
+	</way>
+  </modify>
+</osmChange>

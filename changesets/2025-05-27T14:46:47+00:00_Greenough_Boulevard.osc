@@ -1,0 +1,579 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="9317212">
+		<nd ref="70214591"/>
+		<nd ref="7129205933"/>
+		<nd ref="7129205955"/>
+		<nd ref="12543258769"/>
+		<nd ref="12543258768"/>
+		<nd ref="12128523937"/>
+		<nd ref="2637706548"/>
+		<nd ref="9522633752"/>
+		<nd ref="70216459"/>
+		<nd ref="70240041"/>
+		<nd ref="70256092"/>
+		<nd ref="1150190977"/>
+		<nd ref="70227247"/>
+		<nd ref="1150190983"/>
+		<nd ref="1150190978"/>
+		<nd ref="70226051"/>
+		<nd ref="70232657"/>
+		<nd ref="1150190981"/>
+		<nd ref="70239813"/>
+		<nd ref="1150190988"/>
+		<nd ref="70256624"/>
+		<nd ref="3297648373"/>
+		<nd ref="70216868"/>
+		<nd ref="1150190986"/>
+		<nd ref="70255718"/>
+		<nd ref="70247625"/>
+		<nd ref="1150190987"/>
+		<nd ref="70252647"/>
+		<nd ref="70219877"/>
+		<nd ref="70229685"/>
+		<nd ref="70256303"/>
+		<nd ref="70224137"/>
+		<nd ref="1150190980"/>
+		<nd ref="1150190982"/>
+		<nd ref="1150190984"/>
+		<nd ref="70215224"/>
+		<nd ref="1150190985"/>
+		<nd ref="1150190976"/>
+		<nd ref="70212803"/>
+		<nd ref="1150190979"/>
+		<nd ref="70249891"/>
+		<nd ref="7039567310"/>
+		<nd ref="2640157302"/>
+		<nd ref="2640157297"/>
+		<nd ref="12557231860"/>
+		<nd ref="7039567308"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bus" v="no"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:left:lane" v="exclusive"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="tertiary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="134060"/>
+		<tag k="name" v="Greenough Boulevard"/>
+		<tag k="source" v="massgis_import_v0.1_20071009094247"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="15.2"/>
+	</way>
+<way id="9317499">
+		<nd ref="70256696"/>
+		<nd ref="7039613433"/>
+		<nd ref="7039613438"/>
+		<nd ref="70235872"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="massgis:way_id" v="110301"/>
+		<tag k="name" v="Greenough Boulevard"/>
+		<tag k="source" v="massgis_import_v0.1_20071009094247"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="30.2"/>
+	</way>
+<way id="9317969">
+		<nd ref="70256696"/>
+		<nd ref="4257829730"/>
+		<nd ref="7039609878"/>
+		<nd ref="7039609875"/>
+		<nd ref="7039617886"/>
+		<nd ref="997397105"/>
+		<nd ref="70235754"/>
+		<nd ref="7039609882"/>
+		<nd ref="70233544"/>
+		<nd ref="7044569790"/>
+		<nd ref="9362012265"/>
+		<nd ref="997397036"/>
+		<nd ref="7044569789"/>
+		<nd ref="7044569788"/>
+		<nd ref="7044640719"/>
+		<nd ref="7044640720"/>
+		<nd ref="70235883"/>
+		<nd ref="70230129"/>
+		<nd ref="7044581208"/>
+		<nd ref="70250184"/>
+		<nd ref="70213295"/>
+		<nd ref="7044640715"/>
+		<nd ref="7044640713"/>
+		<nd ref="997372854"/>
+		<nd ref="7044640714"/>
+		<nd ref="61318105"/>
+		<nd ref="7044640716"/>
+		<nd ref="7044764912"/>
+		<nd ref="997372838"/>
+		<nd ref="7044764914"/>
+		<nd ref="7044764898"/>
+		<nd ref="7044764893"/>
+		<nd ref="7044764891"/>
+		<nd ref="7044764890"/>
+		<nd ref="61326119"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="1"/>
+		<tag k="massgis:way_id" v="110301"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="name" v="Greenough Boulevard"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="massgis_import_v0.1_20071008165629"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="30.2"/>
+	</way>
+<way id="41743733">
+		<nd ref="61326095"/>
+		<nd ref="2660050859"/>
+		<nd ref="61326097"/>
+		<nd ref="61326091"/>
+		<nd ref="7045375846"/>
+		<nd ref="7045375841"/>
+		<nd ref="2659991002"/>
+		<nd ref="2659990980"/>
+		<nd ref="7045375854"/>
+		<nd ref="61326093"/>
+		<nd ref="7045375842"/>
+		<nd ref="12552950436"/>
+		<nd ref="2659991010"/>
+		<nd ref="7045375852"/>
+		<nd ref="61316733"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="condition" v="good"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="horse" v="no"/>
+		<tag k="lanes" v="3"/>
+		<tag k="massgis:way_id" v="173948"/>
+		<tag k="name" v="Greenough Boulevard"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="massgis_import_v0.1_20071008165629"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="through|through|through"/>
+		<tag k="width" v="36.6"/>
+	</way>
+<way id="85929684">
+		<nd ref="61318193"/>
+		<nd ref="2660027003"/>
+		<nd ref="61318191"/>
+		<nd ref="2660026987"/>
+		<nd ref="7045266295"/>
+		<nd ref="7045266297"/>
+		<nd ref="61318171"/>
+		<nd ref="7045266298"/>
+		<nd ref="2660026974"/>
+		<nd ref="2660026998"/>
+		<nd ref="7045167084"/>
+		<nd ref="61318173"/>
+		<nd ref="7045266296"/>
+		<nd ref="2660027001"/>
+		<nd ref="7045266287"/>
+		<nd ref="61318168"/>
+		<nd ref="2660026979"/>
+		<nd ref="7045266286"/>
+		<nd ref="61318169"/>
+		<nd ref="2660026985"/>
+		<nd ref="7045167083"/>
+		<nd ref="2660027000"/>
+		<nd ref="61318179"/>
+		<nd ref="2660026972"/>
+		<nd ref="7045266294"/>
+		<nd ref="2660027004"/>
+		<nd ref="61318181"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="expressway" v="yes"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="1"/>
+		<tag k="massgis:way_id" v="173948"/>
+		<tag k="name" v="Greenough Boulevard"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="massgis_import_v0.1_20071008165629"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="36.6"/>
+	</way>
+<way id="85929975">
+		<nd ref="61326119"/>
+		<nd ref="7044764913"/>
+		<nd ref="7044764900"/>
+		<nd ref="997372872"/>
+		<nd ref="61326117"/>
+		<nd ref="61326108"/>
+		<nd ref="7044764895"/>
+		<nd ref="61326106"/>
+		<nd ref="7044764917"/>
+		<nd ref="61326112"/>
+		<nd ref="7044764907"/>
+		<nd ref="61326110"/>
+		<nd ref="7044764916"/>
+		<nd ref="7044764915"/>
+		<nd ref="7044764903"/>
+		<nd ref="1167247962"/>
+		<nd ref="7044764908"/>
+		<nd ref="7044764899"/>
+		<nd ref="1167247946"/>
+		<nd ref="7044764904"/>
+		<nd ref="70215447"/>
+		<nd ref="7044764910"/>
+		<nd ref="70241303"/>
+		<nd ref="7044764897"/>
+		<nd ref="7044764894"/>
+		<nd ref="7044764902"/>
+		<nd ref="1167247960"/>
+		<nd ref="70233173"/>
+		<nd ref="7044764896"/>
+		<nd ref="7044764905"/>
+		<nd ref="70246361"/>
+		<nd ref="9362012264"/>
+		<nd ref="997397091"/>
+		<nd ref="7044764909"/>
+		<nd ref="7044764906"/>
+		<nd ref="997397053"/>
+		<nd ref="70241132"/>
+		<nd ref="7039613430"/>
+		<nd ref="7039613436"/>
+		<nd ref="7039613426"/>
+		<nd ref="70212527"/>
+		<nd ref="7039613424"/>
+		<nd ref="7039613425"/>
+		<nd ref="7039613432"/>
+		<nd ref="70219707"/>
+		<nd ref="7039613428"/>
+		<nd ref="7039613431"/>
+		<nd ref="70231908"/>
+		<nd ref="7039613427"/>
+		<nd ref="7039613435"/>
+		<nd ref="70256696"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="110301"/>
+		<tag k="name" v="Greenough Boulevard"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="massgis_import_v0.1_20071008165629"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="30.2"/>
+	</way>
+<way id="85931561">
+		<nd ref="9506672554"/>
+		<nd ref="70248421"/>
+		<nd ref="4795905025"/>
+		<nd ref="7039506062"/>
+		<nd ref="7039506079"/>
+		<nd ref="70243744"/>
+		<nd ref="2640269520"/>
+		<nd ref="7039506063"/>
+		<nd ref="7039506052"/>
+		<nd ref="997397075"/>
+		<nd ref="7039506077"/>
+		<nd ref="70239710"/>
+		<nd ref="70255032"/>
+		<nd ref="7039506045"/>
+		<nd ref="997397107"/>
+		<nd ref="70235872"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="1"/>
+		<tag k="massgis:way_id" v="110301"/>
+		<tag k="name" v="Greenough Boulevard"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="massgis_import_v0.1_20071009094247"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="30.2"/>
+	</way>
+<way id="85931563">
+		<nd ref="70235872"/>
+		<nd ref="7039613423"/>
+		<nd ref="7039613434"/>
+		<nd ref="70235687"/>
+		<nd ref="7039613429"/>
+		<nd ref="70222769"/>
+		<nd ref="7039613437"/>
+		<nd ref="70213678"/>
+		<nd ref="70209938"/>
+		<nd ref="4259437713"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="110301"/>
+		<tag k="name" v="Greenough Boulevard"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="massgis_import_v0.1_20071009094247"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="30.2"/>
+	</way>
+<way id="93128876">
+		<nd ref="61318181"/>
+		<nd ref="7045266291"/>
+		<nd ref="61328261"/>
+		<nd ref="7045266289"/>
+		<nd ref="61326015"/>
+		<nd ref="61329212"/>
+		<nd ref="7045232366"/>
+		<nd ref="61326039"/>
+		<nd ref="12036476266"/>
+		<nd ref="2660040109"/>
+		<nd ref="61326702"/>
+		<nd ref="2660040104"/>
+		<nd ref="2660040114"/>
+		<nd ref="61326704"/>
+		<nd ref="3196210161"/>
+		<nd ref="2660040101"/>
+		<nd ref="61326760"/>
+		<nd ref="7086766335"/>
+		<nd ref="7086766331"/>
+		<nd ref="2660050858"/>
+		<nd ref="7086766353"/>
+		<nd ref="2660050862"/>
+		<nd ref="7086766316"/>
+		<nd ref="7086766342"/>
+		<nd ref="7086766324"/>
+		<nd ref="7086766325"/>
+		<nd ref="7086766356"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="173948"/>
+		<tag k="name" v="Greenough Boulevard"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="massgis_import_v0.1_20071008165629"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="36.6"/>
+	</way>
+<way id="93128932">
+		<nd ref="61326119"/>
+		<nd ref="61318106"/>
+		<nd ref="61318117"/>
+		<nd ref="61318116"/>
+		<nd ref="61318119"/>
+		<nd ref="7044793962"/>
+		<nd ref="7044793955"/>
+		<nd ref="7044793964"/>
+		<nd ref="7044793973"/>
+		<nd ref="61318118"/>
+		<nd ref="7044793970"/>
+		<nd ref="61318113"/>
+		<nd ref="7044793971"/>
+		<nd ref="7044793960"/>
+		<nd ref="61318112"/>
+		<nd ref="7044793954"/>
+		<nd ref="7044793953"/>
+		<nd ref="61318115"/>
+		<nd ref="7044793974"/>
+		<nd ref="61318114"/>
+		<nd ref="7044793958"/>
+		<nd ref="7044793968"/>
+		<nd ref="61318419"/>
+		<nd ref="7044793959"/>
+		<nd ref="997372835"/>
+		<nd ref="7044793963"/>
+		<nd ref="61318418"/>
+		<nd ref="7044793957"/>
+		<nd ref="7044793967"/>
+		<nd ref="997372821"/>
+		<nd ref="7044793966"/>
+		<nd ref="61318201"/>
+		<nd ref="7044793956"/>
+		<nd ref="997372863"/>
+		<nd ref="7044793965"/>
+		<nd ref="7044793969"/>
+		<nd ref="61318199"/>
+		<nd ref="7044793972"/>
+		<nd ref="7044793961"/>
+		<nd ref="7044873852"/>
+		<nd ref="7044873849"/>
+		<nd ref="61318420"/>
+		<nd ref="7044842752"/>
+		<nd ref="7044842753"/>
+		<nd ref="7044822370"/>
+		<nd ref="7044822372"/>
+		<nd ref="61318189"/>
+		<nd ref="7044822373"/>
+		<nd ref="61318187"/>
+		<nd ref="7044822371"/>
+		<nd ref="61318185"/>
+		<nd ref="61318183"/>
+		<nd ref="61318197"/>
+		<nd ref="61318193"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="110301"/>
+		<tag k="name" v="Greenough Boulevard"/>
+		<tag k="source" v="massgis_import_v0.1_20071008165629"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="30.2"/>
+	</way>
+<way id="426656947">
+		<nd ref="61316733"/>
+		<nd ref="7045375848"/>
+		<nd ref="997344643"/>
+		<nd ref="7045375843"/>
+		<nd ref="7086766326"/>
+		<nd ref="2660009404"/>
+		<nd ref="12552934234"/>
+		<nd ref="61326047"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="condition" v="good"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="horse" v="no"/>
+		<tag k="lanes" v="3"/>
+		<tag k="massgis:way_id" v="173948"/>
+		<tag k="name" v="Greenough Boulevard"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="massgis_import_v0.1_20071008165629"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="through|through|through"/>
+		<tag k="width" v="36.6"/>
+	</way>
+<way id="426670740">
+		<nd ref="2640269501"/>
+		<nd ref="12545028285"/>
+		<nd ref="12545028282"/>
+		<nd ref="12545028283"/>
+		<nd ref="2640269503"/>
+		<nd ref="12545028284"/>
+		<nd ref="9506672554"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="110301"/>
+		<tag k="name" v="Greenough Boulevard"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="massgis_import_v0.1_20071009094247"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="30.2"/>
+	</way>
+<way id="426670741">
+		<nd ref="4259437713"/>
+		<nd ref="9506672556"/>
+		<nd ref="70244315"/>
+		<nd ref="2640269512"/>
+		<nd ref="7039556360"/>
+		<nd ref="2640269517"/>
+		<nd ref="7039556359"/>
+		<nd ref="2640269501"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="massgis:way_id" v="110301"/>
+		<tag k="name" v="Greenough Boulevard"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="massgis_import_v0.1_20071009094247"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="left||right"/>
+		<tag k="width" v="30.2"/>
+	</way>
+<way id="754119011">
+		<nd ref="61326151"/>
+		<nd ref="2660026996"/>
+		<nd ref="12552934237"/>
+		<nd ref="61327005"/>
+		<nd ref="12552934238"/>
+		<nd ref="61325931"/>
+		<nd ref="61325929"/>
+		<nd ref="1181838613"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="expressway" v="yes"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="173948"/>
+		<tag k="name" v="Greenough Boulevard"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="massgis_import_v0.1_20071008165629"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="36.6"/>
+	</way>
+<way id="754119012">
+		<nd ref="1181838613"/>
+		<nd ref="61325927"/>
+		<nd ref="2660026982"/>
+		<nd ref="1181838619"/>
+		<nd ref="2660026986"/>
+		<nd ref="61325968"/>
+		<nd ref="1181838601"/>
+		<nd ref="61318193"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="expressway" v="yes"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="1"/>
+		<tag k="massgis:way_id" v="173948"/>
+		<tag k="name" v="Greenough Boulevard"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="massgis_import_v0.1_20071008165629"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="36.6"/>
+	</way>
+<way id="1356757762">
+		<nd ref="7039567308"/>
+		<nd ref="70224077"/>
+		<nd ref="7039567314"/>
+		<nd ref="7039567313"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bus" v="no"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:left:lane" v="exclusive"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="tertiary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="134060"/>
+		<tag k="name" v="Greenough Boulevard"/>
+		<tag k="source" v="massgis_import_v0.1_20071009094247"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="15.2"/>
+	</way>
+<way id="1373219925">
+		<nd ref="61326047"/>
+		<nd ref="12552934235"/>
+		<nd ref="12552934236"/>
+		<nd ref="61326151"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="massgis:way_id" v="173948"/>
+		<tag k="name" v="Greenough Boulevard"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="massgis_import_v0.1_20071008165629"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="through|through|through"/>
+		<tag k="width" v="36.6"/>
+	</way>
+  </modify>
+</osmChange>

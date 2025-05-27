@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="8906788">
+		<nd ref="65135418"/>
+		<nd ref="65077308"/>
+		<tag k="access" v="yes"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bicycle" v="yes"/>
+		<tag k="bridge" v="covered"/>
+		<tag k="bridge:name" v="Arthur A. Smith Covered Bridge"/>
+		<tag k="condition" v="deficient"/>
+		<tag k="foot" v="yes"/>
+		<tag k="heritage" v="2"/>
+		<tag k="heritage:operator" v="nrhp"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="residential"/>
+		<tag k="historic" v="yes"/>
+		<tag k="horse" v="yes"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="159607"/>
+		<tag k="maxspeed" v="30 mph"/>
+		<tag k="maxweight" v="20 st"/>
+		<tag k="motor_vehicle" v="yes"/>
+		<tag k="name" v="Lyonsville Road"/>
+		<tag k="ref:nrhp" v="83000592"/>
+		<tag k="source" v="massgis_import_v0.1_20071009102502"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="11.6"/>
+		<tag k="wikidata" v="Q4797770"/>
+	</way>
+  </modify>
+</osmChange>

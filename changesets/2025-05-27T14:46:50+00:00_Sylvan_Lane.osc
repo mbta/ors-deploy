@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="9182507">
+		<nd ref="68032704"/>
+		<nd ref="68054128"/>
+		<nd ref="68151658"/>
+		<nd ref="67850769"/>
+		<nd ref="68020559"/>
+		<nd ref="68186828"/>
+		<nd ref="8423973026"/>
+		<nd ref="68099284"/>
+		<nd ref="67846943"/>
+		<nd ref="67806124"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="deficient"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="1"/>
+		<tag k="massgis:way_id" v="145645"/>
+		<tag k="name" v="Sylvan Lane"/>
+		<tag k="source" v="massgis_import_v0.1_20071009100941"/>
+		<tag k="surface" v="unpaved"/>
+		<tag k="width" v="6.1"/>
+	</way>
+  </modify>
+</osmChange>

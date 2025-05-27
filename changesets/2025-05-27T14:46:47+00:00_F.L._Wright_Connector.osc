@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="49303445">
+		<nd ref="73190751"/>
+		<nd ref="5523690815"/>
+		<nd ref="10789044747"/>
+		<nd ref="626131749"/>
+		<nd ref="626131672"/>
+		<nd ref="1360938999"/>
+		<nd ref="7243879224"/>
+		<nd ref="626131669"/>
+		<nd ref="626131670"/>
+		<nd ref="626131655"/>
+		<nd ref="626131657"/>
+		<nd ref="5523690819"/>
+		<nd ref="626131682"/>
+		<nd ref="5523690827"/>
+		<nd ref="626131644"/>
+		<nd ref="5523690808"/>
+		<nd ref="5523690830"/>
+		<nd ref="5523690825"/>
+		<nd ref="626131647"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="unclassified"/>
+		<tag k="maxweight:hgv" v="2.5 st"/>
+		<tag k="name" v="F.L. Wright Connector"/>
+		<tag k="source" v="survey"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+  </modify>
+</osmChange>

@@ -1,0 +1,488 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="8641601">
+		<nd ref="61370770"/>
+		<nd ref="2576583198"/>
+		<nd ref="61450567"/>
+		<nd ref="2576583193"/>
+		<nd ref="4876799538"/>
+		<nd ref="3186718287"/>
+		<nd ref="8645393618"/>
+		<nd ref="8645393617"/>
+		<nd ref="4876799528"/>
+		<nd ref="61450547"/>
+		<nd ref="2576583190"/>
+		<nd ref="4062883815"/>
+		<nd ref="8645389016"/>
+		<nd ref="61450586"/>
+		<nd ref="61450577"/>
+		<nd ref="2576583181"/>
+		<nd ref="2576583179"/>
+		<nd ref="2576583180"/>
+		<nd ref="2576583182"/>
+		<nd ref="2576583183"/>
+		<nd ref="8642889084"/>
+		<nd ref="2576583185"/>
+		<nd ref="4876799533"/>
+		<nd ref="8642889085"/>
+		<nd ref="8642889086"/>
+		<nd ref="8642889087"/>
+		<nd ref="8642889088"/>
+		<nd ref="8642889089"/>
+		<nd ref="8642889090"/>
+		<tag k="alt_name" v="Pond Street"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="211114"/>
+		<tag k="maxspeed" v="30 mph"/>
+		<tag k="name" v="Jamaicaway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="source:maxspeed" v="massgis"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="30.2"/>
+	</way>
+<way id="8641651">
+		<nd ref="61409196"/>
+		<nd ref="61409190"/>
+		<nd ref="61409186"/>
+		<nd ref="61409180"/>
+		<nd ref="61383618"/>
+		<nd ref="1005061799"/>
+		<nd ref="61454624"/>
+		<nd ref="61454699"/>
+		<nd ref="61385143"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="lit" v="yes"/>
+		<tag k="mapillary" v="936847691128901"/>
+		<tag k="massgis:way_id" v="211114"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="name" v="Jamaicaway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="sidewalk" v="no"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="source:maxspeed" v="massgis"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="survey:date" v="2024-03-19"/>
+		<tag k="width" v="30.2"/>
+	</way>
+<way id="8644492">
+		<nd ref="61341121"/>
+		<nd ref="61341122"/>
+		<nd ref="61341123"/>
+		<nd ref="2576583176"/>
+		<nd ref="4876786195"/>
+		<nd ref="2576583177"/>
+		<nd ref="2576583178"/>
+		<nd ref="61341124"/>
+		<nd ref="61341126"/>
+		<nd ref="4876781343"/>
+		<nd ref="2576583184"/>
+		<nd ref="3405331019"/>
+		<tag k="alt_name" v="Pond Street"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bicycle" v="yes"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="yes"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:ref" v="0 N411"/>
+		<tag k="massgis:way_id" v="211114"/>
+		<tag k="maxspeed" v="30 mph"/>
+		<tag k="name" v="Jamaicaway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="source:maxspeed" v="massgis"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="30.2"/>
+	</way>
+<way id="41937137">
+		<nd ref="61364848"/>
+		<nd ref="61371968"/>
+		<nd ref="61371970"/>
+		<nd ref="12452532922"/>
+		<nd ref="12452532923"/>
+		<nd ref="61372573"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="lit" v="yes"/>
+		<tag k="mapillary" v="1651569329009992"/>
+		<tag k="massgis:ref" v="0 N411"/>
+		<tag k="massgis:way_id" v="211114"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="name" v="Jamaicaway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="source:maxspeed" v="massgis"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="survey:date" v="2024-03-19"/>
+		<tag k="width" v="30.2"/>
+	</way>
+<way id="48919769">
+		<nd ref="61340245"/>
+		<nd ref="8642975539"/>
+		<nd ref="7692867184"/>
+		<nd ref="8642975540"/>
+		<nd ref="61347612"/>
+		<nd ref="8642975541"/>
+		<nd ref="8642975542"/>
+		<nd ref="61347611"/>
+		<nd ref="8642975543"/>
+		<nd ref="61347610"/>
+		<nd ref="7222409537"/>
+		<nd ref="61347609"/>
+		<nd ref="61347608"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="foot" v="yes"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="4"/>
+		<tag k="massgis:ref" v="0 N411"/>
+		<tag k="massgis:way_id" v="211114"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="name" v="Jamaicaway"/>
+		<tag k="sidewalk:left" v="no"/>
+		<tag k="sidewalk:right" v="separate"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="source:maxspeed" v="massgis"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="30.2"/>
+	</way>
+<way id="168353947">
+		<nd ref="9468833391"/>
+		<nd ref="61346186"/>
+		<nd ref="61346163"/>
+		<nd ref="61346165"/>
+		<nd ref="61346167"/>
+		<nd ref="61346169"/>
+		<nd ref="61346171"/>
+		<nd ref="61346173"/>
+		<nd ref="61346174"/>
+		<nd ref="61346176"/>
+		<nd ref="61346147"/>
+		<nd ref="61346149"/>
+		<nd ref="61346151"/>
+		<nd ref="61346153"/>
+		<nd ref="61346155"/>
+		<nd ref="61346157"/>
+		<nd ref="61346159"/>
+		<nd ref="61346161"/>
+		<nd ref="61346134"/>
+		<nd ref="61346132"/>
+		<nd ref="61346137"/>
+		<nd ref="12111643538"/>
+		<nd ref="61346135"/>
+		<nd ref="61346141"/>
+		<nd ref="61346139"/>
+		<nd ref="61346145"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bicycle" v="yes"/>
+		<tag k="condition" v="good"/>
+		<tag k="foot" v="yes"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="4"/>
+		<tag k="massgis:ref" v="0 N411"/>
+		<tag k="massgis:way_id" v="211114"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="name" v="Jamaicaway"/>
+		<tag k="sidewalk" v="right"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="source:maxspeed" v="massgis"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="30.2"/>
+	</way>
+<way id="286661331">
+		<nd ref="61347306"/>
+		<nd ref="61467240"/>
+		<nd ref="61467932"/>
+		<nd ref="61467927"/>
+		<nd ref="61467921"/>
+		<nd ref="9246372537"/>
+		<nd ref="61386015"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bicycle" v="yes"/>
+		<tag k="condition" v="good"/>
+		<tag k="foot" v="yes"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="4"/>
+		<tag k="massgis:ref" v="0 N411"/>
+		<tag k="massgis:way_id" v="211114"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="name" v="Jamaicaway"/>
+		<tag k="sidewalk" v="right"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="source:maxspeed" v="massgis"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="30.2"/>
+	</way>
+<way id="533481910">
+		<nd ref="61346280"/>
+		<nd ref="61347457"/>
+		<nd ref="61346070"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bicycle" v="yes"/>
+		<tag k="condition" v="good"/>
+		<tag k="foot" v="yes"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="4"/>
+		<tag k="massgis:ref" v="0 N411"/>
+		<tag k="massgis:way_id" v="211114"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="name" v="Jamaicaway"/>
+		<tag k="sidewalk:left" v="no"/>
+		<tag k="sidewalk:right" v="separate"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="source:maxspeed" v="massgis"/>
+		<tag k="width" v="30.2"/>
+	</way>
+<way id="533481911">
+		<nd ref="61386015"/>
+		<nd ref="9246372539"/>
+		<nd ref="61468285"/>
+		<nd ref="61468280"/>
+		<nd ref="61468297"/>
+		<nd ref="61468291"/>
+		<nd ref="61468310"/>
+		<nd ref="61468304"/>
+		<nd ref="61468322"/>
+		<nd ref="61468316"/>
+		<nd ref="61468335"/>
+		<nd ref="61468328"/>
+		<nd ref="61468345"/>
+		<nd ref="61468340"/>
+		<nd ref="61346280"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bicycle" v="yes"/>
+		<tag k="condition" v="good"/>
+		<tag k="foot" v="yes"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="4"/>
+		<tag k="massgis:ref" v="0 N411"/>
+		<tag k="massgis:way_id" v="211114"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="name" v="Jamaicaway"/>
+		<tag k="sidewalk" v="right"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="source:maxspeed" v="massgis"/>
+		<tag k="width" v="30.2"/>
+	</way>
+<way id="627079905">
+		<nd ref="61340269"/>
+		<nd ref="61340266"/>
+		<nd ref="8642975533"/>
+		<nd ref="8642975534"/>
+		<nd ref="61340277"/>
+		<nd ref="8642975535"/>
+		<nd ref="61340275"/>
+		<nd ref="8642975536"/>
+		<nd ref="61340273"/>
+		<nd ref="8642975537"/>
+		<nd ref="61340271"/>
+		<nd ref="61340284"/>
+		<nd ref="7692900510"/>
+		<nd ref="8642975538"/>
+		<nd ref="61340245"/>
+		<tag k="alt_name" v="Pond Street"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bicycle" v="yes"/>
+		<tag k="condition" v="good"/>
+		<tag k="foot" v="yes"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="4"/>
+		<tag k="massgis:ref" v="0 N411"/>
+		<tag k="massgis:way_id" v="211114"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="name" v="Jamaicaway"/>
+		<tag k="rcn_ref" v="1"/>
+		<tag k="sidewalk" v="both"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="source:maxspeed" v="massgis"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="30.2"/>
+	</way>
+<way id="722493327">
+		<nd ref="61347608"/>
+		<nd ref="61464907"/>
+		<nd ref="61464889"/>
+		<nd ref="61464896"/>
+		<nd ref="61465212"/>
+		<nd ref="61465206"/>
+		<nd ref="61465223"/>
+		<nd ref="61465217"/>
+		<nd ref="61347336"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="foot" v="yes"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="4"/>
+		<tag k="massgis:ref" v="0 N411"/>
+		<tag k="massgis:way_id" v="211114"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="name" v="Jamaicaway"/>
+		<tag k="sidewalk:left" v="no"/>
+		<tag k="sidewalk:right" v="separate"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="source:maxspeed" v="massgis"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="30.2"/>
+	</way>
+<way id="722493328">
+		<nd ref="61347336"/>
+		<nd ref="61347335"/>
+		<nd ref="61347333"/>
+		<nd ref="61347316"/>
+		<nd ref="61347314"/>
+		<nd ref="61347312"/>
+		<nd ref="61347310"/>
+		<nd ref="61347323"/>
+		<nd ref="61347321"/>
+		<nd ref="61347320"/>
+		<nd ref="61347318"/>
+		<nd ref="61347413"/>
+		<nd ref="3605411608"/>
+		<nd ref="61347306"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="foot" v="yes"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="4"/>
+		<tag k="massgis:ref" v="0 N411"/>
+		<tag k="massgis:way_id" v="211114"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="name" v="Jamaicaway"/>
+		<tag k="sidewalk:both" v="separate"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="source:maxspeed" v="massgis"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="30.2"/>
+	</way>
+<way id="1176484437">
+		<nd ref="61346070"/>
+		<nd ref="61346073"/>
+		<nd ref="61346065"/>
+		<nd ref="61346069"/>
+		<nd ref="9246387960"/>
+		<nd ref="61346061"/>
+		<nd ref="61346063"/>
+		<nd ref="9468833391"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bicycle" v="yes"/>
+		<tag k="condition" v="good"/>
+		<tag k="foot" v="yes"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="4"/>
+		<tag k="massgis:ref" v="0 N411"/>
+		<tag k="massgis:way_id" v="211114"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="name" v="Jamaicaway"/>
+		<tag k="sidewalk:left" v="no"/>
+		<tag k="sidewalk:right" v="separate"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="source:maxspeed" v="massgis"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="30.2"/>
+	</way>
+<way id="1212690590">
+		<nd ref="61372573"/>
+		<nd ref="61372576"/>
+		<nd ref="61372579"/>
+		<nd ref="61372582"/>
+		<nd ref="61372509"/>
+		<nd ref="61372558"/>
+		<nd ref="61372561"/>
+		<nd ref="822453771"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="lit" v="yes"/>
+		<tag k="mapillary" v="327790020279867"/>
+		<tag k="massgis:ref" v="0 N411"/>
+		<tag k="massgis:way_id" v="211114"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="name" v="Jamaicaway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="sidewalk" v="no"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="source:maxspeed" v="massgis"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="survey:date" v="2024-03-19"/>
+		<tag k="width" v="30.2"/>
+	</way>
+<way id="1212690591">
+		<nd ref="61346145"/>
+		<nd ref="61374061"/>
+		<nd ref="61374056"/>
+		<nd ref="61364848"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:ref" v="0 N411"/>
+		<tag k="massgis:way_id" v="211114"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="name" v="Jamaicaway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="source:maxspeed" v="massgis"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="30.2"/>
+	</way>
+<way id="1334313023">
+		<nd ref="61385143"/>
+		<nd ref="61385136"/>
+		<nd ref="61385115"/>
+		<nd ref="12111643539"/>
+		<nd ref="61385130"/>
+		<nd ref="61385129"/>
+		<nd ref="61346145"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="lit" v="yes"/>
+		<tag k="mapillary" v="936847691128901"/>
+		<tag k="massgis:way_id" v="211114"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="name" v="Jamaicaway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="sidewalk:left" v="no"/>
+		<tag k="sidewalk:right" v="separate"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="source:maxspeed" v="massgis"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="survey:date" v="2024-03-19"/>
+		<tag k="width" v="30.2"/>
+	</way>
+  </modify>
+</osmChange>
