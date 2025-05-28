@@ -13,7 +13,7 @@ rm original.pbf
 mv files/data.o5m original.o5m
 changeset_string=$(echo ./changesets/*.osc)
 
-osmconvert -v original.o5m "$changeset_string" -o=files/data.osm.pbf
+osmconvert -v original.o5m $changeset_string -o=files/data.osm.pbf
 rm original.o5m
 
 /entrypoint.sh &
