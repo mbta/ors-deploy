@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="8615711">
+		<nd ref="4259133510"/>
+		<nd ref="12377538172"/>
+		<nd ref="12377538173"/>
+		<nd ref="61322341"/>
+		<nd ref="12377538174"/>
+		<nd ref="1480173295"/>
+		<nd ref="12377538175"/>
+		<nd ref="61328427"/>
+		<nd ref="12377538176"/>
+		<nd ref="12377538177"/>
+		<nd ref="61322437"/>
+		<nd ref="12377538181"/>
+		<nd ref="12377538182"/>
+		<nd ref="12377538183"/>
+		<nd ref="12377538184"/>
+		<nd ref="61327753"/>
+		<nd ref="12377538189"/>
+		<nd ref="12377538188"/>
+		<nd ref="12377538193"/>
+		<nd ref="61327755"/>
+		<nd ref="1036637080"/>
+		<nd ref="12377548585"/>
+		<nd ref="12377548586"/>
+		<nd ref="12377548587"/>
+		<nd ref="61327747"/>
+		<nd ref="12377548588"/>
+		<nd ref="12377548589"/>
+		<nd ref="1480173303"/>
+		<nd ref="12377548591"/>
+		<nd ref="12377548592"/>
+		<nd ref="12377548590"/>
+		<nd ref="12377548593"/>
+		<nd ref="12377548594"/>
+		<nd ref="61327749"/>
+		<nd ref="12377548596"/>
+		<nd ref="12377548595"/>
+		<nd ref="61327743"/>
+		<nd ref="1480173312"/>
+		<nd ref="12377548597"/>
+		<nd ref="12377548598"/>
+		<nd ref="71945507"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:both" v="separate"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="4"/>
+		<tag k="massgis:way_id" v="127890"/>
+		<tag k="maxspeed" v="30 mph"/>
+		<tag k="name" v="Alewife Brook Parkway"/>
+		<tag k="oneway" v="no"/>
+		<tag k="ref" v="MA 16"/>
+		<tag k="sidewalk:both" v="separate"/>
+		<tag k="source" v="massgis_import_v0.1_20071008165629"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="18.3"/>
+	</way>
+<way id="9429125">
+		<nd ref="71945507"/>
+		<nd ref="12368211772"/>
+		<nd ref="12368211776"/>
+		<nd ref="71916583"/>
+		<nd ref="12368211771"/>
+		<nd ref="71926535"/>
+		<nd ref="71923534"/>
+		<nd ref="12374971935"/>
+		<nd ref="1480173339"/>
+		<nd ref="12374971936"/>
+		<nd ref="71920690"/>
+		<nd ref="12374971937"/>
+		<nd ref="1480173348"/>
+		<nd ref="12374971939"/>
+		<nd ref="12374971938"/>
+		<nd ref="12374971940"/>
+		<nd ref="71928638"/>
+		<nd ref="12374971941"/>
+		<nd ref="1480173353"/>
+		<nd ref="12374971942"/>
+		<nd ref="71916971"/>
+		<nd ref="12374971943"/>
+		<nd ref="1480173355"/>
+		<nd ref="12374971944"/>
+		<nd ref="71923591"/>
+		<nd ref="12374971946"/>
+		<nd ref="12374971945"/>
+		<nd ref="12374971947"/>
+		<nd ref="71954315"/>
+		<nd ref="12374971948"/>
+		<nd ref="1480173361"/>
+		<nd ref="12374971949"/>
+		<nd ref="12366427701"/>
+		<nd ref="12366587708"/>
+		<nd ref="12366587709"/>
+		<nd ref="71932720"/>
+		<nd ref="12366427703"/>
+		<nd ref="1480173368"/>
+		<nd ref="12366373097"/>
+		<nd ref="12374971953"/>
+		<nd ref="71939343"/>
+		<nd ref="12374971952"/>
+		<nd ref="1480173371"/>
+		<nd ref="71932028"/>
+		<nd ref="12374971950"/>
+		<nd ref="12374971951"/>
+		<nd ref="1480173375"/>
+		<nd ref="5456504169"/>
+		<nd ref="71930832"/>
+		<nd ref="12374971954"/>
+		<nd ref="1480173380"/>
+		<nd ref="71917619"/>
+		<nd ref="12376680734"/>
+		<nd ref="12376680735"/>
+		<nd ref="71942907"/>
+		<nd ref="12376680736"/>
+		<nd ref="1480173389"/>
+		<nd ref="11621238437"/>
+		<nd ref="71920310"/>
+		<nd ref="10151916919"/>
+		<nd ref="11621238433"/>
+		<nd ref="12368630839"/>
+		<nd ref="11621238435"/>
+		<nd ref="11621238432"/>
+		<nd ref="71943858"/>
+		<nd ref="12368630838"/>
+		<nd ref="11621238434"/>
+		<nd ref="12368630827"/>
+		<nd ref="12368630826"/>
+		<nd ref="11184966005"/>
+		<nd ref="12368630829"/>
+		<nd ref="12368630828"/>
+		<nd ref="12368630830"/>
+		<nd ref="71917887"/>
+		<tag k="FIXME:hgv" v="verify"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="cycleway:both" v="separate"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="4"/>
+		<tag k="massgis:way_id" v="165757"/>
+		<tag k="maxspeed" v="30 mph"/>
+		<tag k="name" v="Alewife Brook Parkway"/>
+		<tag k="ref" v="MA 16"/>
+		<tag k="source" v="massgis_import_v0.1_20071009093301"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="18.3"/>
+	</way>
+<way id="426639334">
+		<nd ref="9170623768"/>
+		<nd ref="1036637108"/>
+		<nd ref="61322332"/>
+		<nd ref="5456504161"/>
+		<nd ref="4259133510"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:both" v="separate"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="5"/>
+		<tag k="lanes:backward" v="3"/>
+		<tag k="lanes:forward" v="2"/>
+		<tag k="massgis:way_id" v="127890"/>
+		<tag k="maxspeed" v="30 mph"/>
+		<tag k="name" v="Alewife Brook Parkway"/>
+		<tag k="oneway" v="no"/>
+		<tag k="ref" v="MA 16"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="sidewalk:both" v="separate"/>
+		<tag k="source" v="massgis_import_v0.1_20071008165629"/>
+		<tag k="turn:lanes:backward" v="left||"/>
+		<tag k="width" v="18.3"/>
+	</way>
+  </modify>
+</osmChange>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="9225054">
+		<nd ref="68711501"/>
+		<nd ref="1649256882"/>
+		<nd ref="68723971"/>
+		<nd ref="2148935325"/>
+		<nd ref="1722555515"/>
+		<nd ref="68852501"/>
+		<nd ref="1722555517"/>
+		<nd ref="1691754729"/>
+		<nd ref="68865283"/>
+		<nd ref="1722555519"/>
+		<nd ref="68754809"/>
+		<nd ref="68880021"/>
+		<nd ref="68789944"/>
+		<nd ref="68937060"/>
+		<nd ref="68880781"/>
+		<nd ref="68733208"/>
+		<nd ref="68838593"/>
+		<nd ref="68743575"/>
+		<nd ref="1563709497"/>
+		<nd ref="68862492"/>
+		<nd ref="68773844"/>
+		<nd ref="68860292"/>
+		<nd ref="1458003497"/>
+		<nd ref="2121986986"/>
+		<nd ref="68738600"/>
+		<nd ref="2121986988"/>
+		<nd ref="1691754946"/>
+		<nd ref="68751346"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="tertiary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="name" v="Market Street"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+  </modify>
+</osmChange>

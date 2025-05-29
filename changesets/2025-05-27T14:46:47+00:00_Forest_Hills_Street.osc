@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="8650671">
+		<nd ref="61354526"/>
+		<nd ref="12120772438"/>
+		<nd ref="4871222617"/>
+		<nd ref="4871222620"/>
+		<nd ref="61507652"/>
+		<nd ref="4871222610"/>
+		<nd ref="4871222921"/>
+		<nd ref="4871222607"/>
+		<nd ref="4871222612"/>
+		<nd ref="8880867292"/>
+		<nd ref="4871222609"/>
+		<nd ref="61491614"/>
+		<nd ref="6769020629"/>
+		<nd ref="61491607"/>
+		<nd ref="61491626"/>
+		<nd ref="61491620"/>
+		<nd ref="6769020634"/>
+		<nd ref="61491636"/>
+		<nd ref="61491631"/>
+		<nd ref="5867292424"/>
+		<nd ref="61494285"/>
+		<nd ref="61494279"/>
+		<nd ref="61491565"/>
+		<nd ref="61491553"/>
+		<nd ref="61491577"/>
+		<nd ref="61491571"/>
+		<nd ref="61491590"/>
+		<nd ref="61491583"/>
+		<nd ref="6602429086"/>
+		<nd ref="61491601"/>
+		<nd ref="6755978642"/>
+		<nd ref="61491594"/>
+		<nd ref="61505704"/>
+		<nd ref="61491547"/>
+		<nd ref="61491487"/>
+		<nd ref="61505727"/>
+		<nd ref="61491448"/>
+		<nd ref="61491453"/>
+		<nd ref="6755978645"/>
+		<nd ref="61491458"/>
+		<nd ref="61491465"/>
+		<nd ref="61491470"/>
+		<nd ref="61491477"/>
+		<nd ref="61491480"/>
+		<nd ref="9241613974"/>
+		<nd ref="61341881"/>
+		<nd ref="9241613973"/>
+		<nd ref="61504390"/>
+		<nd ref="61504397"/>
+		<nd ref="9468890571"/>
+		<nd ref="61503615"/>
+		<nd ref="61341612"/>
+		<nd ref="61341611"/>
+		<nd ref="9468890568"/>
+		<nd ref="61341556"/>
+		<nd ref="61341555"/>
+		<nd ref="61341558"/>
+		<nd ref="61341557"/>
+		<nd ref="61341560"/>
+		<nd ref="61341102"/>
+		<nd ref="61341101"/>
+		<nd ref="61341100"/>
+		<nd ref="61341099"/>
+		<nd ref="61341098"/>
+		<nd ref="61341097"/>
+		<nd ref="61341242"/>
+		<nd ref="61492633"/>
+		<nd ref="61492627"/>
+		<nd ref="61492621"/>
+		<nd ref="61492616"/>
+		<nd ref="12128285600"/>
+		<nd ref="61492558"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="tertiary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="131485"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="name" v="Forest Hills Street"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="13.4"/>
+	</way>
+<way id="1053470353">
+		<nd ref="4867412484"/>
+		<nd ref="6955654785"/>
+		<nd ref="9627773191"/>
+		<nd ref="9688948224"/>
+		<nd ref="61354529"/>
+		<nd ref="9975153566"/>
+		<nd ref="61354532"/>
+		<nd ref="61354533"/>
+		<nd ref="61354534"/>
+		<nd ref="61354535"/>
+		<nd ref="61354536"/>
+		<nd ref="61354366"/>
+		<nd ref="4871222664"/>
+		<nd ref="61354367"/>
+		<nd ref="61354524"/>
+		<nd ref="4871222671"/>
+		<nd ref="61354525"/>
+		<nd ref="61354526"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="131485"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="name" v="Forest Hills Street"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="13.4"/>
+	</way>
+  </modify>
+</osmChange>

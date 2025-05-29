@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="8814314">
+		<nd ref="63571489"/>
+		<nd ref="11575154612"/>
+		<nd ref="63558929"/>
+		<nd ref="63567653"/>
+		<nd ref="63568328"/>
+		<nd ref="63560297"/>
+		<nd ref="63562812"/>
+		<nd ref="63566284"/>
+		<nd ref="63552531"/>
+		<nd ref="63536168"/>
+		<nd ref="63591875"/>
+		<nd ref="63532783"/>
+		<nd ref="63556099"/>
+		<nd ref="63587100"/>
+		<nd ref="63564658"/>
+		<nd ref="63567191"/>
+		<nd ref="63583772"/>
+		<nd ref="63567677"/>
+		<nd ref="63574339"/>
+		<nd ref="63591686"/>
+		<nd ref="63536025"/>
+		<nd ref="63579763"/>
+		<nd ref="63542529"/>
+		<nd ref="63566667"/>
+		<nd ref="63568044"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="tertiary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="178829"/>
+		<tag k="name" v="Woodland Road"/>
+		<tag k="source" v="massgis_import_v0.1_20071009101959"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="13.7"/>
+	</way>
+<way id="8815409">
+		<nd ref="63589375"/>
+		<nd ref="11961961369"/>
+		<nd ref="11990883116"/>
+		<nd ref="63569291"/>
+		<nd ref="63535824"/>
+		<nd ref="63568044"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="tertiary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="178829"/>
+		<tag k="name" v="Woodland Road"/>
+		<tag k="oneway" v="no"/>
+		<tag k="source" v="massgis_import_v0.1_20071009101959"/>
+		<tag k="width" v="12.2"/>
+	</way>
+<way id="1316117405">
+		<nd ref="63567733"/>
+		<nd ref="11961961305"/>
+		<nd ref="11990855866"/>
+		<nd ref="63541280"/>
+		<nd ref="63533586"/>
+		<nd ref="63542120"/>
+		<nd ref="12282304589"/>
+		<nd ref="63564354"/>
+		<nd ref="12282304590"/>
+		<nd ref="63577439"/>
+		<nd ref="63570519"/>
+		<nd ref="12282304591"/>
+		<nd ref="63533128"/>
+		<nd ref="12282304592"/>
+		<nd ref="63553824"/>
+		<nd ref="63536618"/>
+		<nd ref="63573851"/>
+		<nd ref="63592019"/>
+		<nd ref="3187109403"/>
+		<nd ref="12181886270"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="tertiary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="178829"/>
+		<tag k="name" v="Woodland Road"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="massgis_import_v0.1_20071009101959"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="12.2"/>
+	</way>
+  </modify>
+</osmChange>

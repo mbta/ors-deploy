@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="31100922">
+		<nd ref="4258874550"/>
+		<nd ref="5057224572"/>
+		<nd ref="73123226"/>
+		<nd ref="5057224584"/>
+		<nd ref="5043771744"/>
+		<nd ref="5057224598"/>
+		<nd ref="73134022"/>
+		<nd ref="5043771749"/>
+		<nd ref="73077189"/>
+		<nd ref="11278262303"/>
+		<nd ref="73094397"/>
+		<nd ref="5057224578"/>
+		<nd ref="73125127"/>
+		<nd ref="5057231317"/>
+		<nd ref="73065103"/>
+		<nd ref="5057244323"/>
+		<nd ref="5057254104"/>
+		<nd ref="73079462"/>
+		<nd ref="5057254100"/>
+		<nd ref="73056440"/>
+		<nd ref="5057254098"/>
+		<nd ref="73069476"/>
+		<nd ref="5057264590"/>
+		<nd ref="73067926"/>
+		<nd ref="5057264587"/>
+		<nd ref="5057264585"/>
+		<nd ref="73055526"/>
+		<nd ref="5057264589"/>
+		<nd ref="5057264586"/>
+		<nd ref="5057264584"/>
+		<nd ref="73043374"/>
+		<nd ref="5057264588"/>
+		<nd ref="5057264583"/>
+		<nd ref="9849132761"/>
+		<nd ref="73116034"/>
+		<nd ref="73118072"/>
+		<nd ref="5064617462"/>
+		<nd ref="73108049"/>
+		<nd ref="5064617445"/>
+		<nd ref="73125585"/>
+		<nd ref="5064617461"/>
+		<nd ref="73128654"/>
+		<nd ref="5064617448"/>
+		<nd ref="5064617446"/>
+		<nd ref="5064617467"/>
+		<nd ref="73102968"/>
+		<nd ref="5064617443"/>
+		<nd ref="5064617466"/>
+		<nd ref="5064617453"/>
+		<nd ref="73081854"/>
+		<nd ref="73042396"/>
+		<nd ref="5064626909"/>
+		<nd ref="5064626914"/>
+		<nd ref="5064626916"/>
+		<nd ref="73079800"/>
+		<nd ref="5064626918"/>
+		<nd ref="5064633721"/>
+		<nd ref="73101312"/>
+		<nd ref="5064626920"/>
+		<nd ref="5064626910"/>
+		<nd ref="5064626912"/>
+		<nd ref="73132376"/>
+		<nd ref="5064626915"/>
+		<nd ref="5064626908"/>
+		<nd ref="5064626917"/>
+		<nd ref="73063856"/>
+		<nd ref="5064626919"/>
+		<nd ref="73090332"/>
+		<nd ref="73049320"/>
+		<nd ref="73088772"/>
+		<nd ref="73126433"/>
+		<nd ref="73069800"/>
+		<nd ref="73086846"/>
+		<nd ref="73060444"/>
+		<nd ref="73063453"/>
+		<nd ref="73071949"/>
+		<nd ref="73136134"/>
+		<nd ref="73085261"/>
+		<nd ref="73083723"/>
+		<nd ref="73078699"/>
+		<nd ref="73136200"/>
+		<nd ref="1239466745"/>
+		<nd ref="73083115"/>
+		<nd ref="73050358"/>
+		<nd ref="73085844"/>
+		<nd ref="10864798540"/>
+		<nd ref="73102036"/>
+		<nd ref="73086113"/>
+		<nd ref="73049608"/>
+		<nd ref="73088668"/>
+		<nd ref="2981939520"/>
+		<nd ref="73074670"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="161400"/>
+		<tag k="name" v="Furnace Brook Parkway"/>
+		<tag k="source" v="massgis_import_v0.1_20071009092358"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="21.3"/>
+	</way>
+<way id="426608687">
+		<nd ref="73086283"/>
+		<nd ref="5043771739"/>
+		<nd ref="5043771748"/>
+		<nd ref="73127439"/>
+		<nd ref="5043771745"/>
+		<nd ref="5043771743"/>
+		<nd ref="5043771742"/>
+		<nd ref="5043771737"/>
+		<nd ref="4258874550"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="lanes:backward" v="2"/>
+		<tag k="lanes:forward" v="1"/>
+		<tag k="massgis:way_id" v="161400"/>
+		<tag k="name" v="Furnace Brook Parkway"/>
+		<tag k="source" v="massgis_import_v0.1_20071009092358"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes:backward" v="left|"/>
+		<tag k="width" v="21.3"/>
+	</way>
+<way id="426608688">
+		<nd ref="73100514"/>
+		<nd ref="73100250"/>
+		<nd ref="5043771738"/>
+		<nd ref="5043771747"/>
+		<nd ref="5043771746"/>
+		<nd ref="73086283"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="161400"/>
+		<tag k="name" v="Furnace Brook Parkway"/>
+		<tag k="source" v="massgis_import_v0.1_20071009092358"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="21.3"/>
+	</way>
+  </modify>
+</osmChange>

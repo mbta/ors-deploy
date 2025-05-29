@@ -1,0 +1,207 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="9076039">
+		<nd ref="66953453"/>
+		<nd ref="66940149"/>
+		<nd ref="66917367"/>
+		<nd ref="66938857"/>
+		<nd ref="66934728"/>
+		<nd ref="66952091"/>
+		<nd ref="66931665"/>
+		<nd ref="66952905"/>
+		<nd ref="5408580978"/>
+		<nd ref="66939201"/>
+		<nd ref="66915847"/>
+		<nd ref="5408580977"/>
+		<nd ref="66946136"/>
+		<nd ref="66950606"/>
+		<nd ref="66921586"/>
+		<nd ref="66915739"/>
+		<nd ref="66953738"/>
+		<nd ref="66945294"/>
+		<nd ref="9054962926"/>
+		<nd ref="66945872"/>
+		<nd ref="66939244"/>
+		<nd ref="9078575232"/>
+		<nd ref="66925877"/>
+		<nd ref="66918174"/>
+		<nd ref="66954138"/>
+		<nd ref="66939693"/>
+		<nd ref="66939295"/>
+		<nd ref="66917936"/>
+		<nd ref="66929417"/>
+		<nd ref="66937797"/>
+		<nd ref="66922777"/>
+		<nd ref="66928258"/>
+		<nd ref="66935964"/>
+		<nd ref="66948885"/>
+		<nd ref="66919137"/>
+		<nd ref="9078575229"/>
+		<nd ref="66954230"/>
+		<nd ref="66919379"/>
+		<nd ref="66921058"/>
+		<nd ref="66934650"/>
+		<nd ref="66952980"/>
+		<nd ref="66945053"/>
+		<nd ref="66932958"/>
+		<nd ref="66938181"/>
+		<nd ref="66923817"/>
+		<nd ref="66917343"/>
+		<nd ref="66919409"/>
+		<nd ref="66954802"/>
+		<nd ref="66932381"/>
+		<nd ref="66921330"/>
+		<nd ref="66951755"/>
+		<nd ref="66950511"/>
+		<nd ref="66918564"/>
+		<nd ref="66916863"/>
+		<nd ref="66940993"/>
+		<nd ref="66919927"/>
+		<nd ref="66928012"/>
+		<nd ref="66946605"/>
+		<nd ref="66919320"/>
+		<nd ref="66942010"/>
+		<nd ref="66946349"/>
+		<nd ref="66944024"/>
+		<nd ref="66917029"/>
+		<nd ref="7786526680"/>
+		<nd ref="66924558"/>
+		<nd ref="66943523"/>
+		<nd ref="66932227"/>
+		<nd ref="66953802"/>
+		<nd ref="66932308"/>
+		<nd ref="66949342"/>
+		<nd ref="66916181"/>
+		<nd ref="9057661725"/>
+		<nd ref="66929902"/>
+		<nd ref="66921219"/>
+		<nd ref="66924696"/>
+		<nd ref="66935900"/>
+		<nd ref="66939474"/>
+		<nd ref="66941669"/>
+		<nd ref="66940883"/>
+		<nd ref="66921778"/>
+		<nd ref="9086069386"/>
+		<nd ref="66954247"/>
+		<nd ref="66917802"/>
+		<nd ref="66931485"/>
+		<nd ref="66931460"/>
+		<nd ref="66920072"/>
+		<nd ref="66920522"/>
+		<nd ref="66941627"/>
+		<nd ref="66943257"/>
+		<nd ref="66938485"/>
+		<nd ref="66945639"/>
+		<nd ref="66933628"/>
+		<nd ref="66944010"/>
+		<nd ref="66931987"/>
+		<nd ref="66939070"/>
+		<nd ref="66937932"/>
+		<nd ref="66952613"/>
+		<nd ref="66939266"/>
+		<nd ref="66931166"/>
+		<nd ref="66932004"/>
+		<nd ref="66954773"/>
+		<nd ref="66916999"/>
+		<nd ref="66954548"/>
+		<nd ref="66924841"/>
+		<nd ref="66927744"/>
+		<nd ref="66924375"/>
+		<nd ref="66916137"/>
+		<nd ref="66954187"/>
+		<nd ref="66945898"/>
+		<nd ref="66918443"/>
+		<nd ref="66930406"/>
+		<nd ref="66941126"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="deficient"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="208371"/>
+		<tag k="name" v="Mountain Road"/>
+		<tag k="source" v="massgis_import_v0.1_20071009102940"/>
+		<tag k="width" v="10.4"/>
+	</way>
+<way id="9076040">
+		<nd ref="66954227"/>
+		<nd ref="66926123"/>
+		<nd ref="66931518"/>
+		<nd ref="5408579909"/>
+		<nd ref="66951913"/>
+		<nd ref="5408579908"/>
+		<nd ref="66931035"/>
+		<nd ref="66916041"/>
+		<nd ref="5408579907"/>
+		<nd ref="66915708"/>
+		<nd ref="66924340"/>
+		<nd ref="66920319"/>
+		<nd ref="66918379"/>
+		<nd ref="5408579906"/>
+		<nd ref="66937569"/>
+		<nd ref="9055456613"/>
+		<nd ref="66938899"/>
+		<nd ref="66919819"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="deficient"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="208371"/>
+		<tag k="name" v="Mountain Road"/>
+		<tag k="source" v="massgis_import_v0.1_20071009102940"/>
+		<tag k="width" v="10.4"/>
+	</way>
+<way id="9076044">
+		<nd ref="66919819"/>
+		<nd ref="66954850"/>
+		<nd ref="66927064"/>
+		<nd ref="66928114"/>
+		<nd ref="9055456604"/>
+		<nd ref="66939776"/>
+		<nd ref="5408579905"/>
+		<nd ref="66926745"/>
+		<nd ref="66931276"/>
+		<nd ref="66934418"/>
+		<nd ref="66952229"/>
+		<nd ref="66922980"/>
+		<nd ref="66932943"/>
+		<nd ref="66951235"/>
+		<nd ref="66924473"/>
+		<nd ref="66930231"/>
+		<nd ref="66954758"/>
+		<nd ref="66925588"/>
+		<nd ref="66953453"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="208371"/>
+		<tag k="name" v="Mountain Road"/>
+		<tag k="source" v="massgis_import_v0.1_20071009102940"/>
+		<tag k="width" v="10.4"/>
+	</way>
+<way id="544348419">
+		<nd ref="66941126"/>
+		<nd ref="66951919"/>
+		<nd ref="3823630316"/>
+		<nd ref="8321376090"/>
+		<nd ref="66930937"/>
+		<nd ref="3864011662"/>
+		<nd ref="66931877"/>
+		<nd ref="66916072"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="deficient"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="208371"/>
+		<tag k="name" v="Mountain Road"/>
+		<tag k="source" v="massgis_import_v0.1_20071009102940"/>
+		<tag k="width" v="10.4"/>
+	</way>
+  </modify>
+</osmChange>

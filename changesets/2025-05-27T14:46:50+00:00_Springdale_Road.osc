@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="9433349">
+		<nd ref="71814932"/>
+		<nd ref="71923610"/>
+		<nd ref="9076157979"/>
+		<nd ref="71971892"/>
+		<nd ref="71829686"/>
+		<nd ref="71815757"/>
+		<nd ref="71959557"/>
+		<nd ref="71961101"/>
+		<nd ref="71795312"/>
+		<nd ref="71928969"/>
+		<nd ref="71911954"/>
+		<nd ref="71889291"/>
+		<nd ref="71835431"/>
+		<nd ref="71833766"/>
+		<nd ref="71781796"/>
+		<nd ref="71899568"/>
+		<nd ref="71899277"/>
+		<nd ref="71776748"/>
+		<nd ref="71812847"/>
+		<nd ref="71969160"/>
+		<nd ref="71906843"/>
+		<nd ref="71872052"/>
+		<nd ref="71955397"/>
+		<nd ref="71802785"/>
+		<nd ref="71922229"/>
+		<nd ref="71825252"/>
+		<nd ref="71960551"/>
+		<nd ref="71837818"/>
+		<nd ref="71961271"/>
+		<nd ref="71982337"/>
+		<nd ref="71962253"/>
+		<nd ref="71842599"/>
+		<nd ref="71877212"/>
+		<nd ref="71812435"/>
+		<nd ref="71776270"/>
+		<nd ref="71971375"/>
+		<nd ref="71935051"/>
+		<nd ref="71886581"/>
+		<nd ref="71869462"/>
+		<nd ref="71755416"/>
+		<nd ref="71957087"/>
+		<nd ref="71965270"/>
+		<nd ref="71850918"/>
+		<nd ref="71776183"/>
+		<nd ref="71782201"/>
+		<nd ref="71989574"/>
+		<nd ref="71758029"/>
+		<nd ref="71819843"/>
+		<nd ref="71844391"/>
+		<nd ref="71892197"/>
+		<nd ref="71931393"/>
+		<nd ref="71920115"/>
+		<nd ref="71762521"/>
+		<nd ref="71874086"/>
+		<nd ref="71832346"/>
+		<nd ref="71851733"/>
+		<nd ref="71759873"/>
+		<nd ref="71908627"/>
+		<nd ref="71832678"/>
+		<nd ref="71933504"/>
+		<nd ref="71840531"/>
+		<nd ref="71879841"/>
+		<nd ref="71918539"/>
+		<nd ref="71898821"/>
+		<nd ref="71907320"/>
+		<nd ref="71918770"/>
+		<nd ref="71824180"/>
+		<nd ref="71968520"/>
+		<nd ref="71915041"/>
+		<nd ref="71935212"/>
+		<nd ref="71788054"/>
+		<nd ref="71891406"/>
+		<nd ref="71780183"/>
+		<nd ref="71859778"/>
+		<nd ref="71841307"/>
+		<nd ref="71856891"/>
+		<nd ref="71840152"/>
+		<nd ref="71777440"/>
+		<nd ref="71952107"/>
+		<nd ref="71802458"/>
+		<nd ref="71798445"/>
+		<nd ref="71946588"/>
+		<nd ref="71805800"/>
+		<nd ref="71859016"/>
+		<nd ref="71862954"/>
+		<nd ref="71893165"/>
+		<nd ref="71947694"/>
+		<nd ref="71809620"/>
+		<nd ref="71881924"/>
+		<nd ref="9050069648"/>
+		<nd ref="71949273"/>
+		<nd ref="71940107"/>
+		<nd ref="71829982"/>
+		<nd ref="71904762"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="tertiary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="168712"/>
+		<tag k="name" v="Springdale Road"/>
+		<tag k="source" v="massgis_import_v0.1_20071009094509"/>
+		<tag k="width" v="15.2"/>
+	</way>
+  </modify>
+</osmChange>

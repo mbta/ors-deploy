@@ -1,0 +1,302 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="175115089">
+		<nd ref="67456621"/>
+		<nd ref="6819886442"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="137039"/>
+		<tag k="name" v="Quinobequin Road"/>
+		<tag k="source" v="massgis_import_v0.1_20071009091627"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="15.2"/>
+	</way>
+<way id="727746069">
+		<nd ref="67507878"/>
+		<nd ref="3888357545"/>
+		<nd ref="67491806"/>
+		<nd ref="1447523552"/>
+		<nd ref="3888357541"/>
+		<nd ref="67494928"/>
+		<nd ref="1447523550"/>
+		<nd ref="3888357540"/>
+		<nd ref="67473505"/>
+		<nd ref="3888344965"/>
+		<nd ref="3888344968"/>
+		<nd ref="67590082"/>
+		<nd ref="1335918723"/>
+		<nd ref="1335918709"/>
+		<nd ref="1335772127"/>
+		<nd ref="3888332094"/>
+		<nd ref="3888332115"/>
+		<nd ref="67520820"/>
+		<nd ref="67580431"/>
+		<nd ref="3888332131"/>
+		<nd ref="67579259"/>
+		<nd ref="67443955"/>
+		<nd ref="3888332121"/>
+		<nd ref="3888332104"/>
+		<nd ref="3888332102"/>
+		<nd ref="67514138"/>
+		<nd ref="67435725"/>
+		<nd ref="3888332093"/>
+		<nd ref="3888332123"/>
+		<nd ref="1335736600"/>
+		<nd ref="3888332103"/>
+		<nd ref="3888332120"/>
+		<nd ref="3888332122"/>
+		<nd ref="67521801"/>
+		<nd ref="3888332128"/>
+		<nd ref="1335736594"/>
+		<nd ref="3888332086"/>
+		<nd ref="67423888"/>
+		<nd ref="3888332126"/>
+		<nd ref="67552980"/>
+		<nd ref="3888332111"/>
+		<nd ref="67560705"/>
+		<nd ref="3888332117"/>
+		<nd ref="3888332097"/>
+		<nd ref="1335736604"/>
+		<nd ref="67535104"/>
+		<nd ref="3888332089"/>
+		<nd ref="1335918746"/>
+		<nd ref="3888332090"/>
+		<nd ref="67462612"/>
+		<nd ref="3888332100"/>
+		<nd ref="67479683"/>
+		<nd ref="3888332110"/>
+		<nd ref="3888332101"/>
+		<nd ref="1335918743"/>
+		<nd ref="3888332127"/>
+		<nd ref="67568907"/>
+		<nd ref="3888332109"/>
+		<nd ref="1335918745"/>
+		<nd ref="3888332106"/>
+		<nd ref="3888199261"/>
+		<nd ref="67535823"/>
+		<nd ref="3888199284"/>
+		<nd ref="67570651"/>
+		<nd ref="3888199263"/>
+		<nd ref="67494187"/>
+		<nd ref="3888199265"/>
+		<nd ref="67470146"/>
+		<nd ref="67548624"/>
+		<nd ref="3888199287"/>
+		<nd ref="3888199267"/>
+		<nd ref="67541882"/>
+		<nd ref="3888199286"/>
+		<nd ref="1335918726"/>
+		<nd ref="1402574106"/>
+		<nd ref="1335918730"/>
+		<nd ref="3888199258"/>
+		<nd ref="67535996"/>
+		<nd ref="3888199283"/>
+		<nd ref="67541906"/>
+		<nd ref="3888088007"/>
+		<nd ref="67479007"/>
+		<nd ref="67474225"/>
+		<nd ref="3888088001"/>
+		<nd ref="67595194"/>
+		<nd ref="3888088003"/>
+		<nd ref="3888088008"/>
+		<nd ref="1332812929"/>
+		<nd ref="3888088006"/>
+		<nd ref="67539047"/>
+		<nd ref="1332812925"/>
+		<nd ref="67552556"/>
+		<nd ref="3888082481"/>
+		<nd ref="67532680"/>
+		<nd ref="67582361"/>
+		<nd ref="3888082489"/>
+		<nd ref="67541190"/>
+		<nd ref="3888082486"/>
+		<nd ref="1332812946"/>
+		<nd ref="67502039"/>
+		<nd ref="3888082482"/>
+		<nd ref="1332812932"/>
+		<nd ref="67431856"/>
+		<nd ref="3888082484"/>
+		<nd ref="1332812945"/>
+		<nd ref="3888082485"/>
+		<nd ref="1332812948"/>
+		<nd ref="3888082480"/>
+		<nd ref="67498008"/>
+		<nd ref="1332812912"/>
+		<nd ref="3888065109"/>
+		<nd ref="67442945"/>
+		<nd ref="1332812934"/>
+		<nd ref="67463630"/>
+		<nd ref="3888065931"/>
+		<nd ref="67582795"/>
+		<nd ref="1332812947"/>
+		<nd ref="67444015"/>
+		<nd ref="3888065930"/>
+		<nd ref="67478333"/>
+		<nd ref="3888065928"/>
+		<nd ref="3888065929"/>
+		<nd ref="1332812943"/>
+		<nd ref="67462204"/>
+		<nd ref="3888062132"/>
+		<nd ref="1332812927"/>
+		<nd ref="67512239"/>
+		<nd ref="3888062138"/>
+		<nd ref="1332812926"/>
+		<nd ref="67435419"/>
+		<nd ref="3888062136"/>
+		<nd ref="1332812960"/>
+		<nd ref="3888062139"/>
+		<nd ref="67443874"/>
+		<nd ref="3888062137"/>
+		<nd ref="1332812958"/>
+		<nd ref="3888062133"/>
+		<nd ref="67528398"/>
+		<nd ref="1332812940"/>
+		<nd ref="3888062131"/>
+		<nd ref="3888062130"/>
+		<nd ref="67458271"/>
+		<nd ref="67530121"/>
+		<nd ref="1332812938"/>
+		<nd ref="3888050796"/>
+		<nd ref="67528970"/>
+		<nd ref="67423533"/>
+		<nd ref="3888050807"/>
+		<nd ref="67439236"/>
+		<nd ref="3888050800"/>
+		<nd ref="1332812956"/>
+		<nd ref="67501096"/>
+		<nd ref="3888050801"/>
+		<nd ref="1332812935"/>
+		<nd ref="67445706"/>
+		<nd ref="3152664394"/>
+		<nd ref="67427750"/>
+		<nd ref="67439692"/>
+		<nd ref="3888042479"/>
+		<nd ref="67474734"/>
+		<nd ref="1332812921"/>
+		<nd ref="3888042488"/>
+		<nd ref="67551511"/>
+		<nd ref="3888042480"/>
+		<nd ref="67491295"/>
+		<nd ref="67574892"/>
+		<nd ref="1332812928"/>
+		<nd ref="67436643"/>
+		<nd ref="3886840023"/>
+		<nd ref="3886840018"/>
+		<nd ref="67571903"/>
+		<nd ref="3886840019"/>
+		<nd ref="67470472"/>
+		<nd ref="3886840022"/>
+		<nd ref="67589181"/>
+		<nd ref="3886840015"/>
+		<nd ref="67485476"/>
+		<nd ref="3886840013"/>
+		<nd ref="67540999"/>
+		<nd ref="67460594"/>
+		<nd ref="3886840012"/>
+		<nd ref="67495685"/>
+		<nd ref="3886840016"/>
+		<nd ref="67485987"/>
+		<nd ref="1332812959"/>
+		<nd ref="3886840017"/>
+		<nd ref="67444400"/>
+		<nd ref="67536728"/>
+		<nd ref="3886840021"/>
+		<nd ref="1332812955"/>
+		<nd ref="3886840020"/>
+		<nd ref="67467724"/>
+		<nd ref="3886840014"/>
+		<nd ref="3886840024"/>
+		<nd ref="67540710"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="137039"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="name" v="Quinobequin Road"/>
+		<tag k="source" v="massgis_import_v0.1_20071009091627"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="15.2"/>
+	</way>
+<way id="727746070">
+		<nd ref="6819886442"/>
+		<nd ref="8874450387"/>
+		<nd ref="8874450386"/>
+		<nd ref="67570465"/>
+		<nd ref="3888357533"/>
+		<nd ref="3441811612"/>
+		<nd ref="67507878"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="137039"/>
+		<tag k="maxheight" v="13'7&quot;"/>
+		<tag k="name" v="Quinobequin Road"/>
+		<tag k="source" v="massgis_import_v0.1_20071009091627"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="15.2"/>
+	</way>
+<way id="959062453">
+		<nd ref="67540710"/>
+		<nd ref="67535844"/>
+		<nd ref="3886823605"/>
+		<nd ref="1332812922"/>
+		<nd ref="3886823594"/>
+		<nd ref="67511037"/>
+		<nd ref="7949024551"/>
+		<nd ref="7949033206"/>
+		<nd ref="1332812949"/>
+		<nd ref="67569798"/>
+		<nd ref="3886823593"/>
+		<nd ref="3886823598"/>
+		<nd ref="3886823587"/>
+		<nd ref="1332812942"/>
+		<nd ref="3886823588"/>
+		<nd ref="3886823602"/>
+		<nd ref="67422261"/>
+		<nd ref="1332812937"/>
+		<nd ref="3886746320"/>
+		<nd ref="67483999"/>
+		<nd ref="3886746305"/>
+		<nd ref="1332812920"/>
+		<nd ref="67437246"/>
+		<nd ref="1332812952"/>
+		<nd ref="3886738898"/>
+		<nd ref="67558928"/>
+		<nd ref="1332812939"/>
+		<nd ref="3886738897"/>
+		<nd ref="67533088"/>
+		<nd ref="67541474"/>
+		<nd ref="3886738907"/>
+		<nd ref="67466264"/>
+		<nd ref="1332812951"/>
+		<nd ref="1332812961"/>
+		<nd ref="67491416"/>
+		<nd ref="67592179"/>
+		<nd ref="3886478611"/>
+		<nd ref="67438290"/>
+		<nd ref="3886478610"/>
+		<nd ref="3885146490"/>
+		<nd ref="67514860"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="137039"/>
+		<tag k="maxspeed" v="30 mph"/>
+		<tag k="name" v="Quinobequin Road"/>
+		<tag k="source" v="massgis_import_v0.1_20071009091627"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="15.2"/>
+	</way>
+  </modify>
+</osmChange>

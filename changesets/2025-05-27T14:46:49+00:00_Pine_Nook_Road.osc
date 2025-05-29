@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="9005408">
+		<nd ref="12544241583"/>
+		<nd ref="10188676375"/>
+		<nd ref="66020473"/>
+		<nd ref="10188676374"/>
+		<nd ref="65979786"/>
+		<nd ref="10188676373"/>
+		<nd ref="66014649"/>
+		<nd ref="10188676370"/>
+		<nd ref="65959704"/>
+		<nd ref="10188676372"/>
+		<nd ref="65996819"/>
+		<nd ref="65941774"/>
+		<nd ref="65977936"/>
+		<nd ref="10188676371"/>
+		<nd ref="65956741"/>
+		<nd ref="65932986"/>
+		<nd ref="10188676404"/>
+		<nd ref="10188676403"/>
+		<nd ref="65961792"/>
+		<nd ref="66047461"/>
+		<nd ref="10188676366"/>
+		<nd ref="10188676365"/>
+		<nd ref="65988615"/>
+		<nd ref="10188676367"/>
+		<nd ref="65944059"/>
+		<nd ref="66012009"/>
+		<nd ref="10188641052"/>
+		<nd ref="66068283"/>
+		<nd ref="10188641051"/>
+		<nd ref="66042980"/>
+		<nd ref="65999515"/>
+		<nd ref="66051685"/>
+		<nd ref="10188676363"/>
+		<nd ref="65928648"/>
+		<nd ref="10188676364"/>
+		<nd ref="10188641041"/>
+		<nd ref="10188641042"/>
+		<nd ref="10188641040"/>
+		<nd ref="10188676414"/>
+		<nd ref="65940828"/>
+		<nd ref="10188676413"/>
+		<nd ref="10188676412"/>
+		<nd ref="65986427"/>
+		<nd ref="10188676411"/>
+		<nd ref="65969985"/>
+		<nd ref="10188676410"/>
+		<nd ref="66028755"/>
+		<nd ref="8361779259"/>
+		<nd ref="66019678"/>
+		<nd ref="10188676409"/>
+		<nd ref="65945566"/>
+		<nd ref="10188676408"/>
+		<nd ref="66001268"/>
+		<nd ref="66001697"/>
+		<nd ref="65978195"/>
+		<nd ref="10188676407"/>
+		<nd ref="66030973"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="200452"/>
+		<tag k="name" v="Pine Nook Road"/>
+		<tag k="source" v="massgis_import_v0.1_20071009102630"/>
+		<tag k="width" v="12.2"/>
+	</way>
+<way id="1355438572">
+		<nd ref="66001988"/>
+		<nd ref="66064358"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="200452"/>
+		<tag k="name" v="Pine Nook Road"/>
+		<tag k="source" v="massgis_import_v0.1_20071009102630"/>
+		<tag k="width" v="12.2"/>
+	</way>
+<way id="1355438573">
+		<nd ref="66064358"/>
+		<nd ref="12544241583"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="200452"/>
+		<tag k="maxheight" v="10'0&quot;"/>
+		<tag k="name" v="Pine Nook Road"/>
+		<tag k="source" v="massgis_import_v0.1_20071009102630"/>
+		<tag k="width" v="12.2"/>
+	</way>
+  </modify>
+</osmChange>

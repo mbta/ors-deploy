@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="9535922">
+		<nd ref="73609088"/>
+		<nd ref="73683492"/>
+		<nd ref="73621244"/>
+		<nd ref="73656886"/>
+		<nd ref="73657061"/>
+		<nd ref="73631079"/>
+		<nd ref="73626977"/>
+		<nd ref="73629809"/>
+		<nd ref="73684218"/>
+		<nd ref="12442845876"/>
+		<nd ref="73599743"/>
+		<nd ref="12442845858"/>
+		<nd ref="8334154715"/>
+		<nd ref="73625218"/>
+		<nd ref="73607119"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:both" v="no"/>
+		<tag k="goods" v="no"/>
+		<tag k="goods:conditional" v="yes @ 07:00-19:00"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="hgv:conditional" v="yes @ 07:00-19:00"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="2"/>
+		<tag k="name" v="Kelsey Road"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="12.2"/>
+	</way>
+<way id="461242854">
+		<nd ref="73645912"/>
+		<nd ref="73668892"/>
+		<nd ref="73625312"/>
+		<nd ref="73649014"/>
+		<nd ref="73636327"/>
+		<nd ref="73622788"/>
+		<nd ref="73602935"/>
+		<nd ref="12158929633"/>
+		<nd ref="73609088"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:both" v="no"/>
+		<tag k="goods" v="no"/>
+		<tag k="goods:conditional" v="yes @ 07:00-19:00"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="hgv:conditional" v="yes @ 07:00-19:00"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="2"/>
+		<tag k="maxspeed" v="30 mph"/>
+		<tag k="name" v="Kelsey Road"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="12.2"/>
+	</way>
+<way id="1091378112">
+		<nd ref="73604463"/>
+		<nd ref="73617809"/>
+		<nd ref="73645912"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:both" v="no"/>
+		<tag k="goods" v="no"/>
+		<tag k="goods:conditional" v="yes @ 07:00-19:00"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="hgv:conditional" v="yes @ 07:00-19:00"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="2"/>
+		<tag k="maxspeed" v="30 mph"/>
+		<tag k="name" v="Kelsey Road"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="12.2"/>
+	</way>
+<way id="1091378113">
+		<nd ref="73606221"/>
+		<nd ref="12442826805"/>
+		<nd ref="9567219273"/>
+		<nd ref="73628237"/>
+		<nd ref="73604463"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:both" v="no"/>
+		<tag k="goods" v="no"/>
+		<tag k="goods:conditional" v="yes @ 07:00-19:00"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="hgv:conditional" v="yes @ 07:00-19:00"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="2"/>
+		<tag k="maxspeed" v="30 mph"/>
+		<tag k="name" v="Kelsey Road"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="12.2"/>
+	</way>
+<way id="1344931787">
+		<nd ref="73607119"/>
+		<nd ref="12442826812"/>
+		<nd ref="12442826811"/>
+		<nd ref="73604221"/>
+		<nd ref="9567219274"/>
+		<nd ref="73626814"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:both" v="no"/>
+		<tag k="goods" v="no"/>
+		<tag k="goods:conditional" v="yes @ 07:00-19:00"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="hgv:conditional" v="yes @ 07:00-19:00"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="2"/>
+		<tag k="name" v="Kelsey Road"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="12.2"/>
+	</way>
+  </modify>
+</osmChange>

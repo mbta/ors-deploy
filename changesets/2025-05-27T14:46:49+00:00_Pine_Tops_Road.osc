@@ -1,0 +1,209 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="9616222">
+		<nd ref="74926803"/>
+		<nd ref="74924998"/>
+		<nd ref="74924793"/>
+		<nd ref="74951250"/>
+		<nd ref="74915907"/>
+		<nd ref="74928500"/>
+		<nd ref="74963730"/>
+		<nd ref="74948253"/>
+		<nd ref="74914393"/>
+		<nd ref="74961519"/>
+		<nd ref="6464765498"/>
+		<nd ref="74916650"/>
+		<nd ref="74960792"/>
+		<nd ref="74960850"/>
+		<nd ref="74923124"/>
+		<nd ref="951464803"/>
+		<nd ref="951464804"/>
+		<nd ref="951464805"/>
+		<nd ref="74949740"/>
+		<nd ref="74912147"/>
+		<nd ref="74957126"/>
+		<nd ref="951464811"/>
+		<nd ref="74941810"/>
+		<nd ref="74921802"/>
+		<nd ref="74924311"/>
+		<nd ref="74963647"/>
+		<nd ref="74940463"/>
+		<nd ref="5665242081"/>
+		<nd ref="951464815"/>
+		<nd ref="5665242082"/>
+		<nd ref="74927108"/>
+		<nd ref="5665242083"/>
+		<nd ref="3222212460"/>
+		<nd ref="5665242080"/>
+		<nd ref="74925011"/>
+		<nd ref="74947204"/>
+		<nd ref="7633237824"/>
+		<nd ref="74931664"/>
+		<tag k="bicycle" v="yes"/>
+		<tag k="foot" v="yes"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="unclassified"/>
+		<tag k="motor_vehicle" v="permit"/>
+		<tag k="name" v="Pine Tops Road"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+<way id="9617202">
+		<nd ref="74926803"/>
+		<nd ref="74956182"/>
+		<nd ref="74937690"/>
+		<nd ref="74935119"/>
+		<nd ref="74950848"/>
+		<nd ref="74917191"/>
+		<nd ref="951464209"/>
+		<nd ref="74959109"/>
+		<nd ref="74920393"/>
+		<nd ref="951464216"/>
+		<nd ref="74939447"/>
+		<nd ref="951464218"/>
+		<nd ref="74956360"/>
+		<nd ref="74942090"/>
+		<nd ref="74951685"/>
+		<nd ref="74920824"/>
+		<nd ref="74912964"/>
+		<nd ref="74923209"/>
+		<nd ref="74944980"/>
+		<nd ref="74962678"/>
+		<nd ref="74954712"/>
+		<nd ref="74959859"/>
+		<nd ref="74939264"/>
+		<nd ref="74932355"/>
+		<nd ref="951464241"/>
+		<nd ref="951464247"/>
+		<nd ref="951464251"/>
+		<nd ref="951464252"/>
+		<nd ref="74929494"/>
+		<nd ref="74938917"/>
+		<nd ref="951464260"/>
+		<nd ref="74945136"/>
+		<nd ref="74960827"/>
+		<nd ref="74953485"/>
+		<nd ref="74942899"/>
+		<nd ref="74912085"/>
+		<nd ref="74913294"/>
+		<nd ref="74910563"/>
+		<nd ref="74921462"/>
+		<nd ref="74940748"/>
+		<nd ref="951464281"/>
+		<nd ref="74919469"/>
+		<nd ref="74921614"/>
+		<nd ref="74956134"/>
+		<nd ref="74941756"/>
+		<nd ref="74941635"/>
+		<nd ref="74952515"/>
+		<nd ref="951464312"/>
+		<nd ref="74944532"/>
+		<nd ref="951464319"/>
+		<nd ref="74939391"/>
+		<nd ref="951464333"/>
+		<nd ref="951464339"/>
+		<nd ref="74935726"/>
+		<nd ref="951464347"/>
+		<nd ref="1278154900"/>
+		<nd ref="74933588"/>
+		<nd ref="951464348"/>
+		<nd ref="74941503"/>
+		<nd ref="951464357"/>
+		<nd ref="951464358"/>
+		<nd ref="5665242059"/>
+		<nd ref="5665242060"/>
+		<nd ref="74954277"/>
+		<nd ref="951464363"/>
+		<nd ref="951464367"/>
+		<nd ref="951464368"/>
+		<nd ref="74931197"/>
+		<nd ref="951464373"/>
+		<nd ref="74962562"/>
+		<nd ref="951464374"/>
+		<nd ref="951464375"/>
+		<nd ref="74949851"/>
+		<nd ref="951464376"/>
+		<nd ref="951464377"/>
+		<nd ref="74960261"/>
+		<nd ref="951464378"/>
+		<nd ref="3236267325"/>
+		<nd ref="74953467"/>
+		<nd ref="951464379"/>
+		<nd ref="1916448666"/>
+		<nd ref="951464380"/>
+		<nd ref="951464381"/>
+		<nd ref="951464382"/>
+		<nd ref="951464383"/>
+		<nd ref="74911748"/>
+		<nd ref="3236267326"/>
+		<nd ref="5665242061"/>
+		<nd ref="74962345"/>
+		<tag k="bicycle" v="yes"/>
+		<tag k="foot" v="yes"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="unclassified"/>
+		<tag k="motor_vehicle" v="permit"/>
+		<tag k="name" v="Pine Tops Road"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+<way id="9617203">
+		<nd ref="74963257"/>
+		<nd ref="951463694"/>
+		<nd ref="951463696"/>
+		<nd ref="951463700"/>
+		<nd ref="951463704"/>
+		<nd ref="951463708"/>
+		<nd ref="5665242078"/>
+		<nd ref="74925398"/>
+		<nd ref="5665242077"/>
+		<nd ref="951463714"/>
+		<nd ref="74940819"/>
+		<nd ref="74955401"/>
+		<nd ref="951463725"/>
+		<nd ref="74959609"/>
+		<nd ref="951463738"/>
+		<nd ref="74911010"/>
+		<nd ref="74926991"/>
+		<nd ref="74919696"/>
+		<nd ref="74954348"/>
+		<nd ref="74929958"/>
+		<nd ref="74918095"/>
+		<nd ref="951463747"/>
+		<nd ref="951463751"/>
+		<nd ref="74922886"/>
+		<nd ref="951463756"/>
+		<nd ref="5665242079"/>
+		<nd ref="951463757"/>
+		<nd ref="74915520"/>
+		<nd ref="951463759"/>
+		<nd ref="951463761"/>
+		<nd ref="3222107715"/>
+		<nd ref="951463763"/>
+		<nd ref="74928842"/>
+		<nd ref="74949507"/>
+		<nd ref="74931596"/>
+		<nd ref="3222107736"/>
+		<nd ref="74912764"/>
+		<nd ref="74916795"/>
+		<nd ref="74912696"/>
+		<nd ref="951463774"/>
+		<nd ref="74962714"/>
+		<nd ref="3222212439"/>
+		<nd ref="951463785"/>
+		<nd ref="74956231"/>
+		<nd ref="951463793"/>
+		<nd ref="74953389"/>
+		<nd ref="7633237839"/>
+		<nd ref="74958458"/>
+		<nd ref="74931664"/>
+		<tag k="bicycle" v="yes"/>
+		<tag k="foot" v="yes"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="unclassified"/>
+		<tag k="motor_vehicle" v="permit"/>
+		<tag k="name" v="Pine Tops Road"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+  </modify>
+</osmChange>

@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="8913305">
+		<nd ref="65218435"/>
+		<nd ref="7108274897"/>
+		<nd ref="65257502"/>
+		<nd ref="2043144585"/>
+		<nd ref="6772355190"/>
+		<nd ref="2043144586"/>
+		<nd ref="65235090"/>
+		<nd ref="6772355187"/>
+		<nd ref="2043144582"/>
+		<nd ref="6772355199"/>
+		<nd ref="65226716"/>
+		<nd ref="65229959"/>
+		<nd ref="2043144591"/>
+		<nd ref="65222594"/>
+		<nd ref="7108274895"/>
+		<nd ref="2043114836"/>
+		<nd ref="2043114832"/>
+		<nd ref="65205641"/>
+		<nd ref="2043114839"/>
+		<nd ref="2043114835"/>
+		<nd ref="65222433"/>
+		<nd ref="2043114828"/>
+		<nd ref="2043114842"/>
+		<nd ref="65210917"/>
+		<nd ref="2043114840"/>
+		<nd ref="65231802"/>
+		<nd ref="2043114834"/>
+		<nd ref="65214295"/>
+		<nd ref="65199895"/>
+		<nd ref="2043114831"/>
+		<nd ref="65221563"/>
+		<nd ref="65211044"/>
+		<nd ref="65189234"/>
+		<nd ref="2043114825"/>
+		<nd ref="7108274918"/>
+		<nd ref="65227651"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bus" v="no"/>
+		<tag k="condition" v="good"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="141352"/>
+		<tag k="name" v="Lynn Shore Drive"/>
+		<tag k="source" v="massgis_import_v0.1_20071009090318"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="30.8"/>
+	</way>
+<way id="92352978">
+		<nd ref="65218435"/>
+		<nd ref="7108274898"/>
+		<nd ref="65250425"/>
+		<nd ref="10149167008"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bus" v="no"/>
+		<tag k="condition" v="good"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="3"/>
+		<tag k="lanes:backward" v="2"/>
+		<tag k="lanes:forward" v="1"/>
+		<tag k="massgis:way_id" v="141352"/>
+		<tag k="name" v="Lynn Shore Drive"/>
+		<tag k="source" v="massgis_import_v0.1_20071009090318"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes:backward" v="left|through"/>
+		<tag k="width" v="29.3"/>
+	</way>
+<way id="1109229958">
+		<nd ref="10149167008"/>
+		<nd ref="65249108"/>
+		<nd ref="65229255"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bus" v="no"/>
+		<tag k="condition" v="good"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="141352"/>
+		<tag k="name" v="Lynn Shore Drive"/>
+		<tag k="sidewalk:left" v="separate"/>
+		<tag k="sidewalk:right" v="no"/>
+		<tag k="source" v="massgis_import_v0.1_20071009090318"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="29.3"/>
+	</way>
+  </modify>
+</osmChange>

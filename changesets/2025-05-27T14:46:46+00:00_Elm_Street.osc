@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="9232553">
+		<nd ref="69039025"/>
+		<nd ref="69061941"/>
+		<nd ref="69021844"/>
+		<nd ref="69017291"/>
+		<nd ref="69033167"/>
+		<nd ref="69028739"/>
+		<nd ref="69026669"/>
+		<nd ref="69028960"/>
+		<nd ref="951464735"/>
+		<nd ref="69061911"/>
+		<nd ref="951464738"/>
+		<nd ref="69020805"/>
+		<nd ref="951016596"/>
+		<nd ref="69050673"/>
+		<nd ref="69062539"/>
+		<nd ref="951464744"/>
+		<nd ref="69027533"/>
+		<nd ref="69058854"/>
+		<nd ref="69040036"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bicycle" v="yes"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="yes"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="unclassified"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="204490"/>
+		<tag k="motor_vehicle" v="permit"/>
+		<tag k="name" v="Elm Street"/>
+		<tag k="source" v="massgis_import_v0.1_20071009094037"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+<way id="9616498">
+		<nd ref="69040036"/>
+		<nd ref="74946343"/>
+		<nd ref="74961954"/>
+		<nd ref="74919771"/>
+		<nd ref="74959902"/>
+		<nd ref="74939054"/>
+		<nd ref="74955146"/>
+		<nd ref="74952986"/>
+		<nd ref="74938387"/>
+		<nd ref="74925496"/>
+		<nd ref="2409200503"/>
+		<nd ref="74942599"/>
+		<nd ref="74910916"/>
+		<nd ref="74942707"/>
+		<nd ref="74961850"/>
+		<nd ref="5665244385"/>
+		<nd ref="74916208"/>
+		<nd ref="5665244386"/>
+		<nd ref="74928004"/>
+		<nd ref="74938027"/>
+		<nd ref="74919010"/>
+		<nd ref="74921618"/>
+		<nd ref="74954244"/>
+		<nd ref="74959998"/>
+		<nd ref="74912821"/>
+		<nd ref="74950029"/>
+		<nd ref="74959758"/>
+		<nd ref="74947639"/>
+		<nd ref="74959867"/>
+		<nd ref="951464718"/>
+		<nd ref="74963759"/>
+		<nd ref="74920612"/>
+		<nd ref="74921128"/>
+		<nd ref="74939224"/>
+		<nd ref="74910901"/>
+		<nd ref="74948325"/>
+		<nd ref="74949740"/>
+		<tag k="bicycle" v="yes"/>
+		<tag k="foot" v="yes"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="unclassified"/>
+		<tag k="lanes" v="2"/>
+		<tag k="motor_vehicle" v="permit"/>
+		<tag k="name" v="Elm Street"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+<way id="92345636">
+		<nd ref="73067993"/>
+		<nd ref="5067634343"/>
+		<nd ref="5067634348"/>
+		<nd ref="73123516"/>
+		<nd ref="5067634342"/>
+		<nd ref="5067634339"/>
+		<nd ref="73047326"/>
+		<nd ref="73121804"/>
+		<nd ref="73127839"/>
+		<nd ref="5070556344"/>
+		<nd ref="73128569"/>
+		<nd ref="5070556345"/>
+		<nd ref="5070556346"/>
+		<nd ref="1451370101"/>
+		<nd ref="5070556343"/>
+		<nd ref="1451370089"/>
+		<nd ref="73072854"/>
+		<nd ref="1451370081"/>
+		<nd ref="1451370076"/>
+		<nd ref="1451370104"/>
+		<nd ref="5070559811"/>
+		<nd ref="5070559814"/>
+		<nd ref="73082659"/>
+		<nd ref="73122357"/>
+		<nd ref="73088270"/>
+		<nd ref="73126255"/>
+		<nd ref="5848235745"/>
+		<nd ref="1451370085"/>
+		<nd ref="5848235752"/>
+		<nd ref="73088652"/>
+		<nd ref="1451370074"/>
+		<nd ref="73093723"/>
+		<nd ref="5848235748"/>
+		<nd ref="73074480"/>
+		<nd ref="1451370080"/>
+		<nd ref="1451370093"/>
+		<nd ref="1451370108"/>
+		<nd ref="73131151"/>
+		<nd ref="1451370075"/>
+		<nd ref="9525797907"/>
+		<nd ref="4288385767"/>
+		<nd ref="1400940027"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="tertiary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="161243"/>
+		<tag k="name" v="Elm Street"/>
+		<tag k="source" v="massgis_import_v0.1_20071009092358"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="12.2"/>
+	</way>
+  </modify>
+</osmChange>

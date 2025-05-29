@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="118783818">
+		<nd ref="1335316701"/>
+		<nd ref="1335316690"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="135017"/>
+		<tag k="maxheight" v="13'6&quot;"/>
+		<tag k="maxspeed" v="30 mph"/>
+		<tag k="name" v="Main Street"/>
+		<tag k="ref" v="MA 62;MA 70;MA 110"/>
+		<tag k="source" v="massgis_import_v0.1_20071009102447"/>
+		<tag k="source:maxspeed" v="massgis"/>
+		<tag k="tunnel" v="yes"/>
+		<tag k="width" v="18.3"/>
+	</way>
+<way id="356867803">
+		<nd ref="3622695526"/>
+		<nd ref="1052736143"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="cycleway:left" v="no"/>
+		<tag k="cycleway:right" v="track"/>
+		<tag k="cycleway:right:oneway" v="yes"/>
+		<tag k="cycleway:right:separation" v="flex_post"/>
+		<tag k="foot" v="yes"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lit" v="no"/>
+		<tag k="mapillary" v="1394006664777669"/>
+		<tag k="massgis:ref" v="0 N323"/>
+		<tag k="massgis:way_id" v="147645"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="name" v="Main Street"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="parking:both" v="no"/>
+		<tag k="parking:lane:both" v="no"/>
+		<tag k="sidewalk:left" v="no"/>
+		<tag k="sidewalk:right" v="separate"/>
+		<tag k="source" v="massgis_import_v0.1_20071008165629"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="survey:date" v="2023-07-11"/>
+		<tag k="width" v="30.5"/>
+		<tag k="wikidata" v="Q87748080"/>
+	</way>
+<way id="761056855">
+		<nd ref="2501927217"/>
+		<nd ref="7110512484"/>
+		<nd ref="9907932610"/>
+		<nd ref="2501927211"/>
+		<nd ref="531212784"/>
+		<nd ref="11787957128"/>
+		<nd ref="3622695526"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="cycleway:left" v="no"/>
+		<tag k="cycleway:right" v="track"/>
+		<tag k="cycleway:right:oneway" v="yes"/>
+		<tag k="cycleway:right:separation" v="flex_post"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lit" v="no"/>
+		<tag k="mapillary" v="1394006664777669"/>
+		<tag k="massgis:ref" v="0 N323"/>
+		<tag k="massgis:way_id" v="144604"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="name" v="Main Street"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="parking:both" v="no"/>
+		<tag k="parking:lane:both" v="no"/>
+		<tag k="sidewalk:left" v="no"/>
+		<tag k="sidewalk:right" v="separate"/>
+		<tag k="source" v="massgis_import_v0.1_20071008165629"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="survey:date" v="2023-07-11"/>
+		<tag k="width" v="30.5"/>
+		<tag k="wikidata" v="Q87748080"/>
+	</way>
+  </modify>
+</osmChange>

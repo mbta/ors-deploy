@@ -1,0 +1,435 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="8614583">
+		<nd ref="8522166092"/>
+		<nd ref="61332402"/>
+		<nd ref="2693621488"/>
+		<nd ref="3616266428"/>
+		<nd ref="61328751"/>
+		<nd ref="7689837828"/>
+		<nd ref="1544870545"/>
+		<nd ref="61322113"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="lit" v="yes"/>
+		<tag k="massgis:ref" v="0 N337"/>
+		<tag k="massgis:way_id" v="147092"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="name" v="Land Boulevard"/>
+		<tag k="official_name" v="Edwin H. Land Boulevard"/>
+		<tag k="old_ref" v="SR 3"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="parking:both" v="no"/>
+		<tag k="sidewalk:left" v="no"/>
+		<tag k="sidewalk:right" v="separate"/>
+		<tag k="source" v="massgis_import_v0.1_20071008165629"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="18.9"/>
+	</way>
+<way id="8614849">
+		<nd ref="61326972"/>
+		<nd ref="8501666924"/>
+		<nd ref="7926545066"/>
+		<nd ref="8501562569"/>
+		<nd ref="277667346"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bicycle" v="yes"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="lit" v="yes"/>
+		<tag k="massgis:way_id" v="147092"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="name" v="Land Boulevard"/>
+		<tag k="official_name" v="Edwin H. Land Boulevard"/>
+		<tag k="old_ref" v="SR 3"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="parking:lane:both" v="no"/>
+		<tag k="sidewalk" v="separate"/>
+		<tag k="source" v="massgis_import_v0.1_20071008165629"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="18.9"/>
+	</way>
+<way id="8615862">
+		<nd ref="8498576017"/>
+		<nd ref="8498614521"/>
+		<nd ref="8498614520"/>
+		<nd ref="8498578744"/>
+		<nd ref="2693621463"/>
+		<nd ref="8498578745"/>
+		<nd ref="61331809"/>
+		<nd ref="61331819"/>
+		<nd ref="8498578746"/>
+		<nd ref="2693621396"/>
+		<nd ref="61331820"/>
+		<nd ref="8498578747"/>
+		<nd ref="2693621402"/>
+		<nd ref="8498561311"/>
+		<nd ref="8498578748"/>
+		<nd ref="61331821"/>
+		<nd ref="8498561312"/>
+		<nd ref="8498578749"/>
+		<nd ref="2693621384"/>
+		<nd ref="61331822"/>
+		<nd ref="8498578750"/>
+		<nd ref="2693621435"/>
+		<nd ref="8498561313"/>
+		<nd ref="8498712182"/>
+		<nd ref="61331815"/>
+		<nd ref="2693621383"/>
+		<nd ref="8498712183"/>
+		<nd ref="8498561314"/>
+		<nd ref="61331816"/>
+		<nd ref="8498712184"/>
+		<nd ref="2693621371"/>
+		<nd ref="8498736586"/>
+		<nd ref="8498736587"/>
+		<nd ref="277666264"/>
+		<nd ref="2693621492"/>
+		<nd ref="8498736588"/>
+		<nd ref="3622695541"/>
+		<nd ref="61332377"/>
+		<nd ref="8498736589"/>
+		<nd ref="2693621439"/>
+		<nd ref="3622695544"/>
+		<nd ref="8498736590"/>
+		<nd ref="3622695548"/>
+		<nd ref="61332382"/>
+		<nd ref="8498736591"/>
+		<nd ref="277666518"/>
+		<nd ref="7725585244"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bicycle" v="permissive"/>
+		<tag k="bridge" v="yes"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:both" v="no"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="horse" v="no"/>
+		<tag k="lanes" v="2"/>
+		<tag k="layer" v="1"/>
+		<tag k="lit" v="yes"/>
+		<tag k="massgis:ref" v="0 N337"/>
+		<tag k="massgis:way_id" v="147092"/>
+		<tag k="maxspeed" v="35 mph"/>
+		<tag k="name" v="Land Boulevard"/>
+		<tag k="official_name" v="Edwin H. Land Boulevard"/>
+		<tag k="old_ref" v="SR 3"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="parking:lane:both" v="no"/>
+		<tag k="sidewalk:left" v="no"/>
+		<tag k="sidewalk:right" v="separate"/>
+		<tag k="source" v="massgis_import_v0.1_20071008165629"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="18.9"/>
+	</way>
+<way id="89785707">
+		<nd ref="8501484897"/>
+		<nd ref="8501562563"/>
+		<nd ref="8501562562"/>
+		<nd ref="8501562561"/>
+		<nd ref="3622695528"/>
+		<nd ref="8501562560"/>
+		<nd ref="8501562559"/>
+		<nd ref="8501562546"/>
+		<nd ref="8501562558"/>
+		<nd ref="8501562557"/>
+		<nd ref="2693621423"/>
+		<nd ref="8501562556"/>
+		<nd ref="8501562555"/>
+		<nd ref="61332389"/>
+		<nd ref="8501562554"/>
+		<nd ref="8501562553"/>
+		<nd ref="2693621465"/>
+		<nd ref="8501562552"/>
+		<nd ref="61332384"/>
+		<nd ref="12051492664"/>
+		<nd ref="2693621377"/>
+		<nd ref="8501562551"/>
+		<nd ref="8501562550"/>
+		<nd ref="61332386"/>
+		<nd ref="8501562549"/>
+		<nd ref="2693621424"/>
+		<nd ref="61332426"/>
+		<nd ref="61332424"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bicycle" v="permissive"/>
+		<tag k="bridge" v="yes"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="horse" v="no"/>
+		<tag k="lanes" v="2"/>
+		<tag k="layer" v="1"/>
+		<tag k="massgis:way_id" v="147092"/>
+		<tag k="name" v="Land Boulevard"/>
+		<tag k="official_name" v="Edwin H. Land Boulevard"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="MA 3"/>
+		<tag k="sidewalk" v="no"/>
+		<tag k="source" v="massgis_import_v0.1_20071008165629"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="18.9"/>
+	</way>
+<way id="89785709">
+		<nd ref="61332424"/>
+		<nd ref="8498594147"/>
+		<nd ref="438265112"/>
+		<nd ref="61332423"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="horse" v="no"/>
+		<tag k="lanes" v="2"/>
+		<tag k="lit" v="yes"/>
+		<tag k="mapillary" v="300772299483087"/>
+		<tag k="massgis:way_id" v="147092"/>
+		<tag k="name" v="Land Boulevard"/>
+		<tag k="official_name" v="Edwin H. Land Boulevard"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="MA 3"/>
+		<tag k="source" v="massgis_import_v0.1_20071008165629"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="survey:date" v="2023-03-24"/>
+		<tag k="width" v="18.9"/>
+	</way>
+<way id="89785711">
+		<nd ref="61332423"/>
+		<nd ref="8498579451"/>
+		<nd ref="8498579452"/>
+		<nd ref="61332432"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bridge" v="yes"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="horse" v="no"/>
+		<tag k="lanes" v="2"/>
+		<tag k="layer" v="1"/>
+		<tag k="lit" v="yes"/>
+		<tag k="mapillary" v="2692022634306984"/>
+		<tag k="massgis:way_id" v="147092"/>
+		<tag k="maxspeed" v="35 mph"/>
+		<tag k="name" v="Land Boulevard"/>
+		<tag k="official_name" v="Edwin H. Land Boulevard"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="MA 3"/>
+		<tag k="sidewalk:left" v="no"/>
+		<tag k="sidewalk:right" v="separate"/>
+		<tag k="source" v="massgis_import_v0.1_20071008165629"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="survey:date" v="2023-03-24"/>
+		<tag k="width" v="18.9"/>
+	</way>
+<way id="89785712">
+		<nd ref="61332432"/>
+		<nd ref="277666818"/>
+		<nd ref="277666819"/>
+		<nd ref="8498579453"/>
+		<nd ref="277666820"/>
+		<nd ref="2693475528"/>
+		<nd ref="3622695530"/>
+		<nd ref="8498631254"/>
+		<nd ref="8498631258"/>
+		<nd ref="3622695537"/>
+		<nd ref="8498631257"/>
+		<nd ref="8498631255"/>
+		<nd ref="8498631256"/>
+		<nd ref="61318074"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="horse" v="no"/>
+		<tag k="lanes" v="2"/>
+		<tag k="lit" v="yes"/>
+		<tag k="mapillary" v="855091249626154"/>
+		<tag k="massgis:way_id" v="147092"/>
+		<tag k="name" v="Land Boulevard"/>
+		<tag k="official_name" v="Edwin H. Land Boulevard"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="MA 3"/>
+		<tag k="source" v="massgis_import_v0.1_20071008165629"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="survey:date" v="2023-03-24"/>
+		<tag k="width" v="18.9"/>
+	</way>
+<way id="822621173">
+		<nd ref="8522166100"/>
+		<nd ref="8501511440"/>
+		<nd ref="277665991"/>
+		<nd ref="8501511441"/>
+		<nd ref="8501511442"/>
+		<nd ref="2693621410"/>
+		<nd ref="7637315990"/>
+		<nd ref="8522166092"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bicycle" v="yes"/>
+		<tag k="bridge" v="yes"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="layer" v="1"/>
+		<tag k="lit" v="no"/>
+		<tag k="massgis:ref" v="0 N337"/>
+		<tag k="massgis:way_id" v="147092"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="name" v="Land Boulevard"/>
+		<tag k="official_name" v="Edwin H. Land Boulevard"/>
+		<tag k="old_ref" v="SR 3"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="parking:both" v="no"/>
+		<tag k="source" v="massgis_import_v0.1_20071008165629"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="18.9"/>
+	</way>
+<way id="827504926">
+		<nd ref="277667346"/>
+		<nd ref="12202059074"/>
+		<nd ref="61329818"/>
+		<nd ref="8501562567"/>
+		<nd ref="7633892956"/>
+		<nd ref="1040725174"/>
+		<nd ref="8501562566"/>
+		<nd ref="61329820"/>
+		<nd ref="7729023022"/>
+		<nd ref="8501562565"/>
+		<nd ref="8501562564"/>
+		<nd ref="3622695549"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="horse" v="no"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="147092"/>
+		<tag k="maxheight" v="10'6&quot;"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="motor_vehicle" v="designated"/>
+		<tag k="name" v="Land Boulevard"/>
+		<tag k="official_name" v="Edwin H. Land Boulevard"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="parking:lane:both" v="no"/>
+		<tag k="ref" v="MA 3"/>
+		<tag k="source" v="massgis_import_v0.1_20071008165629"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="18.9"/>
+	</way>
+<way id="827504928">
+		<nd ref="7725585244"/>
+		<nd ref="8498762590"/>
+		<nd ref="8498762589"/>
+		<nd ref="12202059072"/>
+		<nd ref="8522166100"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="lit" v="yes"/>
+		<tag k="massgis:ref" v="0 N337"/>
+		<tag k="massgis:way_id" v="147092"/>
+		<tag k="maxheight" v="11'0&quot;"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="name" v="Land Boulevard"/>
+		<tag k="official_name" v="Edwin H. Land Boulevard"/>
+		<tag k="old_ref" v="SR 3"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="parking:lane:both" v="no"/>
+		<tag k="sidewalk" v="no"/>
+		<tag k="source" v="massgis_import_v0.1_20071008165629"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="18.9"/>
+	</way>
+<way id="914887503">
+		<nd ref="61326149"/>
+		<nd ref="8498657774"/>
+		<nd ref="7729022960"/>
+		<nd ref="277667280"/>
+		<nd ref="2694903607"/>
+		<nd ref="2694903609"/>
+		<nd ref="277666263"/>
+		<nd ref="61331814"/>
+		<nd ref="61331804"/>
+		<nd ref="8498614528"/>
+		<nd ref="7579360361"/>
+		<nd ref="8498614527"/>
+		<nd ref="438265036"/>
+		<nd ref="8498614526"/>
+		<nd ref="8498614525"/>
+		<nd ref="61331806"/>
+		<nd ref="8498614524"/>
+		<nd ref="8498614523"/>
+		<nd ref="8498614522"/>
+		<nd ref="8498614529"/>
+		<nd ref="8498576017"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bicycle" v="yes"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:both" v="no"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="horse" v="no"/>
+		<tag k="lanes" v="2"/>
+		<tag k="lit" v="yes"/>
+		<tag k="massgis:ref" v="0 N337"/>
+		<tag k="massgis:way_id" v="147092"/>
+		<tag k="maxspeed" v="35 mph"/>
+		<tag k="name" v="Land Boulevard"/>
+		<tag k="official_name" v="Edwin H. Land Boulevard"/>
+		<tag k="old_ref" v="SR 3"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="parking:both" v="no"/>
+		<tag k="shoulder" v="no"/>
+		<tag k="sidewalk:left" v="no"/>
+		<tag k="sidewalk:right" v="separate"/>
+		<tag k="source" v="massgis_import_v0.1_20071008165629"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="18.9"/>
+	</way>
+<way id="1120100049">
+		<nd ref="3622695549"/>
+		<nd ref="8501484897"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bridge" v="yes"/>
+		<tag k="condition" v="fair"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="horse" v="no"/>
+		<tag k="lanes" v="2"/>
+		<tag k="layer" v="1"/>
+		<tag k="massgis:way_id" v="147092"/>
+		<tag k="name" v="Land Boulevard"/>
+		<tag k="official_name" v="Edwin H. Land Boulevard"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="MA 3"/>
+		<tag k="sidewalk" v="no"/>
+		<tag k="source" v="massgis_import_v0.1_20071008165629"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="reverse;through|none"/>
+		<tag k="width" v="18.9"/>
+	</way>
+  </modify>
+</osmChange>

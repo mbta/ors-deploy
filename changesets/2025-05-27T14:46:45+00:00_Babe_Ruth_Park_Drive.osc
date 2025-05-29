@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="8644897">
+		<nd ref="61345566"/>
+		<nd ref="6013886094"/>
+		<nd ref="6013886090"/>
+		<nd ref="2256188227"/>
+		<nd ref="6013886091"/>
+		<nd ref="2256188231"/>
+		<nd ref="2256188271"/>
+		<nd ref="9959600425"/>
+		<nd ref="6013886088"/>
+		<nd ref="61345558"/>
+		<nd ref="61345560"/>
+		<nd ref="2256188272"/>
+		<nd ref="2256198634"/>
+		<nd ref="2256198630"/>
+		<nd ref="7652287225"/>
+		<nd ref="61345561"/>
+		<nd ref="2256198622"/>
+		<nd ref="61345562"/>
+		<nd ref="2256198631"/>
+		<nd ref="2256198626"/>
+		<nd ref="61345571"/>
+		<nd ref="2256198621"/>
+		<nd ref="9959600428"/>
+		<nd ref="6013886095"/>
+		<nd ref="2256198628"/>
+		<nd ref="6013886097"/>
+		<nd ref="6013886096"/>
+		<nd ref="2256198632"/>
+		<nd ref="6013886092"/>
+		<nd ref="61345081"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="good"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="4"/>
+		<tag k="massgis:way_id" v="152528"/>
+		<tag k="name" v="Babe Ruth Park Drive"/>
+		<tag k="source" v="massgis_import_v0.1_20071008193615"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="20.7"/>
+	</way>
+  </modify>
+</osmChange>

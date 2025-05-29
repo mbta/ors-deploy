@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="604292551">
+		<nd ref="70217278"/>
+		<nd ref="70274762"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="bridge" v="yes"/>
+		<tag k="bridge:name" v="Bartlett's Bridge"/>
+		<tag k="condition" v="good"/>
+		<tag k="heritage" v="2"/>
+		<tag k="heritage:operator" v="nrhp"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="residential"/>
+		<tag k="historic" v="yes"/>
+		<tag k="lanes" v="1"/>
+		<tag k="massgis:way_id" v="172198"/>
+		<tag k="name" v="Clara Barton Road"/>
+		<tag k="ref:nrhp" v="00000077"/>
+		<tag k="source" v="massgis_import_v0.1_20071009092025"/>
+		<tag k="surface" v="paved"/>
+		<tag k="width" v="12.2"/>
+		<tag k="wikidata" v="Q4865368"/>
+		<tag k="wikipedia" v="en:Bartlett's Bridge"/>
+	</way>
+  </modify>
+</osmChange>

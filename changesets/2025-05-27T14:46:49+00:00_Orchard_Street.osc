@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="9225170">
+		<nd ref="68891458"/>
+		<nd ref="2701368063"/>
+		<nd ref="7162102889"/>
+		<nd ref="68754932"/>
+		<nd ref="68867111"/>
+		<nd ref="68892755"/>
+		<nd ref="9076145437"/>
+		<nd ref="68857183"/>
+		<nd ref="68889718"/>
+		<nd ref="9076145435"/>
+		<nd ref="68823675"/>
+		<nd ref="9076145439"/>
+		<nd ref="68907005"/>
+		<nd ref="68728445"/>
+		<nd ref="1691754983"/>
+		<nd ref="68816455"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="2"/>
+		<tag k="maxweight" v="2.5 st"/>
+		<tag k="name" v="Orchard Street"/>
+		<tag k="sidewalk" v="both"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+  </modify>
+</osmChange>

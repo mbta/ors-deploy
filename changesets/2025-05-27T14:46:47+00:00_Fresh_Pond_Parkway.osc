@@ -1,0 +1,288 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="osmconvert 0.8.10">
+	<bounds minlat="40.82573" minlon="-73.51096" maxlat="42.88768" maxlon="-68.71948"/>
+<modify>
+<way id="8614873">
+		<nd ref="61324414"/>
+		<nd ref="7068094447"/>
+		<nd ref="7629085145"/>
+		<nd ref="11621125034"/>
+		<nd ref="61328843"/>
+		<nd ref="7068094444"/>
+		<nd ref="2657911020"/>
+		<nd ref="7068094440"/>
+		<nd ref="2657910977"/>
+		<nd ref="7068094441"/>
+		<nd ref="7068094448"/>
+		<nd ref="61329003"/>
+		<nd ref="61329000"/>
+		<nd ref="7068094442"/>
+		<nd ref="2657910922"/>
+		<nd ref="7068094449"/>
+		<nd ref="2657910943"/>
+		<nd ref="7068094443"/>
+		<nd ref="61329007"/>
+		<nd ref="7068094446"/>
+		<nd ref="7068090495"/>
+		<nd ref="61323557"/>
+		<nd ref="7068003171"/>
+		<nd ref="7068003169"/>
+		<nd ref="7068003172"/>
+		<nd ref="7068003168"/>
+		<nd ref="61323555"/>
+		<nd ref="7068003167"/>
+		<nd ref="2657910971"/>
+		<nd ref="7068003164"/>
+		<nd ref="7068003170"/>
+		<nd ref="2657910918"/>
+		<nd ref="7068003166"/>
+		<nd ref="7068003165"/>
+		<nd ref="61323553"/>
+		<nd ref="2657910955"/>
+		<nd ref="61323551"/>
+		<nd ref="7067921677"/>
+		<nd ref="7067921672"/>
+		<nd ref="7067953143"/>
+		<nd ref="7067951291"/>
+		<nd ref="2657910958"/>
+		<nd ref="7067953146"/>
+		<nd ref="7067953145"/>
+		<nd ref="2657910960"/>
+		<nd ref="61327579"/>
+		<nd ref="2657910990"/>
+		<nd ref="2657910915"/>
+		<nd ref="7067926864"/>
+		<nd ref="61323548"/>
+		<tag k="NHS" v="yes"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:both" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="4"/>
+		<tag k="massgis:way_id" v="185017"/>
+		<tag k="name" v="Fresh Pond Parkway"/>
+		<tag k="parking:both" v="no"/>
+		<tag k="ref" v="US 3;MA 2"/>
+		<tag k="sidewalk:both" v="separate"/>
+		<tag k="source" v="massgis_import_v0.1_20071008165629"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="15.2"/>
+	</way>
+<way id="41785121">
+		<nd ref="61324414"/>
+		<nd ref="7068094438"/>
+		<nd ref="2657922584"/>
+		<nd ref="2657922594"/>
+		<nd ref="7068094450"/>
+		<nd ref="2657922588"/>
+		<nd ref="12552950463"/>
+		<nd ref="12552950486"/>
+		<nd ref="61326060"/>
+		<nd ref="12552950464"/>
+		<nd ref="7068094439"/>
+		<nd ref="2657922580"/>
+		<nd ref="7080681721"/>
+		<nd ref="61326061"/>
+		<nd ref="7080681745"/>
+		<nd ref="7080681726"/>
+		<nd ref="2657922599"/>
+		<nd ref="7080681732"/>
+		<nd ref="61326063"/>
+		<tag k="NHS" v="yes"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="expressway" v="yes"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="185017"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="name" v="Fresh Pond Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="US 3;MA 2"/>
+		<tag k="shoulder" v="yes"/>
+		<tag k="source" v="massgis_import_v0.1_20071008165629"/>
+		<tag k="width" v="38.1"/>
+	</way>
+<way id="85928136">
+		<nd ref="61321864"/>
+		<nd ref="61324464"/>
+		<nd ref="2657922581"/>
+		<nd ref="7047225045"/>
+		<nd ref="12552950483"/>
+		<nd ref="61324422"/>
+		<nd ref="7047225042"/>
+		<nd ref="2657922595"/>
+		<nd ref="7047225043"/>
+		<nd ref="61324424"/>
+		<nd ref="7047225044"/>
+		<nd ref="1162004821"/>
+		<nd ref="7047242449"/>
+		<nd ref="61324426"/>
+		<nd ref="61324428"/>
+		<nd ref="7047242453"/>
+		<nd ref="2657922596"/>
+		<nd ref="2657922590"/>
+		<nd ref="2657922589"/>
+		<nd ref="7629088400"/>
+		<nd ref="2657922597"/>
+		<nd ref="7047242450"/>
+		<nd ref="7047242452"/>
+		<nd ref="7068094445"/>
+		<nd ref="61324414"/>
+		<tag k="NHS" v="yes"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="expressway" v="yes"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="3"/>
+		<tag k="lit" v="yes"/>
+		<tag k="massgis:way_id" v="185017"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="name" v="Fresh Pond Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="US 3;MA 2"/>
+		<tag k="sidewalk:right" v="yes"/>
+		<tag k="source" v="massgis_import_v0.1_20071008165629"/>
+		<tag k="width" v="38.1"/>
+	</way>
+<way id="924163105">
+		<nd ref="61323548"/>
+		<nd ref="7067926862"/>
+		<nd ref="7067926860"/>
+		<nd ref="61328883"/>
+		<nd ref="7067926859"/>
+		<nd ref="7067926863"/>
+		<nd ref="2657910924"/>
+		<nd ref="7067926858"/>
+		<nd ref="7067926861"/>
+		<nd ref="61328885"/>
+		<nd ref="7067425874"/>
+		<nd ref="7067425875"/>
+		<nd ref="7064518640"/>
+		<nd ref="7064518642"/>
+		<nd ref="7064518641"/>
+		<nd ref="61328886"/>
+		<nd ref="7064518638"/>
+		<nd ref="2657910932"/>
+		<nd ref="7064518637"/>
+		<nd ref="2657910963"/>
+		<nd ref="61328888"/>
+		<nd ref="7064518639"/>
+		<nd ref="2657911018"/>
+		<nd ref="2657910920"/>
+		<nd ref="7064518643"/>
+		<nd ref="61328890"/>
+		<nd ref="7064589071"/>
+		<nd ref="2657911012"/>
+		<nd ref="7064589074"/>
+		<nd ref="61328892"/>
+		<nd ref="7064589080"/>
+		<nd ref="7064589076"/>
+		<nd ref="2657910935"/>
+		<nd ref="2657910965"/>
+		<nd ref="7064589069"/>
+		<nd ref="61328894"/>
+		<nd ref="2657910985"/>
+		<nd ref="7064589077"/>
+		<nd ref="2657910993"/>
+		<nd ref="7064589070"/>
+		<nd ref="7064589072"/>
+		<nd ref="61328896"/>
+		<tag k="NHS" v="yes"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:both" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="4"/>
+		<tag k="lit" v="yes"/>
+		<tag k="massgis:way_id" v="185017"/>
+		<tag k="name" v="Fresh Pond Parkway"/>
+		<tag k="ref" v="US 3;MA 2"/>
+		<tag k="sidewalk:both" v="separate"/>
+		<tag k="source" v="massgis_import_v0.1_20071008165629"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="15.2"/>
+	</way>
+<way id="924332810">
+		<nd ref="61328896"/>
+		<nd ref="2657910930"/>
+		<nd ref="7064589078"/>
+		<nd ref="61329393"/>
+		<nd ref="7064589075"/>
+		<nd ref="2657910968"/>
+		<nd ref="7064589082"/>
+		<nd ref="7064543674"/>
+		<nd ref="7064589073"/>
+		<nd ref="2657911029"/>
+		<nd ref="7064589081"/>
+		<nd ref="61329395"/>
+		<nd ref="11885601581"/>
+		<nd ref="6745696144"/>
+		<nd ref="61318561"/>
+		<tag k="NHS" v="yes"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="cycleway:both" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="4"/>
+		<tag k="massgis:way_id" v="185017"/>
+		<tag k="name" v="Fresh Pond Parkway"/>
+		<tag k="parking:both" v="no"/>
+		<tag k="ref" v="US 3;MA 2"/>
+		<tag k="sidewalk:both" v="separate"/>
+		<tag k="source" v="massgis_import_v0.1_20071008165629"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="width" v="15.2"/>
+	</way>
+<way id="1105910926">
+		<nd ref="10109181027"/>
+		<nd ref="9652968369"/>
+		<nd ref="941442904"/>
+		<tag k="NHS" v="yes"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="expressway" v="yes"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="2"/>
+		<tag k="massgis:way_id" v="185017"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="name" v="Fresh Pond Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="US 3;MA 2"/>
+		<tag k="source" v="massgis_import_v0.1_20071008165629"/>
+		<tag k="width" v="38.1"/>
+	</way>
+<way id="1108492416">
+		<nd ref="61326063"/>
+		<nd ref="12552950465"/>
+		<nd ref="12552950466"/>
+		<nd ref="7080681738"/>
+		<nd ref="61326065"/>
+		<nd ref="10109181027"/>
+		<tag k="NHS" v="yes"/>
+		<tag k="attribution" v="Office of Geographic and Environmental Information (MassGIS)"/>
+		<tag k="condition" v="fair"/>
+		<tag k="expressway" v="yes"/>
+		<tag k="foot" v="no"/>
+		<tag k="hgv" v="yes"/>
+		<tag k="highway" v="trunk"/>
+		<tag k="lanes" v="3"/>
+		<tag k="massgis:way_id" v="185017"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="name" v="Fresh Pond Parkway"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="ref" v="US 3;MA 2"/>
+		<tag k="source" v="massgis_import_v0.1_20071008165629"/>
+		<tag k="turn:lanes" v="through|through|right"/>
+		<tag k="width" v="38.1"/>
+	</way>
+  </modify>
+</osmChange>
