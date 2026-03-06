@@ -27,7 +27,7 @@ while [[ $# -gt 0 ]]; do
     -k|--search-key)
       shift
       search_key=$(escape_spaces "$1")
-      shift 
+      shift
       ;;
     -v|--search-value)
       shift
@@ -65,7 +65,7 @@ if [[ "$cached" = true ]]; then
   echo "Using existing files/data.osm file"
 else
   echo "Downloading osm data"
-  wget http://download.geofabrik.de/north-america/us/massachusetts-latest.osm.pbf -O files/data.osm.pbf
+  wget https://mbta-map-tiles.s3.us-east-1.amazonaws.com/data/osm/massachusetts-latest.osm.pbf -O files/data.osm.pbf
 
   echo "Converting osm.pbf file to o5m format"
   osmconvert files/data.osm.pbf -o=files/data.o5m
