@@ -18,4 +18,5 @@ FROM openrouteservice/openrouteservice:v${OPEN_ROUTE_SERVICE_VERSION}
 RUN apk upgrade --no-cache -f --purge
 
 COPY --from=builder /home/ors/graphs graphs
+COPY cert_override/blocked.certs /usr/lib/jvm/java-21-amazon-corretto/lib/security/blocked.certs
 COPY ors-config.yml config/ors-config.yml
